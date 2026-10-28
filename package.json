@@ -1,0 +1,11 @@
+{
+  "name": "rulebook",
+  "private": true,
+  "type": "module",
+  "description": "Guess the sport from its most obscure rules.",
+  "scripts": {
+    "start": "node scripts/serve.mjs",
+    "test": "node --test tests/*.test.mjs",
+    "validate": "node scripts/validate-clues.mjs"
+  }
+}

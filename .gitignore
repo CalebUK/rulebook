@@ -1,0 +1,6 @@
+# Source rulebooks are copyrighted and large; keep them local only.
+rulebooks/
+rulebooks_text/
+dist/
+node_modules/
+.claude/settings.local.json

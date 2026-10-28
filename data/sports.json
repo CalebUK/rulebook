@@ -1,0 +1,2116 @@
+{
+  "families": {
+    "football": "Football codes",
+    "stick": "Stick and ball/puck sports",
+    "bat": "Bat and ball sports",
+    "court": "Hand-ball team games",
+    "net": "Net, racket and wall games",
+    "target": "Target, cue and precision sports",
+    "water": "Water sports",
+    "contact": "Combat, tag and contact sports",
+    "racing": "Racing, timed and judged sports",
+    "disc": "Flying disc sports",
+    "mind": "Mind sports"
+  },
+  "sports": [
+    {
+      "id": "soccer",
+      "name": "Football (soccer)",
+      "aliases": [
+        "soccer",
+        "association football",
+        "football",
+        "futbol",
+        "fútbol"
+      ],
+      "family": "football",
+      "pool": "daily",
+      "sources": [
+        "soccer_ifab.pdf"
+      ],
+      "blurb": "Eleven-a-side football where only the goalkeeper may handle the ball.",
+      "tellWords": {
+        "never": [
+          "soccer",
+          "football",
+          "IFAB",
+          "FIFA"
+        ],
+        "level4": [
+          "offside",
+          "penalty area",
+          "goalkeeper",
+          "throw-in",
+          "corner kick"
+        ]
+      }
+    },
+    {
+      "id": "futsal",
+      "name": "Futsal",
+      "aliases": [
+        "indoor soccer",
+        "five-a-side"
+      ],
+      "family": "football",
+      "pool": "daily",
+      "sources": [
+        "futsal.pdf"
+      ],
+      "blurb": "Five-a-side indoor football on a hard court with a smaller, low-bounce ball.",
+      "tellWords": {
+        "never": [
+          "futsal",
+          "FIFA"
+        ],
+        "level4": [
+          "kick-in",
+          "goalkeeper",
+          "accumulated fouls"
+        ]
+      }
+    },
+    {
+      "id": "beach_soccer",
+      "name": "Beach soccer",
+      "aliases": [
+        "beach football",
+        "sand soccer"
+      ],
+      "family": "football",
+      "pool": "deep",
+      "sources": [
+        "beach_soccer.pdf"
+      ],
+      "blurb": "Five-a-side football played barefoot on sand.",
+      "tellWords": {
+        "never": [
+          "beach soccer",
+          "FIFA"
+        ],
+        "level4": [
+          "sand",
+          "barefoot",
+          "bicycle kick"
+        ]
+      }
+    },
+    {
+      "id": "american_football",
+      "name": "American football",
+      "aliases": [
+        "gridiron",
+        "nfl",
+        "college football",
+        "football"
+      ],
+      "family": "football",
+      "pool": "daily",
+      "sources": [
+        "nfl_2026.pdf",
+        "college_football_ncaa.pdf"
+      ],
+      "blurb": "Eleven-a-side gridiron game of downs, forward passes and touchdowns.",
+      "tellWords": {
+        "never": [
+          "NFL",
+          "NCAA",
+          "American football"
+        ],
+        "level4": [
+          "touchdown",
+          "down",
+          "line of scrimmage",
+          "quarterback",
+          "field goal",
+          "end zone"
+        ]
+      }
+    },
+    {
+      "id": "canadian_football",
+      "name": "Canadian football",
+      "aliases": [
+        "cfl",
+        "football"
+      ],
+      "family": "football",
+      "pool": "deep",
+      "sources": [
+        "canadian_football_amateur.pdf"
+      ],
+      "blurb": "Twelve-a-side gridiron football with three downs and a 110-yard field.",
+      "tellWords": {
+        "never": [
+          "Canadian",
+          "CFL",
+          "Football Canada"
+        ],
+        "level4": [
+          "rouge",
+          "single",
+          "touchdown",
+          "down",
+          "scrimmage"
+        ]
+      }
+    },
+    {
+      "id": "australian_football",
+      "name": "Australian rules football",
+      "aliases": [
+        "aussie rules",
+        "afl",
+        "footy",
+        "football"
+      ],
+      "family": "football",
+      "pool": "daily",
+      "sources": [
+        "australian_football.pdf"
+      ],
+      "blurb": "Eighteen-a-side kicking game on an oval, scored with goals and behinds.",
+      "tellWords": {
+        "never": [
+          "AFL",
+          "Australian"
+        ],
+        "level4": [
+          "behind",
+          "mark",
+          "goal umpire",
+          "ruck",
+          "bounce"
+        ]
+      }
+    },
+    {
+      "id": "gaelic_football",
+      "name": "Gaelic football",
+      "aliases": [
+        "gaa football",
+        "gaelic",
+        "football"
+      ],
+      "family": "football",
+      "pool": "daily",
+      "sources": [
+        "gaelic_hurling_gaa.pdf"
+      ],
+      "blurb": "Irish fifteen-a-side game mixing kicking and hand-passing, with points over the bar and goals under it.",
+      "tellWords": {
+        "never": [
+          "Gaelic",
+          "GAA"
+        ],
+        "level4": [
+          "solo",
+          "hand-pass",
+          "square",
+          "mark"
+        ]
+      }
+    },
+    {
+      "id": "rugby_union",
+      "name": "Rugby union",
+      "aliases": [
+        "rugby",
+        "rugby xv"
+      ],
+      "family": "football",
+      "pool": "daily",
+      "sources": [
+        "rugby_union.pdf"
+      ],
+      "blurb": "Fifteen-a-side handling game with scrums, lineouts and backward passes only.",
+      "tellWords": {
+        "never": [
+          "rugby",
+          "World Rugby"
+        ],
+        "level4": [
+          "scrum",
+          "lineout",
+          "ruck",
+          "maul",
+          "try",
+          "conversion"
+        ]
+      }
+    },
+    {
+      "id": "rugby_league",
+      "name": "Rugby league",
+      "aliases": [
+        "league",
+        "rugby xiii"
+      ],
+      "family": "football",
+      "pool": "daily",
+      "sources": [
+        "rugby_league.pdf"
+      ],
+      "blurb": "Thirteen-a-side rugby built around six tackles per possession.",
+      "tellWords": {
+        "never": [
+          "rugby",
+          "IRL"
+        ],
+        "level4": [
+          "play-the-ball",
+          "tackle count",
+          "scrum",
+          "try"
+        ]
+      }
+    },
+    {
+      "id": "touch_football",
+      "name": "Touch football",
+      "aliases": [
+        "touch rugby",
+        "touch"
+      ],
+      "family": "football",
+      "pool": "deep",
+      "sources": [
+        "touch_football.pdf"
+      ],
+      "blurb": "Non-contact rugby variant where a touch replaces the tackle.",
+      "tellWords": {
+        "never": [
+          "touch football",
+          "Touch Football Australia"
+        ],
+        "level4": [
+          "rollball",
+          "touchdown",
+          "touch"
+        ]
+      }
+    },
+    {
+      "id": "ice_hockey",
+      "name": "Ice hockey",
+      "aliases": [
+        "hockey",
+        "nhl",
+        "iihf"
+      ],
+      "family": "stick",
+      "pool": "daily",
+      "sources": [
+        "ice_hockey_iihf.pdf"
+      ],
+      "blurb": "Six-a-side game on ice with sticks and a rubber puck.",
+      "tellWords": {
+        "never": [
+          "IIHF",
+          "hockey"
+        ],
+        "level4": [
+          "puck",
+          "icing",
+          "power play",
+          "blue line",
+          "face-off"
+        ]
+      }
+    },
+    {
+      "id": "field_hockey",
+      "name": "Field hockey",
+      "aliases": [
+        "hockey",
+        "fih"
+      ],
+      "family": "stick",
+      "pool": "daily",
+      "sources": [
+        "field_hockey.pdf"
+      ],
+      "blurb": "Eleven-a-side stick game on turf where only the flat side of the stick may touch the ball.",
+      "tellWords": {
+        "never": [
+          "FIH",
+          "hockey"
+        ],
+        "level4": [
+          "penalty corner",
+          "circle",
+          "flat side",
+          "stick"
+        ]
+      }
+    },
+    {
+      "id": "bandy",
+      "name": "Bandy",
+      "aliases": [
+        "russian hockey"
+      ],
+      "family": "stick",
+      "pool": "deep",
+      "sources": [
+        "bandy.pdf"
+      ],
+      "blurb": "Hockey's older cousin: eleven-a-side with a ball on a soccer-sized ice field.",
+      "tellWords": {
+        "never": [
+          "bandy",
+          "FIB"
+        ],
+        "level4": [
+          "ice",
+          "stick",
+          "skates"
+        ]
+      }
+    },
+    {
+      "id": "floorball",
+      "name": "Floorball",
+      "aliases": [
+        "unihockey",
+        "innebandy"
+      ],
+      "family": "stick",
+      "pool": "deep",
+      "sources": [
+        "floorball.pdf"
+      ],
+      "blurb": "Indoor stick game with a light plastic ball full of holes.",
+      "tellWords": {
+        "never": [
+          "floorball",
+          "IFF"
+        ],
+        "level4": [
+          "perforated ball",
+          "rink",
+          "stick"
+        ]
+      }
+    },
+    {
+      "id": "rink_hockey",
+      "name": "Rink hockey",
+      "aliases": [
+        "roller hockey",
+        "quad hockey"
+      ],
+      "family": "stick",
+      "pool": "deep",
+      "sources": [
+        "rink_hockey.pdf"
+      ],
+      "blurb": "Hockey on quad roller skates with a ball and curved sticks.",
+      "tellWords": {
+        "never": [
+          "rink hockey",
+          "World Skate"
+        ],
+        "level4": [
+          "skates",
+          "stick"
+        ]
+      }
+    },
+    {
+      "id": "ringette",
+      "name": "Ringette",
+      "aliases": [],
+      "family": "stick",
+      "pool": "deep",
+      "sources": [
+        "ringette.pdf"
+      ],
+      "blurb": "Canadian ice game using a straight stick and a rubber ring.",
+      "tellWords": {
+        "never": [
+          "ringette",
+          "Ringette Canada"
+        ],
+        "level4": [
+          "ring",
+          "free pass",
+          "ice"
+        ]
+      }
+    },
+    {
+      "id": "hurling",
+      "name": "Hurling",
+      "aliases": [
+        "gaa hurling"
+      ],
+      "family": "stick",
+      "pool": "daily",
+      "sources": [
+        "gaelic_hurling_gaa.pdf"
+      ],
+      "blurb": "Fast Irish stick game played with a hurley and a sliotar.",
+      "tellWords": {
+        "never": [
+          "hurling",
+          "GAA"
+        ],
+        "level4": [
+          "hurley",
+          "sliotar",
+          "camán",
+          "bas"
+        ]
+      }
+    },
+    {
+      "id": "camogie",
+      "name": "Camogie",
+      "aliases": [],
+      "family": "stick",
+      "pool": "deep",
+      "sources": [
+        "camogie.pdf"
+      ],
+      "blurb": "The women's version of hurling, run by its own association.",
+      "tellWords": {
+        "never": [
+          "camogie",
+          "Camogie Association"
+        ],
+        "level4": [
+          "hurley",
+          "sliotar",
+          "camán"
+        ]
+      }
+    },
+    {
+      "id": "shinty",
+      "name": "Shinty",
+      "aliases": [
+        "camanachd"
+      ],
+      "family": "stick",
+      "pool": "deep",
+      "sources": [
+        "shinty.pdf"
+      ],
+      "blurb": "Scottish Highland stick game, a close relative of hurling.",
+      "tellWords": {
+        "never": [
+          "shinty",
+          "Camanachd"
+        ],
+        "level4": [
+          "caman",
+          "hail",
+          "throw-up"
+        ]
+      }
+    },
+    {
+      "id": "lacrosse",
+      "name": "Lacrosse",
+      "aliases": [
+        "lax",
+        "sixes"
+      ],
+      "family": "stick",
+      "pool": "daily",
+      "sources": [
+        "lacrosse_men.pdf",
+        "lacrosse_sixes.pdf"
+      ],
+      "blurb": "Ball game played with netted sticks, rooted in Indigenous North American games.",
+      "tellWords": {
+        "never": [
+          "lacrosse",
+          "World Lacrosse"
+        ],
+        "level4": [
+          "crosse",
+          "pocket",
+          "crease",
+          "face-off"
+        ]
+      }
+    },
+    {
+      "id": "underwater_hockey",
+      "name": "Underwater hockey",
+      "aliases": [
+        "octopush"
+      ],
+      "family": "stick",
+      "pool": "deep",
+      "sources": [
+        "underwater_hockey.pdf"
+      ],
+      "blurb": "Six-a-side hockey on the bottom of a pool, played with snorkels and short sticks.",
+      "tellWords": {
+        "never": [
+          "underwater hockey",
+          "octopush",
+          "CMAS"
+        ],
+        "level4": [
+          "snorkel",
+          "puck",
+          "pool",
+          "fins"
+        ]
+      }
+    },
+    {
+      "id": "polo",
+      "name": "Polo",
+      "aliases": [
+        "horse polo"
+      ],
+      "family": "stick",
+      "pool": "daily",
+      "sources": [
+        "polo.pdf"
+      ],
+      "blurb": "Four-a-side mallet game played on horseback.",
+      "tellWords": {
+        "never": [
+          "polo",
+          "USPA"
+        ],
+        "level4": [
+          "chukker",
+          "pony",
+          "mallet",
+          "line of the ball"
+        ]
+      }
+    },
+    {
+      "id": "polocrosse",
+      "name": "Polocrosse",
+      "aliases": [],
+      "family": "stick",
+      "pool": "deep",
+      "sources": [
+        "polocrosse.pdf"
+      ],
+      "blurb": "Polo crossed with lacrosse: riders carry the ball in a netted racquet.",
+      "tellWords": {
+        "never": [
+          "polocrosse"
+        ],
+        "level4": [
+          "horse",
+          "racquet",
+          "chukka"
+        ]
+      }
+    },
+    {
+      "id": "baseball",
+      "name": "Baseball",
+      "aliases": [
+        "mlb",
+        "hardball"
+      ],
+      "family": "bat",
+      "pool": "daily",
+      "sources": [
+        "baseball_mlb.pdf"
+      ],
+      "blurb": "Nine-a-side bat-and-ball game of innings, strikes and home runs.",
+      "tellWords": {
+        "never": [
+          "baseball",
+          "MLB"
+        ],
+        "level4": [
+          "pitcher",
+          "strike",
+          "inning",
+          "home plate",
+          "batter"
+        ]
+      }
+    },
+    {
+      "id": "softball",
+      "name": "Softball",
+      "aliases": [
+        "slow pitch",
+        "fast pitch"
+      ],
+      "family": "bat",
+      "pool": "daily",
+      "sources": [
+        "softball_slowpitch.pdf"
+      ],
+      "blurb": "Baseball's cousin with a larger ball, smaller field and underhand pitching.",
+      "tellWords": {
+        "never": [
+          "softball",
+          "WBSC"
+        ],
+        "level4": [
+          "pitcher",
+          "strike",
+          "inning",
+          "home plate"
+        ]
+      }
+    },
+    {
+      "id": "cricket",
+      "name": "Cricket",
+      "aliases": [
+        "test cricket",
+        "t20"
+      ],
+      "family": "bat",
+      "pool": "daily",
+      "sources": [
+        "cricket.docx"
+      ],
+      "blurb": "Eleven-a-side bat-and-ball game of overs, wickets and runs.",
+      "tellWords": {
+        "never": [
+          "cricket",
+          "MCC"
+        ],
+        "level4": [
+          "wicket",
+          "bails",
+          "over",
+          "bowler",
+          "crease",
+          "stumps",
+          "lbw"
+        ]
+      }
+    },
+    {
+      "id": "rounders",
+      "name": "Rounders",
+      "aliases": [
+        "gaa rounders"
+      ],
+      "family": "bat",
+      "pool": "deep",
+      "sources": [
+        "rounders.pdf"
+      ],
+      "blurb": "Bat-and-ball game with posts or bases, a forerunner of baseball.",
+      "tellWords": {
+        "never": [
+          "rounders",
+          "GAA"
+        ],
+        "level4": [
+          "post",
+          "base",
+          "pitcher"
+        ]
+      }
+    },
+    {
+      "id": "basketball",
+      "name": "Basketball",
+      "aliases": [
+        "nba",
+        "fiba",
+        "hoops"
+      ],
+      "family": "court",
+      "pool": "daily",
+      "sources": [
+        "basketball_fiba.pdf",
+        "basketball_nba.pdf"
+      ],
+      "blurb": "Five-a-side game of dribbling and shooting through a raised hoop.",
+      "tellWords": {
+        "never": [
+          "basketball",
+          "NBA",
+          "FIBA"
+        ],
+        "level4": [
+          "basket",
+          "dribble",
+          "traveling",
+          "shot clock",
+          "free throw",
+          "rebound"
+        ]
+      }
+    },
+    {
+      "id": "netball",
+      "name": "Netball",
+      "aliases": [],
+      "family": "court",
+      "pool": "daily",
+      "sources": [
+        "netball.pdf"
+      ],
+      "blurb": "Seven-a-side passing game with no dribbling and positions locked to court zones.",
+      "tellWords": {
+        "never": [
+          "netball",
+          "World Netball"
+        ],
+        "level4": [
+          "goal circle",
+          "centre pass",
+          "footwork",
+          "goal shooter"
+        ]
+      }
+    },
+    {
+      "id": "handball",
+      "name": "Handball",
+      "aliases": [
+        "team handball",
+        "olympic handball"
+      ],
+      "family": "court",
+      "pool": "daily",
+      "sources": [
+        "handball.pdf"
+      ],
+      "blurb": "Seven-a-side indoor game of throwing a ball into a goal from outside a 6-metre area.",
+      "tellWords": {
+        "never": [
+          "handball",
+          "IHF"
+        ],
+        "level4": [
+          "goal area",
+          "7-metre throw",
+          "passive play"
+        ]
+      }
+    },
+    {
+      "id": "korfball",
+      "name": "Korfball",
+      "aliases": [],
+      "family": "court",
+      "pool": "deep",
+      "sources": [
+        "korfball.pdf"
+      ],
+      "blurb": "Dutch mixed-gender game shooting into a basket on a tall post with no backboard.",
+      "tellWords": {
+        "never": [
+          "korfball",
+          "korf",
+          "IKF"
+        ],
+        "level4": [
+          "post",
+          "defended",
+          "division"
+        ]
+      }
+    },
+    {
+      "id": "tchoukball",
+      "name": "Tchoukball",
+      "aliases": [],
+      "family": "court",
+      "pool": "deep",
+      "sources": [
+        "tchoukball.pdf"
+      ],
+      "blurb": "Non-contact game where players score by bouncing a ball off rebound frames.",
+      "tellWords": {
+        "never": [
+          "tchoukball",
+          "FITB"
+        ],
+        "level4": [
+          "frame",
+          "rebound",
+          "forbidden zone"
+        ]
+      }
+    },
+    {
+      "id": "kin_ball",
+      "name": "Kin-Ball",
+      "aliases": [
+        "kinball",
+        "omnikin"
+      ],
+      "family": "court",
+      "pool": "deep",
+      "sources": [
+        "kin_ball_spanish.pdf"
+      ],
+      "blurb": "Three teams play at once with a giant 1.22 m ball.",
+      "tellWords": {
+        "never": [
+          "kin-ball",
+          "omnikin"
+        ],
+        "level4": [
+          "omnikin",
+          "three teams"
+        ]
+      }
+    },
+    {
+      "id": "goalball",
+      "name": "Goalball",
+      "aliases": [],
+      "family": "court",
+      "pool": "deep",
+      "sources": [
+        "goalball.pdf"
+      ],
+      "blurb": "Paralympic team sport for visually impaired athletes using a ball with bells inside.",
+      "tellWords": {
+        "never": [
+          "goalball",
+          "IBSA"
+        ],
+        "level4": [
+          "eyeshades",
+          "bells",
+          "blindfold"
+        ]
+      }
+    },
+    {
+      "id": "dodgeball",
+      "name": "Dodgeball",
+      "aliases": [
+        "dodge ball"
+      ],
+      "family": "court",
+      "pool": "daily",
+      "sources": [
+        "dodgeball.pdf"
+      ],
+      "blurb": "Teams throw balls to eliminate opponents and catch throws to bring teammates back.",
+      "tellWords": {
+        "never": [
+          "dodgeball",
+          "WDBF"
+        ],
+        "level4": [
+          "eliminated",
+          "catch",
+          "headshot"
+        ]
+      }
+    },
+    {
+      "id": "quadball",
+      "name": "Quadball",
+      "aliases": [
+        "quidditch",
+        "muggle quidditch"
+      ],
+      "family": "court",
+      "pool": "deep",
+      "sources": [
+        "quadball.pdf"
+      ],
+      "blurb": "Mixed-gender contact sport played with brooms between the legs and a flag-runner.",
+      "tellWords": {
+        "never": [
+          "quadball",
+          "quidditch",
+          "IQA"
+        ],
+        "level4": [
+          "broom",
+          "bludger",
+          "seeker",
+          "flag runner",
+          "hoops"
+        ]
+      }
+    },
+    {
+      "id": "wheelchair_rugby",
+      "name": "Wheelchair rugby",
+      "aliases": [
+        "murderball",
+        "quad rugby"
+      ],
+      "family": "court",
+      "pool": "deep",
+      "sources": [
+        "wheelchair_rugby.pdf"
+      ],
+      "blurb": "Full-contact Paralympic team sport played in armoured wheelchairs.",
+      "tellWords": {
+        "never": [
+          "wheelchair rugby",
+          "WWR"
+        ],
+        "level4": [
+          "wheelchair",
+          "classification points",
+          "key"
+        ]
+      }
+    },
+    {
+      "id": "tennis",
+      "name": "Tennis",
+      "aliases": [
+        "lawn tennis",
+        "itf"
+      ],
+      "family": "net",
+      "pool": "daily",
+      "sources": [
+        "tennis_canada.pdf"
+      ],
+      "blurb": "Racket game over a net scored love, 15, 30, 40, game.",
+      "tellWords": {
+        "never": [
+          "tennis",
+          "ITF",
+          "ATP",
+          "WTA"
+        ],
+        "level4": [
+          "deuce",
+          "let",
+          "service box",
+          "racket",
+          "love"
+        ]
+      }
+    },
+    {
+      "id": "badminton",
+      "name": "Badminton",
+      "aliases": [],
+      "family": "net",
+      "pool": "daily",
+      "sources": [
+        "badminton.pdf"
+      ],
+      "blurb": "Racket game hitting a feathered shuttlecock over a high net.",
+      "tellWords": {
+        "never": [
+          "badminton",
+          "BWF"
+        ],
+        "level4": [
+          "shuttle",
+          "shuttlecock",
+          "feathers",
+          "racket"
+        ]
+      }
+    },
+    {
+      "id": "table_tennis",
+      "name": "Table tennis",
+      "aliases": [
+        "ping pong",
+        "ping-pong",
+        "ittf"
+      ],
+      "family": "net",
+      "pool": "daily",
+      "sources": [
+        "table_tennis.pdf"
+      ],
+      "blurb": "Fast racket game on a table, played to 11 points.",
+      "tellWords": {
+        "never": [
+          "table tennis",
+          "ping pong",
+          "ITTF"
+        ],
+        "level4": [
+          "table",
+          "racket",
+          "rubber",
+          "let"
+        ]
+      }
+    },
+    {
+      "id": "squash",
+      "name": "Squash",
+      "aliases": [
+        "squash rackets"
+      ],
+      "family": "net",
+      "pool": "daily",
+      "sources": [
+        "squash.pdf"
+      ],
+      "blurb": "Racket game in a four-walled court, hitting a hollow rubber ball above a tin.",
+      "tellWords": {
+        "never": [
+          "squash"
+        ],
+        "level4": [
+          "tin",
+          "let",
+          "stroke",
+          "front wall"
+        ]
+      }
+    },
+    {
+      "id": "racquetball",
+      "name": "Racquetball",
+      "aliases": [],
+      "family": "net",
+      "pool": "deep",
+      "sources": [
+        "racquetball.pdf"
+      ],
+      "blurb": "Racket game in an enclosed court where the ceiling is in play.",
+      "tellWords": {
+        "never": [
+          "racquetball",
+          "USA Racquetball"
+        ],
+        "level4": [
+          "ceiling",
+          "front wall",
+          "hinder"
+        ]
+      }
+    },
+    {
+      "id": "padel",
+      "name": "Padel",
+      "aliases": [
+        "paddle tennis"
+      ],
+      "family": "net",
+      "pool": "daily",
+      "sources": [
+        "padel.pdf"
+      ],
+      "blurb": "Doubles racket game in a glass-walled court, serving underhand.",
+      "tellWords": {
+        "never": [
+          "padel",
+          "FIP"
+        ],
+        "level4": [
+          "glass",
+          "wall",
+          "mesh",
+          "paddle"
+        ]
+      }
+    },
+    {
+      "id": "pickleball",
+      "name": "Pickleball",
+      "aliases": [],
+      "family": "net",
+      "pool": "daily",
+      "sources": [
+        "pickleball.pdf"
+      ],
+      "blurb": "Paddle game on a small court with a plastic ball and a no-volley kitchen.",
+      "tellWords": {
+        "never": [
+          "pickleball",
+          "USA Pickleball"
+        ],
+        "level4": [
+          "kitchen",
+          "non-volley zone",
+          "paddle",
+          "dink"
+        ]
+      }
+    },
+    {
+      "id": "volleyball",
+      "name": "Volleyball",
+      "aliases": [
+        "indoor volleyball",
+        "fivb"
+      ],
+      "family": "net",
+      "pool": "daily",
+      "sources": [
+        "volleyball.pdf"
+      ],
+      "blurb": "Six-a-side net game, three touches per side.",
+      "tellWords": {
+        "never": [
+          "volleyball",
+          "FIVB"
+        ],
+        "level4": [
+          "libero",
+          "rotation",
+          "set",
+          "spike",
+          "block"
+        ]
+      }
+    },
+    {
+      "id": "beach_volleyball",
+      "name": "Beach volleyball",
+      "aliases": [
+        "beach volley"
+      ],
+      "family": "net",
+      "pool": "daily",
+      "sources": [
+        "beach_volleyball.pdf"
+      ],
+      "blurb": "Two-a-side volleyball on sand.",
+      "tellWords": {
+        "never": [
+          "volleyball",
+          "FIVB"
+        ],
+        "level4": [
+          "sand",
+          "block",
+          "set"
+        ]
+      }
+    },
+    {
+      "id": "sepak_takraw",
+      "name": "Sepak takraw",
+      "aliases": [
+        "kick volleyball",
+        "takraw"
+      ],
+      "family": "net",
+      "pool": "deep",
+      "sources": [
+        "sepak_takraw.pdf"
+      ],
+      "blurb": "Southeast Asian net game: volleyball played with feet, knees and head.",
+      "tellWords": {
+        "never": [
+          "sepak takraw",
+          "takraw",
+          "ISTAF"
+        ],
+        "level4": [
+          "regu",
+          "tekong",
+          "rattan"
+        ]
+      }
+    },
+    {
+      "id": "teqball",
+      "name": "Teqball",
+      "aliases": [],
+      "family": "net",
+      "pool": "deep",
+      "sources": [
+        "teqball.pdf"
+      ],
+      "blurb": "Football skills on a curved table: hit the ball over the net with anything but hands.",
+      "tellWords": {
+        "never": [
+          "teqball",
+          "FITEQ"
+        ],
+        "level4": [
+          "curved table",
+          "net"
+        ]
+      }
+    },
+    {
+      "id": "gaelic_handball",
+      "name": "Gaelic handball",
+      "aliases": [
+        "irish handball",
+        "handball"
+      ],
+      "family": "net",
+      "pool": "deep",
+      "sources": [
+        "gaelic_handball.pdf"
+      ],
+      "blurb": "Irish wall game hitting a ball with the hand, like squash without rackets.",
+      "tellWords": {
+        "never": [
+          "GAA Handball",
+          "Irish Handball Council"
+        ],
+        "level4": [
+          "front wall",
+          "hinder",
+          "ace"
+        ]
+      }
+    },
+    {
+      "id": "golf",
+      "name": "Golf",
+      "aliases": [],
+      "family": "target",
+      "pool": "daily",
+      "sources": [
+        "golf.pdf"
+      ],
+      "blurb": "Getting a ball into a series of holes in as few strokes as possible.",
+      "tellWords": {
+        "never": [
+          "golf",
+          "R&A",
+          "USGA"
+        ],
+        "level4": [
+          "hole",
+          "tee",
+          "putting green",
+          "bunker",
+          "club",
+          "caddie"
+        ]
+      }
+    },
+    {
+      "id": "disc_golf",
+      "name": "Disc golf",
+      "aliases": [
+        "frisbee golf",
+        "frolf"
+      ],
+      "family": "disc",
+      "pool": "daily",
+      "sources": [
+        "disc_golf.html"
+      ],
+      "blurb": "Golf played by throwing discs into chain baskets.",
+      "tellWords": {
+        "never": [
+          "disc golf",
+          "PDGA"
+        ],
+        "level4": [
+          "basket",
+          "disc",
+          "lie",
+          "tee"
+        ]
+      }
+    },
+    {
+      "id": "archery",
+      "name": "Archery",
+      "aliases": [],
+      "family": "target",
+      "pool": "daily",
+      "sources": [
+        "archery.pdf"
+      ],
+      "blurb": "Shooting arrows at a target from a set distance.",
+      "tellWords": {
+        "never": [
+          "archery",
+          "World Archery"
+        ],
+        "level4": [
+          "arrow",
+          "bow",
+          "target face",
+          "shooting line",
+          "end"
+        ]
+      }
+    },
+    {
+      "id": "darts",
+      "name": "Darts",
+      "aliases": [],
+      "family": "target",
+      "pool": "daily",
+      "sources": [
+        "darts.pdf"
+      ],
+      "blurb": "Throwing darts at a numbered board, usually counting down from 501.",
+      "tellWords": {
+        "never": [
+          "darts",
+          "WDF"
+        ],
+        "level4": [
+          "dartboard",
+          "double",
+          "bull",
+          "oche",
+          "501"
+        ]
+      }
+    },
+    {
+      "id": "curling",
+      "name": "Curling",
+      "aliases": [],
+      "family": "target",
+      "pool": "daily",
+      "sources": [
+        "curling.pdf"
+      ],
+      "blurb": "Sliding granite stones toward a target on ice while teammates sweep.",
+      "tellWords": {
+        "never": [
+          "curling",
+          "World Curling"
+        ],
+        "level4": [
+          "stone",
+          "house",
+          "hog line",
+          "sweep",
+          "end",
+          "skip",
+          "button"
+        ]
+      }
+    },
+    {
+      "id": "bowling",
+      "name": "Ten-pin bowling",
+      "aliases": [
+        "bowling",
+        "tenpin",
+        "usbc"
+      ],
+      "family": "target",
+      "pool": "daily",
+      "sources": [
+        "bowling_usbc.pdf"
+      ],
+      "blurb": "Rolling a ball down a lane to knock over ten pins.",
+      "tellWords": {
+        "never": [
+          "bowling",
+          "USBC"
+        ],
+        "level4": [
+          "pins",
+          "lane",
+          "strike",
+          "spare",
+          "foul line",
+          "frame"
+        ]
+      }
+    },
+    {
+      "id": "lawn_bowls",
+      "name": "Lawn bowls",
+      "aliases": [
+        "bowls",
+        "bowling green"
+      ],
+      "family": "target",
+      "pool": "daily",
+      "sources": [
+        "lawn_bowls.pdf"
+      ],
+      "blurb": "Rolling biased bowls as close as possible to a small white jack.",
+      "tellWords": {
+        "never": [
+          "bowls",
+          "World Bowls"
+        ],
+        "level4": [
+          "jack",
+          "bias",
+          "rink",
+          "mat",
+          "end"
+        ]
+      }
+    },
+    {
+      "id": "petanque",
+      "name": "Pétanque",
+      "aliases": [
+        "petanque",
+        "boules"
+      ],
+      "family": "target",
+      "pool": "daily",
+      "sources": [
+        "petanque.pdf"
+      ],
+      "blurb": "French game of throwing steel boules toward a small wooden jack from a circle.",
+      "tellWords": {
+        "never": [
+          "pétanque",
+          "petanque",
+          "FIPJP"
+        ],
+        "level4": [
+          "boule",
+          "jack",
+          "cochonnet",
+          "circle"
+        ]
+      }
+    },
+    {
+      "id": "boccia",
+      "name": "Boccia",
+      "aliases": [
+        "bocce"
+      ],
+      "family": "target",
+      "pool": "deep",
+      "sources": [
+        "boccia.pdf"
+      ],
+      "blurb": "Paralympic precision ball sport; some players use ramps and assistants.",
+      "tellWords": {
+        "never": [
+          "boccia",
+          "World Boccia"
+        ],
+        "level4": [
+          "jack ball",
+          "ramp",
+          "throwing box"
+        ]
+      }
+    },
+    {
+      "id": "croquet",
+      "name": "Croquet",
+      "aliases": [
+        "association croquet"
+      ],
+      "family": "target",
+      "pool": "daily",
+      "sources": [
+        "croquet.pdf"
+      ],
+      "blurb": "Hitting balls through hoops with a mallet on a lawn.",
+      "tellWords": {
+        "never": [
+          "croquet",
+          "WCF"
+        ],
+        "level4": [
+          "hoop",
+          "mallet",
+          "roquet",
+          "peg"
+        ]
+      }
+    },
+    {
+      "id": "cornhole",
+      "name": "Cornhole",
+      "aliases": [
+        "bean bag toss",
+        "bags"
+      ],
+      "family": "target",
+      "pool": "daily",
+      "sources": [
+        "cornhole.pdf"
+      ],
+      "blurb": "Tossing bean bags at a slanted board with a hole.",
+      "tellWords": {
+        "never": [
+          "cornhole",
+          "ACA"
+        ],
+        "level4": [
+          "bag",
+          "board",
+          "hole",
+          "foul line"
+        ]
+      }
+    },
+    {
+      "id": "snooker",
+      "name": "Snooker",
+      "aliases": [
+        "billiards",
+        "english billiards"
+      ],
+      "family": "target",
+      "pool": "daily",
+      "sources": [
+        "snooker_billiards.pdf"
+      ],
+      "blurb": "Cue sport potting 15 reds and six colours.",
+      "tellWords": {
+        "never": [
+          "snooker",
+          "WPBSA",
+          "billiards"
+        ],
+        "level4": [
+          "cue",
+          "pocket",
+          "red",
+          "colours",
+          "frame",
+          "pot"
+        ]
+      }
+    },
+    {
+      "id": "water_polo",
+      "name": "Water polo",
+      "aliases": [],
+      "family": "water",
+      "pool": "daily",
+      "sources": [
+        "water_polo.pdf"
+      ],
+      "blurb": "Seven-a-side ball game in a pool where players may not touch the bottom.",
+      "tellWords": {
+        "never": [
+          "water polo",
+          "World Aquatics"
+        ],
+        "level4": [
+          "pool",
+          "swim",
+          "exclusion",
+          "cap"
+        ]
+      }
+    },
+    {
+      "id": "canoe_polo",
+      "name": "Canoe polo",
+      "aliases": [
+        "kayak polo"
+      ],
+      "family": "water",
+      "pool": "deep",
+      "sources": [
+        "canoe_polo.pdf"
+      ],
+      "blurb": "Five-a-side ball game in kayaks with goals hung above the water.",
+      "tellWords": {
+        "never": [
+          "canoe polo",
+          "ICF"
+        ],
+        "level4": [
+          "kayak",
+          "paddle",
+          "capsize"
+        ]
+      }
+    },
+    {
+      "id": "swimming",
+      "name": "Swimming",
+      "aliases": [],
+      "family": "water",
+      "pool": "daily",
+      "sources": [
+        "swimming.pdf"
+      ],
+      "blurb": "Racing in a pool across freestyle, backstroke, breaststroke and butterfly.",
+      "tellWords": {
+        "never": [
+          "swimming",
+          "World Aquatics"
+        ],
+        "level4": [
+          "backstroke",
+          "breaststroke",
+          "butterfly",
+          "lane",
+          "turn",
+          "pool"
+        ]
+      }
+    },
+    {
+      "id": "rowing",
+      "name": "Rowing",
+      "aliases": [
+        "crew",
+        "regatta"
+      ],
+      "family": "water",
+      "pool": "daily",
+      "sources": [
+        "rowing.pdf"
+      ],
+      "blurb": "Racing boats propelled by oars, rowers facing backwards.",
+      "tellWords": {
+        "never": [
+          "rowing",
+          "World Rowing"
+        ],
+        "level4": [
+          "oar",
+          "cox",
+          "coxswain",
+          "scull",
+          "regatta"
+        ]
+      }
+    },
+    {
+      "id": "fencing",
+      "name": "Fencing",
+      "aliases": [],
+      "family": "contact",
+      "pool": "daily",
+      "sources": [
+        "fencing.pdf"
+      ],
+      "blurb": "Sword combat sport with foil, épée and sabre.",
+      "tellWords": {
+        "never": [
+          "fencing",
+          "FIE"
+        ],
+        "level4": [
+          "foil",
+          "épée",
+          "sabre",
+          "piste",
+          "right of way",
+          "touch"
+        ]
+      }
+    },
+    {
+      "id": "judo",
+      "name": "Judo",
+      "aliases": [],
+      "family": "contact",
+      "pool": "deep",
+      "sources": [
+        "judo_blind.pdf"
+      ],
+      "blurb": "Japanese grappling martial art scored by throws and pins.",
+      "tellWords": {
+        "never": [
+          "judo",
+          "IJF",
+          "IBSA"
+        ],
+        "level4": [
+          "ippon",
+          "waza-ari",
+          "judogi",
+          "tatami",
+          "osaekomi"
+        ]
+      }
+    },
+    {
+      "id": "taekwondo",
+      "name": "Taekwondo",
+      "aliases": [
+        "tae kwon do"
+      ],
+      "family": "contact",
+      "pool": "daily",
+      "sources": [
+        "taekwondo.pdf"
+      ],
+      "blurb": "Korean martial art scored mainly by kicks to an electronic body protector.",
+      "tellWords": {
+        "never": [
+          "taekwondo",
+          "World Taekwondo"
+        ],
+        "level4": [
+          "kyorugi",
+          "dobok",
+          "gam-jeom",
+          "kick"
+        ]
+      }
+    },
+    {
+      "id": "wrestling",
+      "name": "Wrestling",
+      "aliases": [
+        "freestyle wrestling",
+        "greco-roman"
+      ],
+      "family": "contact",
+      "pool": "daily",
+      "sources": [
+        "wrestling.pdf"
+      ],
+      "blurb": "Grappling sport of takedowns and pins; Greco-Roman bans holds below the waist.",
+      "tellWords": {
+        "never": [
+          "wrestling",
+          "UWW"
+        ],
+        "level4": [
+          "fall",
+          "takedown",
+          "singlet",
+          "mat",
+          "passivity"
+        ]
+      }
+    },
+    {
+      "id": "kabaddi",
+      "name": "Kabaddi",
+      "aliases": [
+        "kabbadi"
+      ],
+      "family": "contact",
+      "pool": "deep",
+      "sources": [
+        "kabaddi.pdf"
+      ],
+      "blurb": "South Asian tag game where a raider chants on one breath while in enemy territory.",
+      "tellWords": {
+        "never": [
+          "kabaddi"
+        ],
+        "level4": [
+          "raider",
+          "cant",
+          "lobby",
+          "baulk line"
+        ]
+      }
+    },
+    {
+      "id": "kho_kho",
+      "name": "Kho kho",
+      "aliases": [
+        "kho-kho"
+      ],
+      "family": "contact",
+      "pool": "deep",
+      "sources": [
+        "kho_kho.pdf"
+      ],
+      "blurb": "Indian chasing game where seated chasers tag in with a 'kho'.",
+      "tellWords": {
+        "never": [
+          "kho kho",
+          "kho"
+        ],
+        "level4": [
+          "chaser",
+          "runner",
+          "pole",
+          "square"
+        ]
+      }
+    },
+    {
+      "id": "tug_of_war",
+      "name": "Tug of war",
+      "aliases": [
+        "tug-of-war",
+        "rope pull"
+      ],
+      "family": "contact",
+      "pool": "daily",
+      "sources": [
+        "tug_of_war.pdf"
+      ],
+      "blurb": "Two teams of eight pull a rope until one drags the other over a line.",
+      "tellWords": {
+        "never": [
+          "tug of war",
+          "TWIF"
+        ],
+        "level4": [
+          "rope",
+          "pull",
+          "anchor"
+        ]
+      }
+    },
+    {
+      "id": "roller_derby",
+      "name": "Roller derby",
+      "aliases": [
+        "derby",
+        "flat track derby"
+      ],
+      "family": "contact",
+      "pool": "deep",
+      "sources": [
+        "roller_derby.pdf"
+      ],
+      "blurb": "Full-contact skating race where a jammer scores by lapping opponents.",
+      "tellWords": {
+        "never": [
+          "roller derby",
+          "WFTDA"
+        ],
+        "level4": [
+          "jammer",
+          "blocker",
+          "pivot",
+          "jam",
+          "pack",
+          "skates"
+        ]
+      }
+    },
+    {
+      "id": "athletics",
+      "name": "Athletics",
+      "aliases": [
+        "track and field",
+        "track"
+      ],
+      "family": "racing",
+      "pool": "daily",
+      "sources": [
+        "athletics.pdf"
+      ],
+      "blurb": "Running, jumping and throwing events.",
+      "tellWords": {
+        "never": [
+          "athletics",
+          "World Athletics"
+        ],
+        "level4": [
+          "hurdle",
+          "relay",
+          "baton",
+          "starting blocks",
+          "lane"
+        ]
+      }
+    },
+    {
+      "id": "formula1",
+      "name": "Formula 1",
+      "aliases": [
+        "f1",
+        "formula one",
+        "grand prix"
+      ],
+      "family": "racing",
+      "pool": "daily",
+      "sources": [
+        "formula1.pdf"
+      ],
+      "blurb": "Single-seater motor racing world championship.",
+      "tellWords": {
+        "never": [
+          "Formula 1",
+          "F1",
+          "FIA"
+        ],
+        "level4": [
+          "pit lane",
+          "tyres",
+          "safety car",
+          "grid",
+          "DRS"
+        ]
+      }
+    },
+    {
+      "id": "bobsleigh",
+      "name": "Bobsleigh",
+      "aliases": [
+        "bobsled",
+        "bob"
+      ],
+      "family": "racing",
+      "pool": "daily",
+      "sources": [
+        "bobsleigh.pdf"
+      ],
+      "blurb": "Teams push and ride a steerable sled down an ice track.",
+      "tellWords": {
+        "never": [
+          "bobsleigh",
+          "bobsled",
+          "IBSF"
+        ],
+        "level4": [
+          "sled",
+          "pilot",
+          "brakeman",
+          "runners",
+          "ice track"
+        ]
+      }
+    },
+    {
+      "id": "skeleton",
+      "name": "Skeleton",
+      "aliases": [],
+      "family": "racing",
+      "pool": "daily",
+      "sources": [
+        "skeleton.pdf"
+      ],
+      "blurb": "Sliding head-first, face down, on a small sled down an ice track.",
+      "tellWords": {
+        "never": [
+          "skeleton",
+          "IBSF"
+        ],
+        "level4": [
+          "sled",
+          "head-first",
+          "runners",
+          "ice track"
+        ]
+      }
+    },
+    {
+      "id": "gymnastics",
+      "name": "Rhythmic gymnastics",
+      "aliases": [
+        "gymnastics",
+        "rhythmic"
+      ],
+      "family": "racing",
+      "pool": "daily",
+      "sources": [
+        "gymnastics_rhythmic.pdf"
+      ],
+      "blurb": "Judged gymnastics with a hoop, ball, clubs or ribbon set to music.",
+      "tellWords": {
+        "never": [
+          "gymnastics",
+          "FIG"
+        ],
+        "level4": [
+          "ribbon",
+          "hoop",
+          "clubs",
+          "apparatus",
+          "difficulty score"
+        ]
+      }
+    },
+    {
+      "id": "mallakhamb",
+      "name": "Mallakhamb",
+      "aliases": [
+        "mallakhamba"
+      ],
+      "family": "racing",
+      "pool": "deep",
+      "sources": [
+        "mallakhamb.pdf"
+      ],
+      "blurb": "Indian gymnastics performed on a vertical wooden pole or hanging rope.",
+      "tellWords": {
+        "never": [
+          "mallakhamb"
+        ],
+        "level4": [
+          "pole",
+          "rope",
+          "wooden pole"
+        ]
+      }
+    },
+    {
+      "id": "ultimate",
+      "name": "Ultimate",
+      "aliases": [
+        "ultimate frisbee",
+        "frisbee"
+      ],
+      "family": "disc",
+      "pool": "daily",
+      "sources": [
+        "ultimate.pdf"
+      ],
+      "blurb": "Self-refereed team game of passing a disc into an end zone.",
+      "tellWords": {
+        "never": [
+          "ultimate",
+          "WFDF",
+          "frisbee"
+        ],
+        "level4": [
+          "disc",
+          "spirit of the game",
+          "stall count",
+          "end zone",
+          "pull"
+        ]
+      }
+    },
+    {
+      "id": "chess",
+      "name": "Chess",
+      "aliases": [],
+      "family": "mind",
+      "pool": "daily",
+      "sources": [
+        "chess.pdf"
+      ],
+      "blurb": "Two-player board game of checkmating the opposing king.",
+      "tellWords": {
+        "never": [
+          "chess",
+          "FIDE"
+        ],
+        "level4": [
+          "king",
+          "checkmate",
+          "castling",
+          "pawn",
+          "arbiter",
+          "clock"
+        ]
+      }
+    },
+    {
+      "id": "bridge",
+      "name": "Bridge",
+      "aliases": [
+        "contract bridge",
+        "duplicate bridge"
+      ],
+      "family": "mind",
+      "pool": "deep",
+      "sources": [
+        "bridge.pdf"
+      ],
+      "blurb": "Four-player partnership card game of bidding and tricks.",
+      "tellWords": {
+        "never": [
+          "bridge"
+        ],
+        "level4": [
+          "trick",
+          "dummy",
+          "declarer",
+          "bid",
+          "trump",
+          "revoke"
+        ]
+      }
+    }
+  ]
+}

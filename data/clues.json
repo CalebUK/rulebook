@@ -1,0 +1,5746 @@
+{
+  "clues": [
+    {
+      "sport": "soccer",
+      "level": 1,
+      "text": "The ball must be inflated to between 0.6 and 1.1 atmospheres at sea level, with a circumference of 68–70 cm.",
+      "source": "soccer_ifab.pdf",
+      "ref": "Law 2.1"
+    },
+    {
+      "sport": "soccer",
+      "level": 1,
+      "text": "Only one player on each team is allowed to wear tracksuit bottoms.",
+      "source": "soccer_ifab.pdf",
+      "ref": "Law 4.4"
+    },
+    {
+      "sport": "soccer",
+      "level": 2,
+      "text": "A match can't start or continue if either team has fewer than seven players.",
+      "source": "soccer_ifab.pdf",
+      "ref": "Law 3.1"
+    },
+    {
+      "sport": "soccer",
+      "level": 3,
+      "text": "A goal can't be scored directly when the ball is thrown back into play with both hands from the sideline.",
+      "source": "soccer_ifab.pdf",
+      "ref": "Law 15"
+    },
+    {
+      "sport": "soccer",
+      "level": 4,
+      "text": "If the one player allowed to handle the ball holds it for more than eight seconds, the opponents get a corner kick.",
+      "source": "soccer_ifab.pdf",
+      "ref": "Law 12.3"
+    },
+    {
+      "sport": "soccer",
+      "level": 5,
+      "text": "You're penalised if, when a teammate plays the ball to you, you're nearer the opponents' goal line than both the ball and the second-last opponent.",
+      "source": "soccer_ifab.pdf",
+      "ref": "Law 11"
+    },
+    {
+      "sport": "basketball",
+      "level": 1,
+      "text": "A player who reaches the foul limit but has no eligible substitute stays in the game, and their team is charged a technical foul.",
+      "source": "basketball_nba.pdf",
+      "ref": "NBA Rule 3, Section I(a)"
+    },
+    {
+      "sport": "basketball",
+      "level": 1,
+      "text": "With only 0.1 or 0.2 seconds left on the clock, the only way to score is a deflection or a high lob; there isn't time to catch and shoot.",
+      "source": "basketball_nba.pdf",
+      "ref": "NBA Comments on the Rules, L (Expiration of time)"
+    },
+    {
+      "sport": "basketball",
+      "level": 2,
+      "text": "Each side has five players on the court, and a professional game is four 12-minute quarters.",
+      "source": "basketball_nba.pdf",
+      "ref": "NBA Rules 3 and 5"
+    },
+    {
+      "sport": "basketball",
+      "level": 3,
+      "text": "An attacking player may not stay inside the painted lane near the target for more than three seconds.",
+      "source": "basketball_nba.pdf",
+      "ref": "NBA Rule 10, Section VI"
+    },
+    {
+      "sport": "basketball",
+      "level": 4,
+      "text": "Once you stop dribbling, you can't start dribbling again.",
+      "source": "basketball_fiba.pdf",
+      "ref": "FIBA Art. 24"
+    },
+    {
+      "sport": "basketball",
+      "level": 5,
+      "text": "A shot from beyond the curved line about 7 metres from the basket is worth three points.",
+      "source": "basketball_fiba.pdf",
+      "ref": "FIBA Art. 16"
+    },
+    {
+      "sport": "tennis",
+      "level": 1,
+      "text": "Your [hitting implement] may be no longer than 73.7 cm (29 in), and its strings must be strung in a generally uniform pattern.",
+      "source": "tennis_canada.pdf",
+      "ref": "ITF Rules, Appendix II"
+    },
+    {
+      "sport": "tennis",
+      "level": 1,
+      "text": "If a spare ball falls out of your own pocket mid-point, you can't claim it as a hindrance and ask for a replay.",
+      "source": "tennis_canada.pdf",
+      "ref": "The Code §36"
+    },
+    {
+      "sport": "tennis",
+      "level": 2,
+      "text": "At 6–6 in a set, a tie-break is usually played: first to 7 points, winning by 2.",
+      "source": "tennis_canada.pdf",
+      "ref": "ITF Rule 6"
+    },
+    {
+      "sport": "tennis",
+      "level": 3,
+      "text": "When starting a point, you must stand behind the back line and may not walk or run; touching the line with your foot is a fault.",
+      "source": "tennis_canada.pdf",
+      "ref": "ITF Rules 16 and 18"
+    },
+    {
+      "sport": "tennis",
+      "level": 4,
+      "text": "A serve that clips the net and then lands in the correct service box is a let and is replayed.",
+      "source": "tennis_canada.pdf",
+      "ref": "ITF Rule 22"
+    },
+    {
+      "sport": "tennis",
+      "level": 5,
+      "text": "Points are counted 15, 30, 40, then game, and at 40–40 you must win two points in a row.",
+      "source": "tennis_canada.pdf",
+      "ref": "ITF Rule 5"
+    },
+    {
+      "sport": "golf",
+      "level": 1,
+      "text": "You get three minutes to search for your ball. If it isn't found in that time, it's lost.",
+      "source": "golf.pdf",
+      "ref": "Rule 18.2a"
+    },
+    {
+      "sport": "golf",
+      "level": 1,
+      "text": "When making a stroke, you may not brace your [implement] against your body, for example by pressing the handle into your chest.",
+      "source": "golf.pdf",
+      "ref": "Rule 10.1b"
+    },
+    {
+      "sport": "golf",
+      "level": 2,
+      "text": "You may carry no more than 14 [implements] during a round.",
+      "source": "golf.pdf",
+      "ref": "Rule 4.1b"
+    },
+    {
+      "sport": "golf",
+      "level": 3,
+      "text": "If your ball lies in a sand-filled hollow, you may not touch the sand with your [implement] on the backswing.",
+      "source": "golf.pdf",
+      "ref": "Rule 12.2b"
+    },
+    {
+      "sport": "golf",
+      "level": 4,
+      "text": "On the putting green you may mark, lift and clean your ball, and repair old hole plugs and spike marks.",
+      "source": "golf.pdf",
+      "ref": "Rule 13.1"
+    },
+    {
+      "sport": "golf",
+      "level": 5,
+      "text": "Play a ball from the tee into the hole in as few strokes as possible. A standard round is 18 holes.",
+      "source": "golf.pdf",
+      "ref": "Rule 1.1"
+    },
+    {
+      "sport": "ice_hockey",
+      "level": 1,
+      "text": "A player whose [stick] breaks may keep playing only if they drop the broken pieces right away. Otherwise it's a two-minute penalty.",
+      "source": "ice_hockey_iihf.pdf",
+      "ref": "Rule 10.3"
+    },
+    {
+      "sport": "ice_hockey",
+      "level": 2,
+      "text": "A game is three 20-minute periods of actual playing time.",
+      "source": "ice_hockey_iihf.pdf",
+      "ref": "Rule 77.1"
+    },
+    {
+      "sport": "ice_hockey",
+      "level": 3,
+      "text": "If a team sends the [object] from its own half all the way past the opponents' goal line untouched, play stops and restarts in the offending team's end.",
+      "source": "ice_hockey_iihf.pdf",
+      "ref": "Rule 81"
+    },
+    {
+      "sport": "ice_hockey",
+      "level": 4,
+      "text": "A puck that goes into the net off a distinct kicking motion is no goal.",
+      "source": "ice_hockey_iihf.pdf",
+      "ref": "Rule 37.4"
+    },
+    {
+      "sport": "ice_hockey",
+      "level": 4,
+      "text": "A team that takes a penalty plays short-handed on the ice for two minutes.",
+      "source": "ice_hockey_iihf.pdf",
+      "ref": "Rule 16"
+    },
+    {
+      "sport": "ice_hockey",
+      "level": 5,
+      "text": "Six a side on the ice, including a goaltender, chasing a vulcanised rubber puck with sticks.",
+      "source": "ice_hockey_iihf.pdf",
+      "ref": "Rule 5"
+    },
+    {
+      "sport": "baseball",
+      "level": 3,
+      "text": "If a fielder deliberately throws their glove at a fair hit ball and touches it, every runner, including the hitter, is awarded three bases.",
+      "source": "baseball_mlb.pdf",
+      "ref": "Rule 5.06(b)(4)(C)"
+    },
+    {
+      "sport": "baseball",
+      "level": 1,
+      "text": "The glove of the player who delivers the ball to the hitter may not be white or gray.",
+      "source": "baseball_mlb.pdf",
+      "ref": "Rule 3.07(a)"
+    },
+    {
+      "sport": "baseball",
+      "level": 2,
+      "text": "Nine players per side, and a regulation game gives each side nine turns to attack.",
+      "source": "baseball_mlb.pdf",
+      "ref": "Rule 7.01"
+    },
+    {
+      "sport": "baseball",
+      "level": 3,
+      "text": "The hitter is out if they hit the ball with a foot entirely outside the marked box they're standing in.",
+      "source": "baseball_mlb.pdf",
+      "ref": "Rule 6.03(a)(1)"
+    },
+    {
+      "sport": "baseball",
+      "level": 4,
+      "text": "With runners on first and second and fewer than two out, a fair pop-up an infielder can catch with ordinary effort is an automatic out, even if it's dropped.",
+      "source": "baseball_mlb.pdf",
+      "ref": "Definitions: Infield Fly"
+    },
+    {
+      "sport": "baseball",
+      "level": 5,
+      "text": "Three strikes and the batter is out. Four balls and they walk to first base.",
+      "source": "baseball_mlb.pdf",
+      "ref": "Rules 5.05 and 5.09"
+    },
+    {
+      "sport": "cricket",
+      "level": 1,
+      "text": "A new [hitter] who isn't ready to play within 3 minutes of the previous one being dismissed is themselves out.",
+      "source": "cricket.docx",
+      "ref": "Law 40.1"
+    },
+    {
+      "sport": "cricket",
+      "level": 1,
+      "text": "A new ball must weigh between 5.5 and 5.75 ounces (155.9–163 g).",
+      "source": "cricket.docx",
+      "ref": "Law 4.1"
+    },
+    {
+      "sport": "cricket",
+      "level": 2,
+      "text": "The fielding side may leave a spare helmet on the ground only directly behind their keeper. If the ball hits it, the other side gets 5 penalty runs.",
+      "source": "cricket.docx",
+      "ref": "Law 28.3"
+    },
+    {
+      "sport": "cricket",
+      "level": 3,
+      "text": "The delivery is illegal if the player sending it straightens their elbow after their arm passes shoulder height.",
+      "source": "cricket.docx",
+      "ref": "Law 21.2"
+    },
+    {
+      "sport": "cricket",
+      "level": 4,
+      "text": "A [hitter] can be given out if the ball strikes their leg when it would otherwise have gone on to hit the stumps.",
+      "source": "cricket.docx",
+      "ref": "Law 36"
+    },
+    {
+      "sport": "cricket",
+      "level": 5,
+      "text": "Six legal deliveries make an over, and an innings ends when ten of the eleven batters are out.",
+      "source": "cricket.docx",
+      "ref": "Laws 13 and 17"
+    },
+    {
+      "sport": "curling",
+      "level": 1,
+      "text": "In a 10-period game, each team gets 38 minutes of 'thinking time'. The clock runs only while they're deciding.",
+      "source": "curling.pdf",
+      "ref": "Rule C6"
+    },
+    {
+      "sport": "curling",
+      "level": 1,
+      "text": "Each [object] may weigh no more than 19.96 kg (44 lb), including its handle and bolt.",
+      "source": "curling.pdf",
+      "ref": "Rule R2(a)"
+    },
+    {
+      "sport": "curling",
+      "level": 2,
+      "text": "Four players a side, and each player delivers two [objects] per period. Only one team can score in a period.",
+      "source": "curling.pdf",
+      "ref": "Rules R3 and R12"
+    },
+    {
+      "sport": "curling",
+      "level": 3,
+      "text": "Before the sixth delivery of a period, you may not knock an opponent's [object] out of play from the protected zone in front of the target.",
+      "source": "curling.pdf",
+      "ref": "Rule R6"
+    },
+    {
+      "sport": "curling",
+      "level": 4,
+      "text": "A stone must be clearly released from the hand before it reaches the hog line at the delivery end.",
+      "source": "curling.pdf",
+      "ref": "Rule R5(e)"
+    },
+    {
+      "sport": "curling",
+      "level": 5,
+      "text": "Teammates sweep the ice ahead of a moving stone. Only the team with the stone closest to the button scores.",
+      "source": "curling.pdf",
+      "ref": "Rules R8 and R12"
+    },
+    {
+      "sport": "volleyball",
+      "level": 1,
+      "text": "The ball's internal pressure must be 0.30–0.325 kg/cm² (4.26–4.61 psi).",
+      "source": "volleyball.pdf",
+      "ref": "Rule 3.1"
+    },
+    {
+      "sport": "volleyball",
+      "level": 2,
+      "text": "The barrier dividing the two sides stands 2.43 m high for men and 2.24 m for women.",
+      "source": "volleyball.pdf",
+      "ref": "Rule 2.1"
+    },
+    {
+      "sport": "volleyball",
+      "level": 2,
+      "text": "Periods are won at 25 points with a two-point lead, and a deciding fifth goes to 15.",
+      "source": "volleyball.pdf",
+      "ref": "Rule 6.2"
+    },
+    {
+      "sport": "volleyball",
+      "level": 3,
+      "text": "A team may touch the ball at most three times before sending it back, and touching the ball at the barrier to stop it doesn't count.",
+      "source": "volleyball.pdf",
+      "ref": "Rule 9.1"
+    },
+    {
+      "sport": "volleyball",
+      "level": 4,
+      "text": "The libero, in a contrasting shirt, may not complete an attack hit when the ball is entirely above the top of the net.",
+      "source": "volleyball.pdf",
+      "ref": "Rule 19.3.1.4"
+    },
+    {
+      "sport": "volleyball",
+      "level": 5,
+      "text": "When a team wins back the right to serve, its six players rotate one position clockwise.",
+      "source": "volleyball.pdf",
+      "ref": "Rule 7.6"
+    },
+    {
+      "sport": "table_tennis",
+      "level": 1,
+      "text": "At least 85% of the blade's thickness must be natural wood.",
+      "source": "table_tennis.pdf",
+      "ref": "Law 2.4.2"
+    },
+    {
+      "sport": "table_tennis",
+      "level": 1,
+      "text": "If a game isn't finished after 10 minutes, unless both sides have 9+ points, the 'expedite system' starts and each serve change brings new limits.",
+      "source": "table_tennis.pdf",
+      "ref": "Law 2.15"
+    },
+    {
+      "sport": "table_tennis",
+      "level": 2,
+      "text": "A game is won at 11 points with a two-point lead, and service changes hands every two points.",
+      "source": "table_tennis.pdf",
+      "ref": "Laws 2.11 and 2.13.6"
+    },
+    {
+      "sport": "table_tennis",
+      "level": 3,
+      "text": "To serve, you must project the ball almost straight up from a flat, open palm so it rises at least 16 cm.",
+      "source": "table_tennis.pdf",
+      "ref": "Laws 2.6.2–2.6.5"
+    },
+    {
+      "sport": "table_tennis",
+      "level": 4,
+      "text": "Your racket's two rubbers must be different colours, one black and the other a bright colour.",
+      "source": "table_tennis.pdf",
+      "ref": "Law 2.4.6"
+    },
+    {
+      "sport": "table_tennis",
+      "level": 5,
+      "text": "Played with a 40 mm ball on a table 2.74 m long, over a net 15.25 cm high.",
+      "source": "table_tennis.pdf",
+      "ref": "Laws 2.1–2.3"
+    },
+    {
+      "sport": "american_football",
+      "level": 1,
+      "text": "After a fair catch, the receiving team may choose to try a free kick at the posts from that spot, and the defenders can't rush it.",
+      "source": "nfl_2026.pdf",
+      "ref": "Rule 11-4-3"
+    },
+    {
+      "sport": "american_football",
+      "level": 2,
+      "text": "Deliberately fumbling the ball forward is treated as a forward pass.",
+      "source": "nfl_2026.pdf",
+      "ref": "Rule 8-1-1"
+    },
+    {
+      "sport": "american_football",
+      "level": 2,
+      "text": "Eleven players a side, and a game is four 15-minute periods.",
+      "source": "nfl_2026.pdf",
+      "ref": "Rule 4-1-1"
+    },
+    {
+      "sport": "american_football",
+      "level": 3,
+      "text": "Only one forward throw is allowed per play, and it must come from behind the spot where the play started.",
+      "source": "nfl_2026.pdf",
+      "ref": "Rule 8-1-1"
+    },
+    {
+      "sport": "american_football",
+      "level": 4,
+      "text": "If a ball carrier is downed in their own end zone, the defense scores 2 points.",
+      "source": "nfl_2026.pdf",
+      "ref": "Rule 11-5"
+    },
+    {
+      "sport": "american_football",
+      "level": 5,
+      "text": "The offense gets four downs to gain 10 yards, and a touchdown is worth 6 points.",
+      "source": "nfl_2026.pdf",
+      "ref": "Rules 7 and 11"
+    },
+    {
+      "sport": "snooker",
+      "level": 1,
+      "text": "It's a foul to make the white ball leap over any part of another ball.",
+      "source": "snooker_billiards.pdf",
+      "ref": "Section 2 Rule 20; Section 3 Rule 10"
+    },
+    {
+      "sport": "snooker",
+      "level": 1,
+      "text": "It's a foul if your tip is still touching the white when it strikes another ball.",
+      "source": "snooker_billiards.pdf",
+      "ref": "Section 2 Rule 19; Section 3 Rule 10"
+    },
+    {
+      "sport": "snooker",
+      "level": 2,
+      "text": "A game starts with 22 balls on the table: 15 identical ones, six others each worth a different amount, and the one you strike.",
+      "source": "snooker_billiards.pdf",
+      "ref": "Section 3 Rule 1"
+    },
+    {
+      "sport": "snooker",
+      "level": 3,
+      "text": "If it's unclear which ball you're aiming for, you must declare it to the referee before playing.",
+      "source": "snooker_billiards.pdf",
+      "ref": "Section 2 Rule 12"
+    },
+    {
+      "sport": "snooker",
+      "level": 4,
+      "text": "After a foul, if you can't hit both sides of the ball you need, you may nominate any other ball to act as it.",
+      "source": "snooker_billiards.pdf",
+      "ref": "Section 3 Rule 12"
+    },
+    {
+      "sport": "snooker",
+      "level": 4,
+      "text": "After a foul, the referee can call a miss and make the offender replay the shot if they didn't make a good enough attempt to hit the ball they needed.",
+      "source": "snooker_billiards.pdf",
+      "ref": "Section 3 Rule 14"
+    },
+    {
+      "sport": "snooker",
+      "level": 5,
+      "text": "Pot a red, then a colour, and repeat. There are 15 reds, and the black is worth 7.",
+      "source": "snooker_billiards.pdf",
+      "ref": "Section 3 Rules 3 and 11"
+    },
+    {
+      "sport": "rugby_union",
+      "level": 1,
+      "text": "When restarting quickly from the sideline, you must use the same ball that went out. Swap in another ball and the throw is wrong.",
+      "source": "rugby_union.pdf",
+      "ref": "Law 18"
+    },
+    {
+      "sport": "rugby_union",
+      "level": 1,
+      "text": "After a score, the kicker has 60 seconds of playing time to take the follow-up kick at goal.",
+      "source": "rugby_union.pdf",
+      "ref": "Law 8"
+    },
+    {
+      "sport": "rugby_union",
+      "level": 2,
+      "text": "A match lasts no more than 80 minutes: two halves of up to 40 minutes each, plus time lost.",
+      "source": "rugby_union.pdf",
+      "ref": "Law 5"
+    },
+    {
+      "sport": "rugby_union",
+      "level": 3,
+      "text": "The ball may never be thrown or passed forward. It can only go sideways or backwards.",
+      "source": "rugby_union.pdf",
+      "ref": "Law 11"
+    },
+    {
+      "sport": "rugby_union",
+      "level": 4,
+      "text": "If a maul stops moving toward the line for more than five seconds, the referee tells the team to use the ball.",
+      "source": "rugby_union.pdf",
+      "ref": "Law 16"
+    },
+    {
+      "sport": "rugby_union",
+      "level": 5,
+      "text": "Grounding the ball in the opponents' in-goal is a try worth 5 points, and the conversion after it is worth 2.",
+      "source": "rugby_union.pdf",
+      "ref": "Law 8"
+    },
+    {
+      "sport": "field_hockey",
+      "level": 1,
+      "text": "The ball must weigh between 156 and 163 grams.",
+      "source": "field_hockey.pdf",
+      "ref": "Equipment specifications: ball"
+    },
+    {
+      "sport": "field_hockey",
+      "level": 1,
+      "text": "A player's [playing implement] must not weigh more than 737 grams.",
+      "source": "field_hockey.pdf",
+      "ref": "Equipment specifications 2.18"
+    },
+    {
+      "sport": "field_hockey",
+      "level": 2,
+      "text": "Eleven players a side, and a match is four 15-minute quarters.",
+      "source": "field_hockey.pdf",
+      "ref": "Rules 2.1 and 5.1"
+    },
+    {
+      "sport": "field_hockey",
+      "level": 3,
+      "text": "A goal only counts if an attacker played the ball from inside the marked area in front of goal.",
+      "source": "field_hockey.pdf",
+      "ref": "Rule 8.1"
+    },
+    {
+      "sport": "field_hockey",
+      "level": 4,
+      "text": "At a penalty corner, no more than five defenders, including the goalkeeper, may start behind the backline.",
+      "source": "field_hockey.pdf",
+      "ref": "Rule 13.3"
+    },
+    {
+      "sport": "field_hockey",
+      "level": 5,
+      "text": "Players must not play the ball with the rounded back of the stick, only its flat side.",
+      "source": "field_hockey.pdf",
+      "ref": "Rule 9.5"
+    },
+    {
+      "sport": "badminton",
+      "level": 1,
+      "text": "To test its speed, the [object] is hit underarm from the back line. If it's correct, it lands 530–990 mm short of the far back line.",
+      "source": "badminton.pdf",
+      "ref": "Law 3"
+    },
+    {
+      "sport": "badminton",
+      "level": 2,
+      "text": "A game is won at 21 points, and at 29-all the next point wins.",
+      "source": "badminton.pdf",
+      "ref": "Law 7"
+    },
+    {
+      "sport": "badminton",
+      "level": 3,
+      "text": "At the moment it's struck on a serve, the whole [object] must be below 1.15 m from the floor.",
+      "source": "badminton.pdf",
+      "ref": "Law 9.1.6"
+    },
+    {
+      "sport": "badminton",
+      "level": 4,
+      "text": "It's a fault if the shuttle passes over the net and then gets caught in it.",
+      "source": "badminton.pdf",
+      "ref": "Law 13.2.2"
+    },
+    {
+      "sport": "badminton",
+      "level": 5,
+      "text": "Played with rackets and a shuttlecock of 16 feathers fixed into a cork base.",
+      "source": "badminton.pdf",
+      "ref": "Law 2"
+    },
+    {
+      "sport": "darts",
+      "level": 1,
+      "text": "Each player brings their own [objects], each no longer than 30.5 cm and no heavier than 50 grams.",
+      "source": "darts.pdf",
+      "ref": "Rule 1.01"
+    },
+    {
+      "sport": "darts",
+      "level": 2,
+      "text": "The target's centre is 1.73 m off the floor, and you throw from 2.37 m away.",
+      "source": "darts.pdf",
+      "ref": "Rules 6.01 and 6.02"
+    },
+    {
+      "sport": "darts",
+      "level": 3,
+      "text": "Each turn is three throws, and only throws that land inside the outermost scoring ring count.",
+      "source": "darts.pdf",
+      "ref": "Section 2 (Playing rules)"
+    },
+    {
+      "sport": "darts",
+      "level": 4,
+      "text": "To win a leg, your final dart must land in the double of the exact number you need.",
+      "source": "darts.pdf",
+      "ref": "Rule 2.02"
+    },
+    {
+      "sport": "darts",
+      "level": 5,
+      "text": "Each player starts on 501 and counts down to zero, finishing on a double or the bull.",
+      "source": "darts.pdf",
+      "ref": "Rule 2.02"
+    },
+    {
+      "sport": "chess",
+      "level": 1,
+      "text": "If you're found with a phone or other electronic device on you in the playing venue, you lose the game.",
+      "source": "chess.pdf",
+      "ref": "Law 11.3.2.2"
+    },
+    {
+      "sport": "chess",
+      "level": 1,
+      "text": "You must stop your [timer] with the same hand you used to make your move.",
+      "source": "chess.pdf",
+      "ref": "Law 6.2.3"
+    },
+    {
+      "sport": "chess",
+      "level": 2,
+      "text": "If 75 consecutive moves by each side pass with no capture and no move of the smallest [unit], the game is automatically drawn.",
+      "source": "chess.pdf",
+      "ref": "Law 9.6.2"
+    },
+    {
+      "sport": "chess",
+      "level": 3,
+      "text": "If you deliberately touch one of your own pieces, you must move it, as long as it has a legal move.",
+      "source": "chess.pdf",
+      "ref": "Law 4.3"
+    },
+    {
+      "sport": "chess",
+      "level": 4,
+      "text": "You may not castle if your king would pass through a square the opponent attacks.",
+      "source": "chess.pdf",
+      "ref": "Law 3.8.2"
+    },
+    {
+      "sport": "chess",
+      "level": 5,
+      "text": "You win by checkmating your opponent's king.",
+      "source": "chess.pdf",
+      "ref": "Law 1.4"
+    },
+    {
+      "sport": "formula1",
+      "level": 1,
+      "text": "Each competitor must be weighed by the Technical Delegate at the end of their last qualifying session.",
+      "source": "formula1.pdf",
+      "ref": "Rule B3.2"
+    },
+    {
+      "sport": "formula1",
+      "level": 2,
+      "text": "A competitor whose best qualifying time is more than 107% of the fastest needs special permission to start the main event.",
+      "source": "formula1.pdf",
+      "ref": "Rule B2.4.3"
+    },
+    {
+      "sport": "formula1",
+      "level": 3,
+      "text": "A speed limit of 80 km/h applies in the service lane for the whole event.",
+      "source": "formula1.pdf",
+      "ref": "Rule B1.6"
+    },
+    {
+      "sport": "formula1",
+      "level": 4,
+      "text": "In a dry race, every driver must use at least two different specifications of dry-weather tyres.",
+      "source": "formula1.pdf",
+      "ref": "Rule B6.3.8"
+    },
+    {
+      "sport": "formula1",
+      "level": 5,
+      "text": "When the safety car is out, race control may tell lapped cars to overtake it and rejoin the back of the pack.",
+      "source": "formula1.pdf",
+      "ref": "Rule B5.13"
+    },
+    {
+      "sport": "fencing",
+      "level": 1,
+      "text": "You must hold your weapon in one hand and may not switch hands during the bout, except with the referee's permission after an injury.",
+      "source": "fencing.pdf",
+      "ref": "t.21"
+    },
+    {
+      "sport": "fencing",
+      "level": 2,
+      "text": "Competitors face off on a strip 14 metres long and 1.5–2 metres wide.",
+      "source": "fencing.pdf",
+      "ref": "t.18"
+    },
+    {
+      "sport": "fencing",
+      "level": 3,
+      "text": "Deliberately bumping into your opponent is penalised with two of the three weapon types, but not the third.",
+      "source": "fencing.pdf",
+      "ref": "t.26"
+    },
+    {
+      "sport": "fencing",
+      "level": 4,
+      "text": "With foil and sabre, if both competitors hit at once, 'right of way' decides who scores.",
+      "source": "fencing.pdf",
+      "ref": "t.82 (Validity or priority of the hit)"
+    },
+    {
+      "sport": "fencing",
+      "level": 5,
+      "text": "With the épée, the whole body is target and both fencers can score a touch at the same moment.",
+      "source": "fencing.pdf",
+      "ref": "Book 1 (épée conventions)"
+    },
+    {
+      "sport": "netball",
+      "level": 1,
+      "text": "The player starting play from the centre must release the ball within three seconds.",
+      "source": "netball.pdf",
+      "ref": "Rule 8"
+    },
+    {
+      "sport": "netball",
+      "level": 2,
+      "text": "Seven players a side, four 15-minute quarters and a 12-minute half-time.",
+      "source": "netball.pdf",
+      "ref": "Rules 2 and 3"
+    },
+    {
+      "sport": "netball",
+      "level": 3,
+      "text": "A defender must stay at least 0.9 m (3 ft) from the player holding the ball.",
+      "source": "netball.pdf",
+      "ref": "Rule 16"
+    },
+    {
+      "sport": "netball",
+      "level": 4,
+      "text": "You can't dribble or run with the ball. Once you land, you may pivot, but you can't re-ground your landing foot before passing.",
+      "source": "netball.pdf",
+      "ref": "Rule 13"
+    },
+    {
+      "sport": "netball",
+      "level": 5,
+      "text": "Only the Goal Shooter and Goal Attack may score, and only from inside the goal circle.",
+      "source": "netball.pdf",
+      "ref": "Rule 9"
+    },
+    {
+      "sport": "swimming",
+      "level": 1,
+      "text": "Athletes may wear tape on one or two fingers or toes only, and only to treat or protect an injury.",
+      "source": "swimming.pdf",
+      "ref": "Part Two, Article 14.1"
+    },
+    {
+      "sport": "swimming",
+      "level": 2,
+      "text": "Anyone who starts before the signal is disqualified. There's no second chance.",
+      "source": "swimming.pdf",
+      "ref": "Part Two, Article 2"
+    },
+    {
+      "sport": "swimming",
+      "level": 3,
+      "text": "After the start, and each time you push off a wall, you may stay fully underwater for no more than 15 metres.",
+      "source": "swimming.pdf",
+      "ref": "Part Two, Articles 5 and 6"
+    },
+    {
+      "sport": "swimming",
+      "level": 4,
+      "text": "In breaststroke, after the start and each turn, you're allowed one arm stroke and a single butterfly kick underwater.",
+      "source": "swimming.pdf",
+      "ref": "Part Two, Article 7.1"
+    },
+    {
+      "sport": "swimming",
+      "level": 5,
+      "text": "In an individual medley, the order is butterfly, backstroke, breaststroke, then freestyle.",
+      "source": "swimming.pdf",
+      "ref": "Part Two, Article 9"
+    },
+    {
+      "sport": "athletics",
+      "level": 1,
+      "text": "Reacting to the gun in less than 0.100 seconds counts as a false start.",
+      "source": "athletics.pdf",
+      "ref": "TR 16.6"
+    },
+    {
+      "sport": "athletics",
+      "level": 2,
+      "text": "If the tailwind averages more than 2 metres per second, a performance can't be ratified as a record.",
+      "source": "athletics.pdf",
+      "ref": "CR 31"
+    },
+    {
+      "sport": "athletics",
+      "level": 3,
+      "text": "In one event, an athlete must take off from one foot. A two-footed take-off isn't allowed.",
+      "source": "athletics.pdf",
+      "ref": "TR 27.1 (High jump)"
+    },
+    {
+      "sport": "athletics",
+      "level": 4,
+      "text": "In the 4×100 m relay, the baton must change hands inside a 30 m takeover zone.",
+      "source": "athletics.pdf",
+      "ref": "TR 24"
+    },
+    {
+      "sport": "athletics",
+      "level": 5,
+      "text": "The sport's events are running, jumping and throwing, and sprinters must stay in their own lane.",
+      "source": "athletics.pdf",
+      "ref": "TR 17"
+    },
+    {
+      "sport": "lacrosse",
+      "level": 1,
+      "text": "If daylight shows between the top of the ball and the bottom edge of the [stick] head's sidewall, the [stick] is illegal.",
+      "source": "lacrosse_men.pdf",
+      "ref": "Appendix: stick specifications"
+    },
+    {
+      "sport": "lacrosse",
+      "level": 2,
+      "text": "Ten players make a full team.",
+      "source": "lacrosse_men.pdf",
+      "ref": "Rule 19.1"
+    },
+    {
+      "sport": "lacrosse",
+      "level": 3,
+      "text": "Once a team gains possession, it has 80 seconds to take a shot.",
+      "source": "lacrosse_men.pdf",
+      "ref": "Rule 43"
+    },
+    {
+      "sport": "lacrosse",
+      "level": 4,
+      "text": "Attacking players may not enter the circular crease around the goal.",
+      "source": "lacrosse_men.pdf",
+      "ref": "Rule 49"
+    },
+    {
+      "sport": "lacrosse",
+      "level": 5,
+      "text": "Players catch, carry and throw the ball with a netted crosse, and play restarts with a face-off.",
+      "source": "lacrosse_men.pdf",
+      "ref": "Introduction"
+    },
+    {
+      "sport": "archery",
+      "level": 1,
+      "text": "Every [projectile] must be marked with the athlete's name or initials.",
+      "source": "archery.pdf",
+      "ref": "Rule 9.1.7"
+    },
+    {
+      "sport": "archery",
+      "level": 1,
+      "text": "[Projectile] shafts may be no more than 9.3 mm in diameter, and their tips no more than 9.4 mm.",
+      "source": "archery.pdf",
+      "ref": "Rule 9.1.7"
+    },
+    {
+      "sport": "archery",
+      "level": 2,
+      "text": "In head-to-head matches, whoever scores more in a set earns 2 set points and a tie earns 1 each. The first to 6 set points wins.",
+      "source": "archery.pdf",
+      "ref": "Rule 12.1.4.1"
+    },
+    {
+      "sport": "archery",
+      "level": 3,
+      "text": "If a shot touches the line between two scoring zones, it scores the higher value.",
+      "source": "archery.pdf",
+      "ref": "Rule 12.2"
+    },
+    {
+      "sport": "archery",
+      "level": 4,
+      "text": "Recurve athletes aim at a target face 122 cm across.",
+      "source": "archery.pdf",
+      "ref": "Rule 12.5"
+    },
+    {
+      "sport": "archery",
+      "level": 5,
+      "text": "Athletes shoot arrows from a bow at a ringed target, scoring 10 for the gold centre.",
+      "source": "archery.pdf",
+      "ref": "Rule 12.2"
+    },
+    {
+      "sport": "australian_football",
+      "level": 1,
+      "text": "The official at the scoring end signals a major score by raising both index fingers, then waving two flags.",
+      "source": "australian_football.pdf",
+      "ref": "Law 16.3.1"
+    },
+    {
+      "sport": "australian_football",
+      "level": 2,
+      "text": "Eighteen players a side may be on the field at once, plus up to four interchange players.",
+      "source": "australian_football.pdf",
+      "ref": "Law 5.1"
+    },
+    {
+      "sport": "australian_football",
+      "level": 3,
+      "text": "Cleanly catching a kick earns you a free kick, but only if the ball travelled at least 15 metres.",
+      "source": "australian_football.pdf",
+      "ref": "Law 15.1"
+    },
+    {
+      "sport": "australian_football",
+      "level": 4,
+      "text": "You can't throw the ball. To pass by hand, hold it in one hand and punch it with the clenched fist of the other.",
+      "source": "australian_football.pdf",
+      "ref": "Law 1.1 (Definitions)"
+    },
+    {
+      "sport": "australian_football",
+      "level": 5,
+      "text": "A kick between the two tall middle posts is worth 6 points, and one between a middle and an outer post is a behind worth 1.",
+      "source": "australian_football.pdf",
+      "ref": "Law 16"
+    },
+    {
+      "sport": "rugby_league",
+      "level": 1,
+      "text": "If you kick from inside your own 40 m and the ball bounces out inside the opponents' 20 m, your team gets the restart.",
+      "source": "rugby_league.pdf",
+      "ref": "Section 13 (40-20 kick)"
+    },
+    {
+      "sport": "rugby_league",
+      "level": 2,
+      "text": "No more than 13 players per side may be on the field.",
+      "source": "rugby_league.pdf",
+      "ref": "Section 4"
+    },
+    {
+      "sport": "rugby_league",
+      "level": 3,
+      "text": "A drop kick through the posts during open play is worth just one point.",
+      "source": "rugby_league.pdf",
+      "ref": "Section 6"
+    },
+    {
+      "sport": "rugby_league",
+      "level": 4,
+      "text": "A team gets six tackles to score. After the sixth, possession passes to the opponents.",
+      "source": "rugby_league.pdf",
+      "ref": "Section 11.7"
+    },
+    {
+      "sport": "rugby_league",
+      "level": 5,
+      "text": "A try is worth 4 points, and after every tackle the tackled player rolls the ball back with their foot.",
+      "source": "rugby_league.pdf",
+      "ref": "Sections 6 and 11"
+    },
+    {
+      "sport": "handball",
+      "level": 1,
+      "text": "The senior men's ball must be 58–60 cm around and weigh 425–475 g.",
+      "source": "handball.pdf",
+      "ref": "Rule 3"
+    },
+    {
+      "sport": "handball",
+      "level": 2,
+      "text": "You may hold the ball for at most 3 seconds and take at most 3 steps with it.",
+      "source": "handball.pdf",
+      "ref": "Rules 7:2–7:3"
+    },
+    {
+      "sport": "handball",
+      "level": 3,
+      "text": "Outfield players may not touch the ball with the foot or the leg below the knee.",
+      "source": "handball.pdf",
+      "ref": "Rule 7:8"
+    },
+    {
+      "sport": "handball",
+      "level": 4,
+      "text": "Once the referees warn for passive play, the attacking team has at most four more passes before it must shoot.",
+      "source": "handball.pdf",
+      "ref": "Rule 7:11"
+    },
+    {
+      "sport": "handball",
+      "level": 5,
+      "text": "Only the goalkeeper may enter the 6-metre goal area.",
+      "source": "handball.pdf",
+      "ref": "Rule 6:1"
+    },
+    {
+      "sport": "squash",
+      "level": 1,
+      "text": "The referee must order a replay if court conditions change during a rally through no fault of either player.",
+      "source": "squash.pdf",
+      "ref": "Rule 3.6.2"
+    },
+    {
+      "sport": "squash",
+      "level": 2,
+      "text": "Games go to 11 points, and at 10-all you need a two-point lead.",
+      "source": "squash.pdf",
+      "ref": "Rule 2.2"
+    },
+    {
+      "sport": "squash",
+      "level": 3,
+      "text": "When serving, at least one foot must be touching the floor inside the service box as you strike the ball.",
+      "source": "squash.pdf",
+      "ref": "Rule 5.7.2"
+    },
+    {
+      "sport": "squash",
+      "level": 4,
+      "text": "A return that hits the tin is not good.",
+      "source": "squash.pdf",
+      "ref": "Rule 6.2"
+    },
+    {
+      "sport": "squash",
+      "level": 5,
+      "text": "Two players share a four-walled court, taking turns to hit a small rubber ball against the front wall.",
+      "source": "squash.pdf",
+      "ref": "Rule 1"
+    },
+    {
+      "sport": "pickleball",
+      "level": 1,
+      "text": "A ball with larger holes is customarily used outdoors, and one with smaller holes indoors.",
+      "source": "pickleball.pdf",
+      "ref": "Rule 3.C"
+    },
+    {
+      "sport": "pickleball",
+      "level": 2,
+      "text": "Games are usually played to 11 points, and you must win by 2.",
+      "source": "pickleball.pdf",
+      "ref": "Rules summary"
+    },
+    {
+      "sport": "pickleball",
+      "level": 3,
+      "text": "The serve and the return of serve must each bounce once before anyone may hit the ball in the air.",
+      "source": "pickleball.pdf",
+      "ref": "Rule 10.A"
+    },
+    {
+      "sport": "pickleball",
+      "level": 4,
+      "text": "On a volley serve, the ball must be below the server's waist when the paddle makes contact.",
+      "source": "pickleball.pdf",
+      "ref": "Rule 7.C.3"
+    },
+    {
+      "sport": "pickleball",
+      "level": 5,
+      "text": "You can't volley while standing in the 7-foot non-volley zone by the net, known as the kitchen.",
+      "source": "pickleball.pdf",
+      "ref": "Rule 9"
+    },
+    {
+      "sport": "bowling",
+      "level": 1,
+      "text": "The ball may weigh no more than 16 pounds, and there's no minimum weight.",
+      "source": "bowling_usbc.pdf",
+      "ref": "Equipment specifications 6 (Weight)"
+    },
+    {
+      "sport": "bowling",
+      "level": 2,
+      "text": "A game has ten turns. In the last turn you get a third delivery if you clear everything.",
+      "source": "bowling_usbc.pdf",
+      "ref": "Rule 2"
+    },
+    {
+      "sport": "bowling",
+      "level": 3,
+      "text": "If any part of your body touches the surface beyond the release line, the delivery counts but scores nothing.",
+      "source": "bowling_usbc.pdf",
+      "ref": "Rule 5"
+    },
+    {
+      "sport": "bowling",
+      "level": 4,
+      "text": "A strike is worth 10 plus whatever you knock down with your next two balls.",
+      "source": "bowling_usbc.pdf",
+      "ref": "Rule 2"
+    },
+    {
+      "sport": "bowling",
+      "level": 5,
+      "text": "Roll a ball down a lane to knock over ten pins.",
+      "source": "bowling_usbc.pdf",
+      "ref": "Rule 2"
+    },
+    {
+      "sport": "petanque",
+      "level": 1,
+      "text": "Each player's [objects] must weigh between 650 and 800 grams.",
+      "source": "petanque.pdf",
+      "ref": "Article 2"
+    },
+    {
+      "sport": "petanque",
+      "level": 2,
+      "text": "Games are played to 13 points.",
+      "source": "petanque.pdf",
+      "ref": "Article 5"
+    },
+    {
+      "sport": "petanque",
+      "level": 3,
+      "text": "The small target must land between 6 and 10 metres from where it was thrown.",
+      "source": "petanque.pdf",
+      "ref": "Article 6"
+    },
+    {
+      "sport": "petanque",
+      "level": 4,
+      "text": "Players throw from a circle 35–50 cm across, with both feet inside it.",
+      "source": "petanque.pdf",
+      "ref": "Article 6"
+    },
+    {
+      "sport": "petanque",
+      "level": 5,
+      "text": "Players toss metal boules from a circle to land as close as possible to the jack, or cochonnet.",
+      "source": "petanque.pdf",
+      "ref": "Articles 2 and 6"
+    },
+    {
+      "sport": "water_polo",
+      "level": 1,
+      "text": "Players may not have grease, oil or any similar substance on their body or hands.",
+      "source": "water_polo.pdf",
+      "ref": "Rule 21.5.1.3"
+    },
+    {
+      "sport": "water_polo",
+      "level": 2,
+      "text": "A team may keep the ball for no more than 28 seconds without shooting.",
+      "source": "water_polo.pdf",
+      "ref": "Rule 9.1"
+    },
+    {
+      "sport": "water_polo",
+      "level": 3,
+      "text": "Goalkeepers must wear red caps.",
+      "source": "water_polo.pdf",
+      "ref": "Rule 21.4.5.2"
+    },
+    {
+      "sport": "water_polo",
+      "level": 4,
+      "text": "Standing on the bottom of the pool is a foul.",
+      "source": "water_polo.pdf",
+      "ref": "Referee signals (Ordinary fouls)"
+    },
+    {
+      "sport": "water_polo",
+      "level": 5,
+      "text": "Seven a side swim and throw a ball into the opponents' goal, and leaving the pool to sit on the side or steps is an exclusion foul.",
+      "source": "water_polo.pdf",
+      "ref": "Rule 10.2.2.5.3"
+    },
+    {
+      "sport": "rowing",
+      "level": 1,
+      "text": "Every boat's bow must be fitted with a solid ball shape.",
+      "source": "rowing.pdf",
+      "ref": "Bye-Laws to Rule 29 (Boats)"
+    },
+    {
+      "sport": "rowing",
+      "level": 2,
+      "text": "The standard international race distance is 2,000 metres in a straight line.",
+      "source": "rowing.pdf",
+      "ref": "Rule 33"
+    },
+    {
+      "sport": "rowing",
+      "level": 3,
+      "text": "The first 100 metres of the course is designated the start zone.",
+      "source": "rowing.pdf",
+      "ref": "Rule 67"
+    },
+    {
+      "sport": "rowing",
+      "level": 4,
+      "text": "A coxswain must weigh at least 55 kg in racing kit and may carry up to 15 kg of deadweight to make up the difference.",
+      "source": "rowing.pdf",
+      "ref": "Rule 22"
+    },
+    {
+      "sport": "rowing",
+      "level": 5,
+      "text": "Crews sit facing backwards and pull on oars to drive the boat over the finish line.",
+      "source": "rowing.pdf",
+      "ref": "Part I (scope and definition of rowing)"
+    },
+    {
+      "sport": "wrestling",
+      "level": 1,
+      "text": "Competitors must have their fingernails cut very short.",
+      "source": "wrestling.pdf",
+      "ref": "Article 11"
+    },
+    {
+      "sport": "wrestling",
+      "level": 2,
+      "text": "A senior bout is two 3-minute periods with a 30-second break.",
+      "source": "wrestling.pdf",
+      "ref": "Article 22"
+    },
+    {
+      "sport": "wrestling",
+      "level": 3,
+      "text": "In one of the styles, grabbing your opponent below the belt line or using your legs to trip them is strictly forbidden.",
+      "source": "wrestling.pdf",
+      "ref": "Introduction"
+    },
+    {
+      "sport": "wrestling",
+      "level": 4,
+      "text": "Holding both of your opponent's shoulders against the mat ends the bout immediately.",
+      "source": "wrestling.pdf",
+      "ref": "Article 42"
+    },
+    {
+      "sport": "wrestling",
+      "level": 5,
+      "text": "The two Olympic styles are Greco-Roman and freestyle, contested on a circular mat.",
+      "source": "wrestling.pdf",
+      "ref": "Introduction; Article 4"
+    },
+    {
+      "sport": "ultimate",
+      "level": 1,
+      "text": "There are no referees: players and captains alone make and resolve all calls.",
+      "source": "ultimate.pdf",
+      "ref": "Rule 1.11"
+    },
+    {
+      "sport": "ultimate",
+      "level": 2,
+      "text": "The player holding the [object] may not run with it and must keep a pivot foot.",
+      "source": "ultimate.pdf",
+      "ref": "Introduction; Rule 7.9"
+    },
+    {
+      "sport": "ultimate",
+      "level": 3,
+      "text": "The defender guarding the thrower counts aloud from one to ten, at least a second apart. The throw must be gone before ten.",
+      "source": "ultimate.pdf",
+      "ref": "Rule 9.1"
+    },
+    {
+      "sport": "ultimate",
+      "level": 4,
+      "text": "The game is self-officiated and non-contact, guided by the Spirit of the Game.",
+      "source": "ultimate.pdf",
+      "ref": "Rule 1"
+    },
+    {
+      "sport": "ultimate",
+      "level": 5,
+      "text": "You score by catching the disc in the end zone you're attacking.",
+      "source": "ultimate.pdf",
+      "ref": "Introduction"
+    },
+    {
+      "sport": "tug_of_war",
+      "level": 1,
+      "text": "The equipment must be 10–12.5 cm in circumference, with no knots or other handholds.",
+      "source": "tug_of_war.pdf",
+      "ref": "Rule 9.1"
+    },
+    {
+      "sport": "tug_of_war",
+      "level": 2,
+      "text": "Teams compete in weight classes and are weighed beforehand. A team is eight athletes plus a coach and trainer.",
+      "source": "tug_of_war.pdf",
+      "ref": "Rule 3"
+    },
+    {
+      "sport": "tug_of_war",
+      "level": 3,
+      "text": "Everyone except the last team member must grip with both hands.",
+      "source": "tug_of_war.pdf",
+      "ref": "Rule 12"
+    },
+    {
+      "sport": "tug_of_war",
+      "level": 4,
+      "text": "The anchor at the back may wear a protective vest up to a maximum thickness.",
+      "source": "tug_of_war.pdf",
+      "ref": "Rule 8"
+    },
+    {
+      "sport": "tug_of_war",
+      "level": 5,
+      "text": "Two teams pull on a rope, and you win by dragging it the required distance past the markings.",
+      "source": "tug_of_war.pdf",
+      "ref": "Rule 19.1"
+    },
+    {
+      "sport": "futsal",
+      "level": 1,
+      "text": "The ball must have a circumference of 62–64 cm, smaller than in most football codes.",
+      "source": "futsal.pdf",
+      "ref": "Law 2"
+    },
+    {
+      "sport": "futsal",
+      "level": 2,
+      "text": "Two halves of 20 minutes of playing time, with the clock stopped whenever the ball is out of play.",
+      "source": "futsal.pdf",
+      "ref": "Law 7"
+    },
+    {
+      "sport": "futsal",
+      "level": 3,
+      "text": "Free kicks and other restarts must be taken within four seconds, or possession goes to the other side.",
+      "source": "futsal.pdf",
+      "ref": "Laws 13–17"
+    },
+    {
+      "sport": "futsal",
+      "level": 4,
+      "text": "From a team's sixth accumulated foul in a half, opponents get a direct free kick from the 10 m mark with no defensive wall.",
+      "source": "futsal.pdf",
+      "ref": "Law 13.5"
+    },
+    {
+      "sport": "futsal",
+      "level": 5,
+      "text": "Five a side on a hard indoor court. When the ball goes over the sideline, play restarts with a kick-in instead of a throw-in.",
+      "source": "futsal.pdf",
+      "ref": "Laws 3 and 15"
+    },
+    {
+      "sport": "gaelic_football",
+      "level": 1,
+      "text": "Players in one code may be required to wear helmets, but the referee must not allow a helmet in a game of this one.",
+      "source": "gaelic_hurling_gaa.pdf",
+      "ref": "Rules of Specification 4.2"
+    },
+    {
+      "sport": "gaelic_football",
+      "level": 2,
+      "text": "Senior championship games are two periods of 35 minutes each, with time added for stoppages.",
+      "source": "gaelic_hurling_gaa.pdf",
+      "ref": "Rules of Specification 3.2"
+    },
+    {
+      "sport": "gaelic_football",
+      "level": 3,
+      "text": "A kick over the bar from on or outside a 40 m arc is worth two points, but only one point from a 45.",
+      "source": "gaelic_hurling_gaa.pdf",
+      "ref": "Playing Rules of Football (Scoring)"
+    },
+    {
+      "sport": "gaelic_football",
+      "level": 4,
+      "text": "You may carry the ball for no longer than it takes to take four steps, then you must bounce it or solo it (toe-tap it).",
+      "source": "gaelic_hurling_gaa.pdf",
+      "ref": "Playing Rules of Football (Technical fouls)"
+    },
+    {
+      "sport": "gaelic_football",
+      "level": 5,
+      "text": "Fifteen a side kick and hand-pass a round ball. Under the crossbar is a goal worth 3, and over it is a point.",
+      "source": "gaelic_hurling_gaa.pdf",
+      "ref": "Playing Rules of Football"
+    },
+    {
+      "sport": "hurling",
+      "level": 1,
+      "text": "Every player must wear a helmet with a face guard that meets the Irish national safety standard.",
+      "source": "gaelic_hurling_gaa.pdf",
+      "ref": "Rules of Specification 4.2"
+    },
+    {
+      "sport": "hurling",
+      "level": 2,
+      "text": "Fifteen a side over two periods, and the ball may be struck with the hand, kicked, or lifted off the ground with the feet.",
+      "source": "gaelic_hurling_gaa.pdf",
+      "ref": "Playing Rules of Hurling 1.5"
+    },
+    {
+      "sport": "hurling",
+      "level": 3,
+      "text": "Players may not touch the ball on the ground with their hands unless they've been knocked down.",
+      "source": "gaelic_hurling_gaa.pdf",
+      "ref": "Playing Rules of Hurling 1.6"
+    },
+    {
+      "sport": "hurling",
+      "level": 4,
+      "text": "You may hold the sliotar for no longer than four steps, but you can balance it on your hurley as you run.",
+      "source": "gaelic_hurling_gaa.pdf",
+      "ref": "Playing Rules of Hurling 1.7"
+    },
+    {
+      "sport": "hurling",
+      "level": 5,
+      "text": "Played with an ash stick called a hurley and a small ball called a sliotar. Over the bar is a point, and under it is a goal.",
+      "source": "gaelic_hurling_gaa.pdf",
+      "ref": "Playing Rules of Hurling"
+    },
+    {
+      "sport": "polo",
+      "level": 1,
+      "text": "No player may swing their [implement] in a windmill or helicopter fashion.",
+      "source": "polo.pdf",
+      "ref": "Rule 20"
+    },
+    {
+      "sport": "polo",
+      "level": 2,
+      "text": "Each period lasts at most 7½ minutes.",
+      "source": "polo.pdf",
+      "ref": "Rule 2"
+    },
+    {
+      "sport": "polo",
+      "level": 3,
+      "text": "Play starts with the umpire bowling the ball in between the two teams, who must stay still until it leaves the umpire's hand.",
+      "source": "polo.pdf",
+      "ref": "Rule 4"
+    },
+    {
+      "sport": "polo",
+      "level": 4,
+      "text": "No player may cross another who is riding parallel to the line of the ball.",
+      "source": "polo.pdf",
+      "ref": "Rule 17"
+    },
+    {
+      "sport": "polo",
+      "level": 5,
+      "text": "Four a side on horseback, hitting a ball with long-handled mallets across chukkers.",
+      "source": "polo.pdf",
+      "ref": "Rules 1–2"
+    },
+    {
+      "sport": "softball",
+      "level": 1,
+      "text": "The player delivering the ball has 10 seconds to release the next one.",
+      "source": "softball_slowpitch.pdf",
+      "ref": "Rule 4.3"
+    },
+    {
+      "sport": "softball",
+      "level": 2,
+      "text": "Ten players take the field, including four outfielders.",
+      "source": "softball_slowpitch.pdf",
+      "ref": "Rule 4 (Players)"
+    },
+    {
+      "sport": "softball",
+      "level": 3,
+      "text": "Each delivery must travel in a visible arc, reaching between 1.83 m (6 ft) and 3.65 m (12 ft) above the ground.",
+      "source": "softball_slowpitch.pdf",
+      "ref": "Rule 4.3"
+    },
+    {
+      "sport": "softball",
+      "level": 4,
+      "text": "Runners may not steal bases. Advancing before the batter hits the pitch is prohibited.",
+      "source": "softball_slowpitch.pdf",
+      "ref": "Rule 5.1.39"
+    },
+    {
+      "sport": "softball",
+      "level": 5,
+      "text": "Like baseball but with a larger ball, a smaller field and underhand pitching.",
+      "source": "softball_slowpitch.pdf",
+      "ref": "Rules 1–4"
+    },
+    {
+      "sport": "dodgeball",
+      "level": 1,
+      "text": "Players must not hold, squeeze or pinch a ball in a way that could damage it.",
+      "source": "dodgeball.pdf",
+      "ref": "Rule 2.1.5.1"
+    },
+    {
+      "sport": "dodgeball",
+      "level": 1,
+      "text": "Headbands, bandanas and protective helmets are the only headgear allowed.",
+      "source": "dodgeball.pdf",
+      "ref": "Rule 2.4.2"
+    },
+    {
+      "sport": "dodgeball",
+      "level": 2,
+      "text": "A team that starts a set with fewer than six players on court is officially short-handed.",
+      "source": "dodgeball.pdf",
+      "ref": "Definitions 17"
+    },
+    {
+      "sport": "dodgeball",
+      "level": 3,
+      "text": "A player who has been put out may come back onto court only when a teammate cleanly grabs an opponent's throw out of the air.",
+      "source": "dodgeball.pdf",
+      "ref": "Rules 21.3.1 and 23"
+    },
+    {
+      "sport": "dodgeball",
+      "level": 4,
+      "text": "Hit an opponent with a thrown ball and they're eliminated. Catch their throw and the thrower is out instead.",
+      "source": "dodgeball.pdf",
+      "ref": "Rule 22"
+    },
+    {
+      "sport": "dodgeball",
+      "level": 5,
+      "text": "Teams throw foam balls at each other, trying to eliminate every opponent.",
+      "source": "dodgeball.pdf",
+      "ref": "Introduction"
+    },
+    {
+      "sport": "padel",
+      "level": 1,
+      "text": "The [hitting implement] has no strings and may be no longer than 45.5 cm in total.",
+      "source": "padel.pdf",
+      "ref": "Rules: The racket"
+    },
+    {
+      "sport": "padel",
+      "level": 2,
+      "text": "The playing area is fully enclosed: walls 3 m high, topped by a further metre of metal fencing.",
+      "source": "padel.pdf",
+      "ref": "Rules: The court (enclosure)"
+    },
+    {
+      "sport": "padel",
+      "level": 3,
+      "text": "On the serve, the ball must be at or below waist height when it's struck.",
+      "source": "padel.pdf",
+      "ref": "Rules: The serve (4)"
+    },
+    {
+      "sport": "padel",
+      "level": 4,
+      "text": "After the ball bounces on your side, you can play it off the glass walls before hitting it back.",
+      "source": "padel.pdf",
+      "ref": "Rules: Ball in play"
+    },
+    {
+      "sport": "padel",
+      "level": 5,
+      "text": "Doubles on a small court enclosed by glass and mesh, using solid perforated rackets and an underhand serve.",
+      "source": "padel.pdf",
+      "ref": "Rules"
+    },
+    {
+      "sport": "beach_volleyball",
+      "level": 1,
+      "text": "The ball's inside pressure is 0.175–0.225 kg/cm², softer than its indoor cousin's.",
+      "source": "beach_volleyball.pdf",
+      "ref": "Rule 3.1"
+    },
+    {
+      "sport": "beach_volleyball",
+      "level": 2,
+      "text": "Teams switch ends every 7 points, or every 5 in the deciding period.",
+      "source": "beach_volleyball.pdf",
+      "ref": "Rule 18.2.1"
+    },
+    {
+      "sport": "beach_volleyball",
+      "level": 3,
+      "text": "Periods go to 21 points, and a deciding third goes to 15.",
+      "source": "beach_volleyball.pdf",
+      "ref": "Rule 6"
+    },
+    {
+      "sport": "beach_volleyball",
+      "level": 4,
+      "text": "Unlike the indoor game, a block counts as one of the team's three touches.",
+      "source": "beach_volleyball.pdf",
+      "ref": "Rule 14.4"
+    },
+    {
+      "sport": "beach_volleyball",
+      "level": 5,
+      "text": "Two players per team on sand. Attacking with an open-handed finger tip is a fault.",
+      "source": "beach_volleyball.pdf",
+      "ref": "Rule 13.2.3"
+    },
+    {
+      "sport": "lawn_bowls",
+      "level": 1,
+      "text": "Every [object] used must bear the governing body's official stamp.",
+      "source": "lawn_bowls.pdf",
+      "ref": "Law 53"
+    },
+    {
+      "sport": "lawn_bowls",
+      "level": 2,
+      "text": "Each player has a set of four [objects] that must all match in size, colour and weight.",
+      "source": "lawn_bowls.pdf",
+      "ref": "Domestic regulations D.3"
+    },
+    {
+      "sport": "lawn_bowls",
+      "level": 3,
+      "text": "The small white target must come to rest at least 23 m from where it's delivered, or it's re-spotted.",
+      "source": "lawn_bowls.pdf",
+      "ref": "Law 10.1.3"
+    },
+    {
+      "sport": "lawn_bowls",
+      "level": 4,
+      "text": "A bowl that touches the jack during its original course is a toucher, and must be marked with chalk.",
+      "source": "lawn_bowls.pdf",
+      "ref": "Laws 14–15"
+    },
+    {
+      "sport": "lawn_bowls",
+      "level": 5,
+      "text": "Roll weighted, biased balls along a flat green to finish as close as possible to the jack.",
+      "source": "lawn_bowls.pdf",
+      "ref": "Laws"
+    },
+    {
+      "sport": "croquet",
+      "level": 1,
+      "text": "The four corners of the playing area are marked with flags coloured blue, red, black and yellow.",
+      "source": "croquet.pdf",
+      "ref": "Glossary (Corner flags)"
+    },
+    {
+      "sport": "croquet",
+      "level": 2,
+      "text": "One side plays the blue and black balls, and the other plays red and yellow.",
+      "source": "croquet.pdf",
+      "ref": "Law 2.3"
+    },
+    {
+      "sport": "croquet",
+      "level": 3,
+      "text": "If your ball hits another ball, you then place yours against it and play a stroke that moves both.",
+      "source": "croquet.pdf",
+      "ref": "Law 18"
+    },
+    {
+      "sport": "croquet",
+      "level": 4,
+      "text": "Each ball must run 12 hoops in a set order (the last is called 'rover') and then hit the centre peg.",
+      "source": "croquet.pdf",
+      "ref": "Law 2.5; Diagram 1"
+    },
+    {
+      "sport": "croquet",
+      "level": 5,
+      "text": "Players strike balls with a mallet through hoops on a lawn.",
+      "source": "croquet.pdf",
+      "ref": "Law 1"
+    },
+    {
+      "sport": "cornhole",
+      "level": 1,
+      "text": "Each [object] is roughly 6 inches square and weighs 14–16.25 ounces.",
+      "source": "cornhole.pdf",
+      "ref": "Equipment: bags"
+    },
+    {
+      "sport": "cornhole",
+      "level": 2,
+      "text": "Adults throw from a line 27 feet from the target.",
+      "source": "cornhole.pdf",
+      "ref": "Court layout"
+    },
+    {
+      "sport": "cornhole",
+      "level": 3,
+      "text": "Scoring is by cancellation: only the difference between the two sides' points in a round counts.",
+      "source": "cornhole.pdf",
+      "ref": "Scoring"
+    },
+    {
+      "sport": "cornhole",
+      "level": 4,
+      "text": "A bag that goes through the hole, even if knocked in by another bag, is worth three points.",
+      "source": "cornhole.pdf",
+      "ref": "Scoring"
+    },
+    {
+      "sport": "cornhole",
+      "level": 5,
+      "text": "Toss bean bags at a slanted board with a hole in it, playing to 21.",
+      "source": "cornhole.pdf",
+      "ref": "Determining winners"
+    },
+    {
+      "sport": "disc_golf",
+      "level": 1,
+      "text": "Your playing position is a rectangle 20 cm wide and 30 cm deep, directly behind your marker.",
+      "source": "disc_golf.html",
+      "ref": "802.05 Lie"
+    },
+    {
+      "sport": "disc_golf",
+      "level": 2,
+      "text": "At the start of each hole, all your supporting points must be inside the starting area when you release.",
+      "source": "disc_golf.html",
+      "ref": "802.04"
+    },
+    {
+      "sport": "disc_golf",
+      "level": 3,
+      "text": "Landing out-of-bounds costs one penalty throw.",
+      "source": "disc_golf.html",
+      "ref": "806.02"
+    },
+    {
+      "sport": "disc_golf",
+      "level": 4,
+      "text": "Within 10 metres of the target, you must show full balance behind your marker before moving forward.",
+      "source": "disc_golf.html",
+      "ref": "806.01"
+    },
+    {
+      "sport": "disc_golf",
+      "level": 5,
+      "text": "Throw a disc into a chain basket in as few throws as possible.",
+      "source": "disc_golf.html",
+      "ref": "801"
+    },
+    {
+      "sport": "taekwondo",
+      "level": 1,
+      "text": "Whenever your opponent is given a penalty, you're awarded one point.",
+      "source": "taekwondo.pdf",
+      "ref": "Valid points 3.5"
+    },
+    {
+      "sport": "taekwondo",
+      "level": 2,
+      "text": "A contest is three rounds of two minutes, with a one-minute rest between them.",
+      "source": "taekwondo.pdf",
+      "ref": "Duration of contest 1.1"
+    },
+    {
+      "sport": "taekwondo",
+      "level": 3,
+      "text": "A punch scores 1 point, but only when it lands on the body protector.",
+      "source": "taekwondo.pdf",
+      "ref": "Valid points 3.1"
+    },
+    {
+      "sport": "taekwondo",
+      "level": 4,
+      "text": "A kick to the trunk protector scores 2 points, and a kick to the head scores 3.",
+      "source": "taekwondo.pdf",
+      "ref": "Valid points 3.2–3.3"
+    },
+    {
+      "sport": "taekwondo",
+      "level": 5,
+      "text": "Korean martial art in a dobok, scored by electronic sensors in body and head protectors.",
+      "source": "taekwondo.pdf",
+      "ref": "Uniform 2.2"
+    },
+    {
+      "sport": "bobsleigh",
+      "level": 1,
+      "text": "The steel blades the vehicle glides on may be no more than 4 °C warmer than a reference blade. Fail the check twice and you're disqualified.",
+      "source": "bobsleigh.pdf",
+      "ref": "Measurement of runner temperatures"
+    },
+    {
+      "sport": "bobsleigh",
+      "level": 2,
+      "text": "The maximum combined weight is 390 kg for a crew of two and 630 kg for a crew of four.",
+      "source": "bobsleigh.pdf",
+      "ref": "Technical rules: Maximum weight"
+    },
+    {
+      "sport": "bobsleigh",
+      "level": 3,
+      "text": "Results are decided by adding up the times of all the race heats.",
+      "source": "bobsleigh.pdf",
+      "ref": "Rule 10.6.7"
+    },
+    {
+      "sport": "bobsleigh",
+      "level": 4,
+      "text": "The pilot at the front steers the sled using steering ropes and handles.",
+      "source": "bobsleigh.pdf",
+      "ref": "Rule 12.2.4.3.2 (Steering mechanism)"
+    },
+    {
+      "sport": "bobsleigh",
+      "level": 5,
+      "text": "Teams of two or four push a steerable sled, jump in, and race it down an ice track.",
+      "source": "bobsleigh.pdf",
+      "ref": "International Rules"
+    },
+    {
+      "sport": "skeleton",
+      "level": 1,
+      "text": "The vehicle alone may weigh no more than 45 kg for men and 38 kg for women.",
+      "source": "skeleton.pdf",
+      "ref": "Rule 10.14"
+    },
+    {
+      "sport": "skeleton",
+      "level": 2,
+      "text": "Athlete plus equipment may not exceed 120 kg for men or 102 kg for women.",
+      "source": "skeleton.pdf",
+      "ref": "Weight rules"
+    },
+    {
+      "sport": "skeleton",
+      "level": 3,
+      "text": "Results are decided by adding up each athlete's times across the race heats.",
+      "source": "skeleton.pdf",
+      "ref": "Rule 10.6.8"
+    },
+    {
+      "sport": "skeleton",
+      "level": 4,
+      "text": "Only the head-first, prone position, lying on your stomach, is allowed.",
+      "source": "skeleton.pdf",
+      "ref": "Driving position"
+    },
+    {
+      "sport": "skeleton",
+      "level": 5,
+      "text": "Slide head-first and face-down on a small sled down an ice track.",
+      "source": "skeleton.pdf",
+      "ref": "International Rules"
+    },
+    {
+      "sport": "gymnastics",
+      "level": 1,
+      "text": "A full set of spare equipment must be placed around the floor area for anyone to use.",
+      "source": "gymnastics_rhythmic.pdf",
+      "ref": "Rule 9.2"
+    },
+    {
+      "sport": "gymnastics",
+      "level": 2,
+      "text": "Each individual routine must last between 1'15\" and 1'30\". At 1'31.00 there's a penalty.",
+      "source": "gymnastics_rhythmic.pdf",
+      "ref": "Rules 1.2.2 and 2.3"
+    },
+    {
+      "sport": "gymnastics",
+      "level": 3,
+      "text": "In group routines, a 'long throw' must cover at least 6 metres between performers.",
+      "source": "gymnastics_rhythmic.pdf",
+      "ref": "Group rules 6.3.1"
+    },
+    {
+      "sport": "gymnastics",
+      "level": 4,
+      "text": "The five apparatus are rope, hoop, ball, clubs and ribbon.",
+      "source": "gymnastics_rhythmic.pdf",
+      "ref": "Apparatus program"
+    },
+    {
+      "sport": "gymnastics",
+      "level": 5,
+      "text": "Judged routines set to music, performed while handling a ribbon, hoop, ball or clubs.",
+      "source": "gymnastics_rhythmic.pdf",
+      "ref": "Code of Points"
+    },
+    {
+      "sport": "beach_soccer",
+      "level": 1,
+      "text": "The goalkeeper may not hold the ball in their hands for more than four seconds.",
+      "source": "beach_soccer.pdf",
+      "ref": "Law 12"
+    },
+    {
+      "sport": "beach_soccer",
+      "level": 2,
+      "text": "A match is three periods of 12 minutes of playing time.",
+      "source": "beach_soccer.pdf",
+      "ref": "Law 7"
+    },
+    {
+      "sport": "beach_soccer",
+      "level": 3,
+      "text": "Unlawfully preventing an opponent from executing a scissors or overhead kick is a foul.",
+      "source": "beach_soccer.pdf",
+      "ref": "Law 12"
+    },
+    {
+      "sport": "beach_soccer",
+      "level": 4,
+      "text": "Footwear isn't permitted, so everyone plays barefoot.",
+      "source": "beach_soccer.pdf",
+      "ref": "Law 4"
+    },
+    {
+      "sport": "beach_soccer",
+      "level": 5,
+      "text": "Five a side on sand, often with spectacular bicycle kicks.",
+      "source": "beach_soccer.pdf",
+      "ref": "Laws 1 and 3"
+    },
+    {
+      "sport": "canadian_football",
+      "level": 1,
+      "text": "The field of play is 110 yards (100 m) long and 65 yards (60 m) wide.",
+      "source": "canadian_football_amateur.pdf",
+      "ref": "Field of play"
+    },
+    {
+      "sport": "canadian_football",
+      "level": 2,
+      "text": "Each team has 12 players on the field at any one time.",
+      "source": "canadian_football_amateur.pdf",
+      "ref": "Teams"
+    },
+    {
+      "sport": "canadian_football",
+      "level": 3,
+      "text": "The offense gets only three attempts to advance the ball 10 yards.",
+      "source": "canadian_football_amateur.pdf",
+      "ref": "Downs"
+    },
+    {
+      "sport": "canadian_football",
+      "level": 4,
+      "text": "If a kick ends dead in the end zone without being returned, the kicking team scores a single point, called a rouge.",
+      "source": "canadian_football_amateur.pdf",
+      "ref": "Scoring, Article 4 (Rouge or single point)"
+    },
+    {
+      "sport": "canadian_football",
+      "level": 5,
+      "text": "Gridiron football with 12 players a side, three downs and a 110-yard field.",
+      "source": "canadian_football_amateur.pdf",
+      "ref": "Teams; Field of play"
+    },
+    {
+      "sport": "touch_football",
+      "level": 1,
+      "text": "Players coming onto the field must take up an onside position before joining play.",
+      "source": "touch_football.pdf",
+      "ref": "Rule 17.6"
+    },
+    {
+      "sport": "touch_football",
+      "level": 2,
+      "text": "Possession changes after the defending team has made its sixth legal contact on the ball carrier.",
+      "source": "touch_football.pdf",
+      "ref": "Rule 9.3"
+    },
+    {
+      "sport": "touch_football",
+      "level": 3,
+      "text": "The player who picks up the ball at the restart, called the half, isn't allowed to score.",
+      "source": "touch_football.pdf",
+      "ref": "Rule 13"
+    },
+    {
+      "sport": "touch_football",
+      "level": 4,
+      "text": "After being touched, the attacker places the ball on the ground and steps over it to restart play, a rollball.",
+      "source": "touch_football.pdf",
+      "ref": "Rule 13"
+    },
+    {
+      "sport": "touch_football",
+      "level": 5,
+      "text": "Rugby without tackles: six touches, then the other team gets the ball.",
+      "source": "touch_football.pdf",
+      "ref": "Rules 9 and 13"
+    },
+    {
+      "sport": "bandy",
+      "level": 1,
+      "text": "Only the goalkeeper may take part in play without a [playing implement].",
+      "source": "bandy.pdf",
+      "ref": "Rule 5"
+    },
+    {
+      "sport": "bandy",
+      "level": 2,
+      "text": "A match is two halves of 45 minutes.",
+      "source": "bandy.pdf",
+      "ref": "Rule 4.1"
+    },
+    {
+      "sport": "bandy",
+      "level": 3,
+      "text": "You may not strike the ball with your [implement] above shoulder height.",
+      "source": "bandy.pdf",
+      "ref": "Rule 7.1"
+    },
+    {
+      "sport": "bandy",
+      "level": 4,
+      "text": "Played on skates with sticks and a ball, on an ice field 90–110 m long, bordered by low boards.",
+      "source": "bandy.pdf",
+      "ref": "Rules 1–3"
+    },
+    {
+      "sport": "bandy",
+      "level": 5,
+      "text": "Hockey's older cousin: eleven a side on skates, with a small ball instead of a puck, on a huge ice field.",
+      "source": "bandy.pdf",
+      "ref": "Rules 1–3"
+    },
+    {
+      "sport": "floorball",
+      "level": 1,
+      "text": "The goalkeeper plays without any [playing implement].",
+      "source": "floorball.pdf",
+      "ref": "Rule 303"
+    },
+    {
+      "sport": "floorball",
+      "level": 2,
+      "text": "Regular game time is three periods of 20 minutes.",
+      "source": "floorball.pdf",
+      "ref": "Rule 201"
+    },
+    {
+      "sport": "floorball",
+      "level": 3,
+      "text": "It's a free hit if a player plays, or tries to play, the ball above knee level.",
+      "source": "floorball.pdf",
+      "ref": "Rule 507"
+    },
+    {
+      "sport": "floorball",
+      "level": 4,
+      "text": "Played indoors in a rink, with a light plastic ball and lightweight sticks.",
+      "source": "floorball.pdf",
+      "ref": "Rules 101–102"
+    },
+    {
+      "sport": "floorball",
+      "level": 5,
+      "text": "Indoor hockey with lightweight sticks and a plastic ball full of holes.",
+      "source": "floorball.pdf",
+      "ref": "Rules of the Game"
+    },
+    {
+      "sport": "rink_hockey",
+      "level": 1,
+      "text": "If both teams are guilty of anti-play, the referees can show a blue card to both captains.",
+      "source": "rink_hockey.pdf",
+      "ref": "Rules of the Game: anti-play"
+    },
+    {
+      "sport": "rink_hockey",
+      "level": 2,
+      "text": "Raising the ball above the permitted height is a technical foul, except for the goalkeeper.",
+      "source": "rink_hockey.pdf",
+      "ref": "Technical fouls (d)"
+    },
+    {
+      "sport": "rink_hockey",
+      "level": 3,
+      "text": "Raising your [implement] above your shoulders in a way that endangers others is a technical foul.",
+      "source": "rink_hockey.pdf",
+      "ref": "Technical fouls (m)"
+    },
+    {
+      "sport": "rink_hockey",
+      "level": 4,
+      "text": "Players use skates with four wheels in two pairs, though inline skates are also allowed.",
+      "source": "rink_hockey.pdf",
+      "ref": "Rulebook"
+    },
+    {
+      "sport": "rink_hockey",
+      "level": 5,
+      "text": "Hockey on quad roller skates, played with a ball and a goalkeeper plus four rink players a side.",
+      "source": "rink_hockey.pdf",
+      "ref": "Rules of the Game"
+    },
+    {
+      "sport": "ringette",
+      "level": 1,
+      "text": "Each possession has a thirty-second shot clock.",
+      "source": "ringette.pdf",
+      "ref": "Rule 24.3"
+    },
+    {
+      "sport": "ringette",
+      "level": 2,
+      "text": "A team may appoint no more than three captains from among its players.",
+      "source": "ringette.pdf",
+      "ref": "Rule 7.4.a"
+    },
+    {
+      "sport": "ringette",
+      "level": 3,
+      "text": "The [object] can't be carried across a blue line. It must be passed, shot, or deflected across.",
+      "source": "ringette.pdf",
+      "ref": "Rule 8.4"
+    },
+    {
+      "sport": "ringette",
+      "level": 4,
+      "text": "Skaters use a straight-bladed stick to carry, pass and shoot a rubber ring.",
+      "source": "ringette.pdf",
+      "ref": "Rule 1"
+    },
+    {
+      "sport": "ringette",
+      "level": 5,
+      "text": "Canadian ice team sport played with a ring instead of a puck.",
+      "source": "ringette.pdf",
+      "ref": "Official Rules"
+    },
+    {
+      "sport": "camogie",
+      "level": 1,
+      "text": "Actual playing time must be sixty minutes, with a half-time interval of no more than 15 minutes.",
+      "source": "camogie.pdf",
+      "ref": "Rule 4.1"
+    },
+    {
+      "sport": "camogie",
+      "level": 2,
+      "text": "Players' numbers must appear on the team jersey and on the skirt or skort.",
+      "source": "camogie.pdf",
+      "ref": "Playing rules (Dress)"
+    },
+    {
+      "sport": "camogie",
+      "level": 3,
+      "text": "A player may not pick the ball up off the ground with her hand, or throw it up and catch it.",
+      "source": "camogie.pdf",
+      "ref": "Playing rules (A player may not, a and d)"
+    },
+    {
+      "sport": "camogie",
+      "level": 4,
+      "text": "Played with a hurley and sliotar, with points over the bar and goals under it.",
+      "source": "camogie.pdf",
+      "ref": "Official Playing Rules"
+    },
+    {
+      "sport": "camogie",
+      "level": 5,
+      "text": "The women's stick game related to hurling, governed by its own Irish association.",
+      "source": "camogie.pdf",
+      "ref": "Official Playing Rules"
+    },
+    {
+      "sport": "shinty",
+      "level": 1,
+      "text": "The head of the [implement] must be small enough to pass through a ring of a fixed size.",
+      "source": "shinty.pdf",
+      "ref": "Byelaw 1.4.5"
+    },
+    {
+      "sport": "shinty",
+      "level": 2,
+      "text": "Each team has no more than twelve players, one of whom is the goalkeeper.",
+      "source": "shinty.pdf",
+      "ref": "Byelaw 1.2.1"
+    },
+    {
+      "sport": "shinty",
+      "level": 3,
+      "text": "Only the goalkeeper may stop the ball with an open hand, and only within the ten-yard area.",
+      "source": "shinty.pdf",
+      "ref": "Byelaw 1.12.1"
+    },
+    {
+      "sport": "shinty",
+      "level": 4,
+      "text": "Play starts with a throw-up between two players, and a goal scored straight from a throw-up counts.",
+      "source": "shinty.pdf",
+      "ref": "Byelaw 1.9"
+    },
+    {
+      "sport": "shinty",
+      "level": 5,
+      "text": "Scotland's Highland stick game, played with a caman and closely related to hurling.",
+      "source": "shinty.pdf",
+      "ref": "Rules of Play"
+    },
+    {
+      "sport": "underwater_hockey",
+      "level": 1,
+      "text": "Each player's [implement] must fit entirely inside a box 100 × 350 × 50 mm.",
+      "source": "underwater_hockey.pdf",
+      "ref": "Rule 11.3.7.2"
+    },
+    {
+      "sport": "underwater_hockey",
+      "level": 2,
+      "text": "A squad is up to six players plus four substitutes, who may be used at any time.",
+      "source": "underwater_hockey.pdf",
+      "ref": "Rule 11.1.1"
+    },
+    {
+      "sport": "underwater_hockey",
+      "level": 3,
+      "text": "Advancing the [object] with your glove, free hand or body is a foul.",
+      "source": "underwater_hockey.pdf",
+      "ref": "Rule 13.1.15"
+    },
+    {
+      "sport": "underwater_hockey",
+      "level": 4,
+      "text": "Played on the bottom of a pool wearing a mask, snorkel and fins, pushing a puck with a short stick.",
+      "source": "underwater_hockey.pdf",
+      "ref": "Rules of Play"
+    },
+    {
+      "sport": "underwater_hockey",
+      "level": 5,
+      "text": "Six-a-side hockey played on the floor of a swimming pool.",
+      "source": "underwater_hockey.pdf",
+      "ref": "Rules of Play"
+    },
+    {
+      "sport": "polocrosse",
+      "level": 1,
+      "text": "The goal judge signals a goal by waving their [implement] above their head.",
+      "source": "polocrosse.pdf",
+      "ref": "Rule 15"
+    },
+    {
+      "sport": "polocrosse",
+      "level": 2,
+      "text": "A team is six players in two sections of three, and the sections play alternate periods.",
+      "source": "polocrosse.pdf",
+      "ref": "Rule 8"
+    },
+    {
+      "sport": "polocrosse",
+      "level": 3,
+      "text": "Players must be within reach of an opponent's [implement] before attacking them for the ball.",
+      "source": "polocrosse.pdf",
+      "ref": "Rules of play"
+    },
+    {
+      "sport": "polocrosse",
+      "level": 4,
+      "text": "Riders carry the ball in a racquet with a loose net, and sections swap between chukkas.",
+      "source": "polocrosse.pdf",
+      "ref": "Rules 8 and 15"
+    },
+    {
+      "sport": "polocrosse",
+      "level": 5,
+      "text": "Polo crossed with lacrosse: played on horseback with netted racquets.",
+      "source": "polocrosse.pdf",
+      "ref": "International Rules"
+    },
+    {
+      "sport": "rounders",
+      "level": 1,
+      "text": "The field must be at least 70 metres long, with four running stations 25 metres apart.",
+      "source": "rounders.pdf",
+      "ref": "Rule 1"
+    },
+    {
+      "sport": "rounders",
+      "level": 2,
+      "text": "A match ends when each side has had five turns at batting (seven in All-Ireland finals).",
+      "source": "rounders.pdf",
+      "ref": "Rule 9"
+    },
+    {
+      "sport": "rounders",
+      "level": 3,
+      "text": "Hitters try to score a run by getting all the way round the field and home.",
+      "source": "rounders.pdf",
+      "ref": "Scoring"
+    },
+    {
+      "sport": "rounders",
+      "level": 4,
+      "text": "Batters run between four bases, 25 m apart, after the pitcher delivers the ball.",
+      "source": "rounders.pdf",
+      "ref": "Rule 1"
+    },
+    {
+      "sport": "rounders",
+      "level": 5,
+      "text": "An old Irish and British bat-and-ball game, a forerunner of baseball.",
+      "source": "rounders.pdf",
+      "ref": "GAA Rounders Rule Book"
+    },
+    {
+      "sport": "korfball",
+      "level": 1,
+      "text": "The top edge of the target is 3.5 m above the ground.",
+      "source": "korfball.pdf",
+      "ref": "Rule 2.2"
+    },
+    {
+      "sport": "korfball",
+      "level": 2,
+      "text": "Each team starts with four men and four women.",
+      "source": "korfball.pdf",
+      "ref": "Rule 5.1"
+    },
+    {
+      "sport": "korfball",
+      "level": 3,
+      "text": "You may only hinder an opponent of your own sex. Blocking a shot from the opposite sex is a foul.",
+      "source": "korfball.pdf",
+      "ref": "Rule 6.6"
+    },
+    {
+      "sport": "korfball",
+      "level": 4,
+      "text": "You may not shoot from a defended position, so an opponent close by with an arm up blocks the shot.",
+      "source": "korfball.pdf",
+      "ref": "Rule 6.3"
+    },
+    {
+      "sport": "korfball",
+      "level": 5,
+      "text": "Dutch mixed team game shooting into a basket on a tall post. After every two goals, players switch zones.",
+      "source": "korfball.pdf",
+      "ref": "Rule 5.6"
+    },
+    {
+      "sport": "tchoukball",
+      "level": 1,
+      "text": "A player may not shoot at the same target a fourth time in a row.",
+      "source": "tchoukball.pdf",
+      "ref": "Rule 7.1.10"
+    },
+    {
+      "sport": "tchoukball",
+      "level": 2,
+      "text": "A team may make no more than three consecutive passes before shooting.",
+      "source": "tchoukball.pdf",
+      "ref": "Rule 7.1.4"
+    },
+    {
+      "sport": "tchoukball",
+      "level": 3,
+      "text": "Passes may not be intercepted by the other team, which keeps the game non-aggressive.",
+      "source": "tchoukball.pdf",
+      "ref": "Introduction"
+    },
+    {
+      "sport": "tchoukball",
+      "level": 4,
+      "text": "A forbidden zone with a 3 m radius surrounds each frame, and stepping on its line with the ball is a fault.",
+      "source": "tchoukball.pdf",
+      "ref": "Rules 2 and 7.1.11"
+    },
+    {
+      "sport": "tchoukball",
+      "level": 5,
+      "text": "Score by throwing the ball onto a sprung rebound frame so it bounces back and lands untouched.",
+      "source": "tchoukball.pdf",
+      "ref": "Introduction"
+    },
+    {
+      "sport": "kin_ball",
+      "level": 1,
+      "text": "Officials use a six-sided die marked with the three team colours, two faces each.",
+      "source": "kin_ball_spanish.pdf",
+      "ref": "Article 2 (Equipment)"
+    },
+    {
+      "sport": "kin_ball",
+      "level": 2,
+      "text": "Teams wear the official colours: blue (or pink), grey and black.",
+      "source": "kin_ball_spanish.pdf",
+      "ref": "Article 2 (Equipment)"
+    },
+    {
+      "sport": "kin_ball",
+      "level": 4,
+      "text": "A match is played by three teams of four players at the same time.",
+      "source": "kin_ball_spanish.pdf",
+      "ref": "Article 1"
+    },
+    {
+      "sport": "kin_ball",
+      "level": 3,
+      "text": "The ball is enormous, 1.22 m across.",
+      "source": "kin_ball_spanish.pdf",
+      "ref": "Article 5.2"
+    },
+    {
+      "sport": "kin_ball",
+      "level": 5,
+      "text": "Canadian-invented game where three teams play at once with a giant ball.",
+      "source": "kin_ball_spanish.pdf",
+      "ref": "Official Rules"
+    },
+    {
+      "sport": "goalball",
+      "level": 1,
+      "text": "Before the game starts, the referee asks everyone to switch off mobile phones, and spectators must stay quiet while the ball is in play.",
+      "source": "goalball.pdf",
+      "ref": "Rule 13.1"
+    },
+    {
+      "sport": "goalball",
+      "level": 2,
+      "text": "A game is 24 minutes in total: two halves of 12 minutes.",
+      "source": "goalball.pdf",
+      "ref": "Rule 12.1"
+    },
+    {
+      "sport": "goalball",
+      "level": 3,
+      "text": "A team must throw the ball within ten seconds of first controlling it.",
+      "source": "goalball.pdf",
+      "ref": "Rule 31"
+    },
+    {
+      "sport": "goalball",
+      "level": 4,
+      "text": "The 1.25 kg ball has holes so the bells inside can be heard, and every player wears eyeshades.",
+      "source": "goalball.pdf",
+      "ref": "Rules 4.1 and 26"
+    },
+    {
+      "sport": "goalball",
+      "level": 5,
+      "text": "Paralympic sport for visually impaired athletes: three a side roll a ball with bells inside toward a goal the full width of the court.",
+      "source": "goalball.pdf",
+      "ref": "Introduction"
+    },
+    {
+      "sport": "quadball",
+      "level": 1,
+      "text": "In a recent rule update, the equipment players straddle was officially renamed from 'brooms' to 'sticks'.",
+      "source": "quadball.pdf",
+      "ref": "Appendix: changelog"
+    },
+    {
+      "sport": "quadball",
+      "level": 2,
+      "text": "A gender maximum rule limits how many players of the same gender a team can have in play at once.",
+      "source": "quadball.pdf",
+      "ref": "Rule 10.3"
+    },
+    {
+      "sport": "quadball",
+      "level": 3,
+      "text": "A player who is knocked out must go back and touch one of their own goal rings before returning to play.",
+      "source": "quadball.pdf",
+      "ref": "Rule 5.3.1"
+    },
+    {
+      "sport": "quadball",
+      "level": 4,
+      "text": "Players keep a stick between their legs at all times, and a goal through a hoop is worth ten points.",
+      "source": "quadball.pdf",
+      "ref": "Rules 4.1.1 and 5.1.1"
+    },
+    {
+      "sport": "quadball",
+      "level": 5,
+      "text": "The real-world sport adapted from a fictional wizarding game. Catching the flag runner's flag earns 30 points.",
+      "source": "quadball.pdf",
+      "ref": "Rule 3.5.1"
+    },
+    {
+      "sport": "wheelchair_rugby",
+      "level": 1,
+      "text": "Every player has a functional rating, and the ratings of the players on court can't add up to more than eight.",
+      "source": "wheelchair_rugby.pdf",
+      "ref": "Article 35"
+    },
+    {
+      "sport": "wheelchair_rugby",
+      "level": 2,
+      "text": "A team may have up to twelve members, but no more than four may be on court at once.",
+      "source": "wheelchair_rugby.pdf",
+      "ref": "Article 34"
+    },
+    {
+      "sport": "wheelchair_rugby",
+      "level": 3,
+      "text": "An attacking player may not stay in the marked area in front of the opponents' goal line for more than ten seconds.",
+      "source": "wheelchair_rugby.pdf",
+      "ref": "Article 80"
+    },
+    {
+      "sport": "wheelchair_rugby",
+      "level": 4,
+      "text": "The ball may be passed, rolled, batted, bounced or carried on the lap, as long as the holder partly supports it.",
+      "source": "wheelchair_rugby.pdf",
+      "ref": "Ball handling articles"
+    },
+    {
+      "sport": "wheelchair_rugby",
+      "level": 5,
+      "text": "Rugby-style full-contact Paralympic sport played four a side in wheelchairs.",
+      "source": "wheelchair_rugby.pdf",
+      "ref": "Article 34"
+    },
+    {
+      "sport": "racquetball",
+      "level": 1,
+      "text": "The first two games of a match are played to 15 points, and a tiebreaker game to 11.",
+      "source": "racquetball.pdf",
+      "ref": "Rule 1.5"
+    },
+    {
+      "sport": "racquetball",
+      "level": 2,
+      "text": "A serve that passes so close to the server that it blocks the receiver's view is a fault, a screen serve.",
+      "source": "racquetball.pdf",
+      "ref": "Rule 3.6(i)"
+    },
+    {
+      "sport": "racquetball",
+      "level": 3,
+      "text": "A serve that rebounds off the main wall and then hits the overhead surface is a fault.",
+      "source": "racquetball.pdf",
+      "ref": "Rule 3.6(d)"
+    },
+    {
+      "sport": "racquetball",
+      "level": 4,
+      "text": "In rallies, the ceiling and all four walls are in play, and the serve must land beyond the short line.",
+      "source": "racquetball.pdf",
+      "ref": "Rules 2 and 3"
+    },
+    {
+      "sport": "racquetball",
+      "level": 5,
+      "text": "Played with a short racquet and a hollow rubber ball in a fully enclosed court, ceiling included.",
+      "source": "racquetball.pdf",
+      "ref": "Official Rules"
+    },
+    {
+      "sport": "sepak_takraw",
+      "level": 1,
+      "text": "Each team registers at least 3 and at most 5 players.",
+      "source": "sepak_takraw.pdf",
+      "ref": "Rule 3"
+    },
+    {
+      "sport": "sepak_takraw",
+      "level": 2,
+      "text": "A match is one set, won by the first team to reach 21 points.",
+      "source": "sepak_takraw.pdf",
+      "ref": "Rule 3"
+    },
+    {
+      "sport": "sepak_takraw",
+      "level": 3,
+      "text": "Once the server makes contact, all players may move freely on their own side.",
+      "source": "sepak_takraw.pdf",
+      "ref": "Rule 6"
+    },
+    {
+      "sport": "sepak_takraw",
+      "level": 4,
+      "text": "The server, called the tekong, kicks the ball over the net to start each rally.",
+      "source": "sepak_takraw.pdf",
+      "ref": "Rule 6"
+    },
+    {
+      "sport": "sepak_takraw",
+      "level": 5,
+      "text": "Southeast Asian net game, like volleyball played with the feet, knees and head.",
+      "source": "sepak_takraw.pdf",
+      "ref": "ISTAF rules"
+    },
+    {
+      "sport": "teqball",
+      "level": 1,
+      "text": "You lose the point if you touch the ball twice in a row with the same body part.",
+      "source": "teqball.pdf",
+      "ref": "Rule 8.1.4"
+    },
+    {
+      "sport": "teqball",
+      "level": 2,
+      "text": "A maximum of three touches is allowed before the ball must go back over.",
+      "source": "teqball.pdf",
+      "ref": "Rule 9.1.2"
+    },
+    {
+      "sport": "teqball",
+      "level": 3,
+      "text": "A ball that hits the edge of the playing surface is an 'edgeball' and has its own rules.",
+      "source": "teqball.pdf",
+      "ref": "Rule 7.1"
+    },
+    {
+      "sport": "teqball",
+      "level": 4,
+      "text": "Played over a net on a curved table, using any body part except the hands and arms.",
+      "source": "teqball.pdf",
+      "ref": "Rules 2–3"
+    },
+    {
+      "sport": "teqball",
+      "level": 5,
+      "text": "Football skills on a curved ping-pong-style table.",
+      "source": "teqball.pdf",
+      "ref": "Official Rules"
+    },
+    {
+      "sport": "gaelic_handball",
+      "level": 1,
+      "text": "Only the serving side can score points. The receiving side can only win back the serve.",
+      "source": "gaelic_handball.pdf",
+      "ref": "Section D (Points and handouts)"
+    },
+    {
+      "sport": "gaelic_handball",
+      "level": 2,
+      "text": "A game is won by the side that first scores 21 points.",
+      "source": "gaelic_handball.pdf",
+      "ref": "Section D"
+    },
+    {
+      "sport": "gaelic_handball",
+      "level": 3,
+      "text": "The rules cover two court sizes used in Ireland, 60 × 30 ft and 40 × 20 ft.",
+      "source": "gaelic_handball.pdf",
+      "ref": "Introduction"
+    },
+    {
+      "sport": "gaelic_handball",
+      "level": 4,
+      "text": "Players strike a small ball against the front wall using only their hand.",
+      "source": "gaelic_handball.pdf",
+      "ref": "Playing Rules"
+    },
+    {
+      "sport": "gaelic_handball",
+      "level": 5,
+      "text": "Irish wall game, like squash without rackets, run alongside hurling and Gaelic football.",
+      "source": "gaelic_handball.pdf",
+      "ref": "Irish Handball Council"
+    },
+    {
+      "sport": "boccia",
+      "level": 1,
+      "text": "Some athletes' assistants must keep their back to the play and may not look at the court during an end.",
+      "source": "boccia.pdf",
+      "ref": "Rule 9.2.1"
+    },
+    {
+      "sport": "boccia",
+      "level": 2,
+      "text": "Athletes play from one of six numbered boxes at one end of the court.",
+      "source": "boccia.pdf",
+      "ref": "Definitions (Throwing box)"
+    },
+    {
+      "sport": "boccia",
+      "level": 3,
+      "text": "If the assistant turns to look at play before the end is finished, the opponents are awarded a penalty ball.",
+      "source": "boccia.pdf",
+      "ref": "Rule 16.6.2"
+    },
+    {
+      "sport": "boccia",
+      "level": 4,
+      "text": "Some players release the ball down a ramp, aiming for the white jack ball.",
+      "source": "boccia.pdf",
+      "ref": "Definitions"
+    },
+    {
+      "sport": "boccia",
+      "level": 5,
+      "text": "Paralympic precision ball sport, related to bocce, played from seated throwing boxes.",
+      "source": "boccia.pdf",
+      "ref": "International Rules"
+    },
+    {
+      "sport": "canoe_polo",
+      "level": 1,
+      "text": "The goal hangs with its lower edge two metres above the surface.",
+      "source": "canoe_polo.pdf",
+      "ref": "Field of play: goals"
+    },
+    {
+      "sport": "canoe_polo",
+      "level": 2,
+      "text": "A player may keep possession of the ball for no more than 5 seconds.",
+      "source": "canoe_polo.pdf",
+      "ref": "Fouls: 5 seconds / possession"
+    },
+    {
+      "sport": "canoe_polo",
+      "level": 3,
+      "text": "A player must have both shoulders above the water before an opponent may try to take the ball.",
+      "source": "canoe_polo.pdf",
+      "ref": "Rules of play"
+    },
+    {
+      "sport": "canoe_polo",
+      "level": 4,
+      "text": "Illegally pushing an opponent's kayak is a foul, and so is illegal use of the paddle.",
+      "source": "canoe_polo.pdf",
+      "ref": "Rules 10.19 and 10 (Illegal kayak tackle)"
+    },
+    {
+      "sport": "canoe_polo",
+      "level": 5,
+      "text": "Five a side in kayaks, throwing a ball into goals suspended over the water.",
+      "source": "canoe_polo.pdf",
+      "ref": "ICF Canoe Polo Rules"
+    },
+    {
+      "sport": "judo",
+      "level": 1,
+      "text": "In the visually impaired version, the athletes start the contest already gripping each other's jacket with both hands.",
+      "source": "judo_blind.pdf",
+      "ref": "IBSA Rule 6 (Start position)"
+    },
+    {
+      "sport": "judo",
+      "level": 2,
+      "text": "Blind athletes walk to the starting position next to the referee rather than being led by the hand.",
+      "source": "judo_blind.pdf",
+      "ref": "IBSA Rule 6"
+    },
+    {
+      "sport": "judo",
+      "level": 3,
+      "text": "Apart from the special start, the visually impaired version uses the standard international rules.",
+      "source": "judo_blind.pdf",
+      "ref": "IBSA Judo Rules preamble"
+    },
+    {
+      "sport": "judo",
+      "level": 4,
+      "text": "Competitors wear a judogi, and referees use special signs to award Ippon and Waza-ari.",
+      "source": "judo_blind.pdf",
+      "ref": "IBSA Rules (Signs; Correct judogi)"
+    },
+    {
+      "sport": "judo",
+      "level": 5,
+      "text": "Japanese Olympic grappling martial art in which a throw or hold-down can score Ippon.",
+      "source": "judo_blind.pdf",
+      "ref": "IBSA Judo Rules (IJF rules apply)"
+    },
+    {
+      "sport": "kabaddi",
+      "level": 1,
+      "text": "It's a foul to stifle the attacking player by covering their mouth or throat.",
+      "source": "kabaddi.pdf",
+      "ref": "Officiating: fouls (d)"
+    },
+    {
+      "sport": "kabaddi",
+      "level": 2,
+      "text": "Taking more than 10 seconds to start an attack is a foul.",
+      "source": "kabaddi.pdf",
+      "ref": "Officiating: fouls (f)"
+    },
+    {
+      "sport": "kabaddi",
+      "level": 3,
+      "text": "A yellow card means a two-minute suspension, and the suspended player can't be revived in that time.",
+      "source": "kabaddi.pdf",
+      "ref": "Officiating: cards"
+    },
+    {
+      "sport": "kabaddi",
+      "level": 4,
+      "text": "The raider crosses into the opponents' half and tries to tag defenders, then return without being caught.",
+      "source": "kabaddi.pdf",
+      "ref": "Lecture notes",
+      "sourceNote": "Common rule, not stated in the source file"
+    },
+    {
+      "sport": "kabaddi",
+      "level": 5,
+      "text": "South Asian contact tag game where the raider must chant the game's name on a single breath.",
+      "source": "kabaddi.pdf",
+      "ref": "Lecture notes",
+      "sourceNote": "Common rule, not stated in the source file"
+    },
+    {
+      "sport": "kho_kho",
+      "level": 1,
+      "text": "Once a turn has started, none of the seated players on the pursuing team may leave their place except as the rules allow.",
+      "source": "kho_kho.pdf",
+      "ref": "Rule 5"
+    },
+    {
+      "sport": "kho_kho",
+      "level": 2,
+      "text": "A team is 12 players, and 9 take the field at the start.",
+      "source": "kho_kho.pdf",
+      "ref": "Rule 1"
+    },
+    {
+      "sport": "kho_kho",
+      "level": 3,
+      "text": "An attacker must keep going in the direction they turned their shoulder, and can't reverse.",
+      "source": "kho_kho.pdf",
+      "ref": "Rule 14"
+    },
+    {
+      "sport": "kho_kho",
+      "level": 4,
+      "text": "Eight chasers sit in a line of squares facing alternate ways, and the active chaser tags a seated teammate to swap in.",
+      "source": "kho_kho.pdf",
+      "ref": "Rules 5–14"
+    },
+    {
+      "sport": "kho_kho",
+      "level": 5,
+      "text": "Indian chasing game where the active pursuer hands over by tapping a seated teammate on the back.",
+      "source": "kho_kho.pdf",
+      "ref": "Official Rulebook"
+    },
+    {
+      "sport": "roller_derby",
+      "level": 1,
+      "text": "Play is divided into units that last up to two minutes each, and they can be ended early.",
+      "source": "roller_derby.pdf",
+      "ref": "Rule 1.1"
+    },
+    {
+      "sport": "roller_derby",
+      "level": 2,
+      "text": "The first scorer to break clear of the group earns the right to end the unit of play whenever they choose.",
+      "source": "roller_derby.pdf",
+      "ref": "Rule 1 (Lead Jammer)"
+    },
+    {
+      "sport": "roller_derby",
+      "level": 3,
+      "text": "The scoring player on each team wears a helmet cover with a star on it.",
+      "source": "roller_derby.pdf",
+      "ref": "Rule 1"
+    },
+    {
+      "sport": "roller_derby",
+      "level": 4,
+      "text": "Blockers form a pack, and a jammer scores a point for each opponent lapped during a jam.",
+      "source": "roller_derby.pdf",
+      "ref": "Rule 3"
+    },
+    {
+      "sport": "roller_derby",
+      "level": 5,
+      "text": "A full-contact race on quad skates around an oval flat track.",
+      "source": "roller_derby.pdf",
+      "ref": "The Rules of Flat Track Roller Derby"
+    },
+    {
+      "sport": "mallakhamb",
+      "level": 1,
+      "text": "A whistle sounds at 60 seconds, and the routine must end at the final whistle at 90 seconds.",
+      "source": "mallakhamb.pdf",
+      "ref": "Rule 11.1"
+    },
+    {
+      "sport": "mallakhamb",
+      "level": 2,
+      "text": "The apparatus for under-19 boys stands 2.6–2.8 m above the ground.",
+      "source": "mallakhamb.pdf",
+      "ref": "Rule 2.2"
+    },
+    {
+      "sport": "mallakhamb",
+      "level": 3,
+      "text": "Each apparatus at an official championship is judged by four judges and a chief judge.",
+      "source": "mallakhamb.pdf",
+      "ref": "Judging rules"
+    },
+    {
+      "sport": "mallakhamb",
+      "level": 4,
+      "text": "In school competitions, boys perform on a wooden pole and girls on a hanging rope.",
+      "source": "mallakhamb.pdf",
+      "ref": "Rule 2.1"
+    },
+    {
+      "sport": "mallakhamb",
+      "level": 5,
+      "text": "Traditional Indian gymnastics performed on a vertical wooden pole or rope.",
+      "source": "mallakhamb.pdf",
+      "ref": "SGFI Rules"
+    },
+    {
+      "sport": "bridge",
+      "level": 1,
+      "text": "The exposed partner may not call attention to an irregularity during play.",
+      "source": "bridge.pdf",
+      "ref": "Law 43"
+    },
+    {
+      "sport": "bridge",
+      "level": 2,
+      "text": "A call that doesn't outrank the previous one is 'insufficient', and there are detailed laws for correcting it.",
+      "source": "bridge.pdf",
+      "ref": "Law 27"
+    },
+    {
+      "sport": "bridge",
+      "level": 3,
+      "text": "Failing to follow suit when you could have is a serious infringement with its own penalties.",
+      "source": "bridge.pdf",
+      "ref": "Laws 61–64"
+    },
+    {
+      "sport": "bridge",
+      "level": 4,
+      "text": "After the bidding, declarer plays both their own hand and dummy's hand, which is laid face up.",
+      "source": "bridge.pdf",
+      "ref": "Laws 41–45"
+    },
+    {
+      "sport": "bridge",
+      "level": 5,
+      "text": "Four-player partnership card game: bid a contract, then try to win that many tricks.",
+      "source": "bridge.pdf",
+      "ref": "Laws of Duplicate Bridge 2017"
+    },
+    {
+      "sport": "soccer",
+      "level": 2,
+      "text": "Most competitions allow a maximum of five substitutes per team.",
+      "source": "soccer_ifab.pdf",
+      "ref": "Law 3.2"
+    },
+    {
+      "sport": "soccer",
+      "level": 3,
+      "text": "When three or more defenders form a wall at a free kick, attackers must stay at least 1 m away from it.",
+      "source": "soccer_ifab.pdf",
+      "ref": "Law 13.2"
+    },
+    {
+      "sport": "soccer",
+      "level": 4,
+      "text": "All verbal offences are penalised with an indirect free kick.",
+      "source": "soccer_ifab.pdf",
+      "ref": "Law 12.5"
+    },
+    {
+      "sport": "soccer",
+      "level": 5,
+      "text": "A penalty kick is taken from a mark 11 m (12 yds) in front of the goal.",
+      "source": "soccer_ifab.pdf",
+      "ref": "Law 1.6"
+    },
+    {
+      "sport": "basketball",
+      "level": 2,
+      "text": "There's a 2-minute interval between the first and second quarters.",
+      "source": "basketball_fiba.pdf",
+      "ref": "FIBA Art. 8.3"
+    },
+    {
+      "sport": "basketball",
+      "level": 3,
+      "text": "A team must bring the ball into its attacking half within 8 seconds.",
+      "source": "basketball_fiba.pdf",
+      "ref": "FIBA Art. 28"
+    },
+    {
+      "sport": "basketball",
+      "level": 4,
+      "text": "After an offensive rebound off the rim, the shot clock resets to 14 seconds.",
+      "source": "basketball_fiba.pdf",
+      "ref": "FIBA Art. 29.2"
+    },
+    {
+      "sport": "basketball",
+      "level": 5,
+      "text": "A basket from inside the arc scores 2 points, and each free throw scores 1.",
+      "source": "basketball_fiba.pdf",
+      "ref": "FIBA Art. 16.2"
+    },
+    {
+      "sport": "tennis",
+      "level": 2,
+      "text": "Players get 90 seconds when changing ends, and 120 seconds at the end of each set.",
+      "source": "tennis_canada.pdf",
+      "ref": "ITF Rule 29"
+    },
+    {
+      "sport": "tennis",
+      "level": 3,
+      "text": "No more than 25 seconds may pass between the end of one point and the start of the next.",
+      "source": "tennis_canada.pdf",
+      "ref": "Code of Conduct: Time violations"
+    },
+    {
+      "sport": "tennis",
+      "level": 4,
+      "text": "Players change ends after the first, third and every following odd game of each set.",
+      "source": "tennis_canada.pdf",
+      "ref": "ITF Rule 10"
+    },
+    {
+      "sport": "tennis",
+      "level": 5,
+      "text": "The court is 23.77 m long, and the net is 0.914 m high at the centre.",
+      "source": "tennis_canada.pdf",
+      "ref": "ITF Rule 1"
+    },
+    {
+      "sport": "golf",
+      "level": 2,
+      "text": "In stroke play, signing a scorecard showing fewer strokes than you actually took means disqualification.",
+      "source": "golf.pdf",
+      "ref": "Rule 3.3b(3)"
+    },
+    {
+      "sport": "golf",
+      "level": 3,
+      "text": "A ball embedded in its own pitch-mark in the general area may be lifted and dropped without penalty.",
+      "source": "golf.pdf",
+      "ref": "Rule 16.3"
+    },
+    {
+      "sport": "golf",
+      "level": 4,
+      "text": "When taking relief, you must drop the ball straight down from knee height.",
+      "source": "golf.pdf",
+      "ref": "Rule 14.3b(2)"
+    },
+    {
+      "sport": "golf",
+      "level": 5,
+      "text": "On the putting green, you may leave the flagstick in the hole or have it removed before you putt.",
+      "source": "golf.pdf",
+      "ref": "Rule 13.2"
+    },
+    {
+      "sport": "ice_hockey",
+      "level": 1,
+      "text": "The [object] must weigh between 156 g and 170 g, and every one used in competition must be approved.",
+      "source": "ice_hockey_iihf.pdf",
+      "ref": "Rule 13"
+    },
+    {
+      "sport": "ice_hockey",
+      "level": 2,
+      "text": "Having too many players on the playing surface at once is a two-minute bench penalty.",
+      "source": "ice_hockey_iihf.pdf",
+      "ref": "Rule 74"
+    },
+    {
+      "sport": "ice_hockey",
+      "level": 3,
+      "text": "Attacking players may not enter the attacking zone ahead of the [object]. If they do, play stops for offside.",
+      "source": "ice_hockey_iihf.pdf",
+      "ref": "Rule 83"
+    },
+    {
+      "sport": "ice_hockey",
+      "level": 5,
+      "text": "A goal counts only when the puck completely crosses the goal line between the posts and under the crossbar.",
+      "source": "ice_hockey_iihf.pdf",
+      "ref": "Rule 37"
+    },
+    {
+      "sport": "baseball",
+      "level": 1,
+      "text": "The bat may be no thicker than 2.61 inches and no longer than 42 inches.",
+      "source": "baseball_mlb.pdf",
+      "ref": "Rule 3.02(a)"
+    },
+    {
+      "sport": "baseball",
+      "level": 2,
+      "text": "The four corners of the diamond are 90 feet apart.",
+      "source": "baseball_mlb.pdf",
+      "ref": "Rule 2.01"
+    },
+    {
+      "sport": "baseball",
+      "level": 4,
+      "text": "With runners on base, an illegal motion by the pitcher is a balk, and every runner advances one base.",
+      "source": "baseball_mlb.pdf",
+      "ref": "Rule 6.02(a)"
+    },
+    {
+      "sport": "baseball",
+      "level": 5,
+      "text": "A fair ball hit over the outfield fence on the fly is a home run.",
+      "source": "baseball_mlb.pdf",
+      "ref": "Rule 5.05(a)(5)"
+    },
+    {
+      "sport": "cricket",
+      "level": 2,
+      "text": "The central strip of play is 22 yards (20.12 m) long and 10 ft wide.",
+      "source": "cricket.docx",
+      "ref": "Law 6.1"
+    },
+    {
+      "sport": "cricket",
+      "level": 3,
+      "text": "A hit that clears the boundary without bouncing scores six runs.",
+      "source": "cricket.docx",
+      "ref": "Law 19"
+    },
+    {
+      "sport": "cricket",
+      "level": 4,
+      "text": "A batter is run out if the fielders break the wicket while the batter is out of their ground.",
+      "source": "cricket.docx",
+      "ref": "Law 38"
+    },
+    {
+      "sport": "cricket",
+      "level": 5,
+      "text": "The bowler delivers overarm at the stumps, and the batter defends them with a flat bat.",
+      "source": "cricket.docx",
+      "ref": "Laws 5, 8 and 21"
+    },
+    {
+      "sport": "curling",
+      "level": 2,
+      "text": "Sixteen [objects] are delivered per period, with the teams taking turns.",
+      "source": "curling.pdf",
+      "ref": "Rule R12"
+    },
+    {
+      "sport": "curling",
+      "level": 3,
+      "text": "A line 4 inches wide sits 21 ft (6.401 m) in front of the centre of each target.",
+      "source": "curling.pdf",
+      "ref": "Rule R1 (hog line)"
+    },
+    {
+      "sport": "curling",
+      "level": 4,
+      "text": "Behind the tee line, only one player from each team may sweep at a time.",
+      "source": "curling.pdf",
+      "ref": "Rule R8(f)"
+    },
+    {
+      "sport": "curling",
+      "level": 5,
+      "text": "The skip stands in the house directing teammates who slide granite stones down a sheet of ice.",
+      "source": "curling.pdf",
+      "ref": "Rules R3–R5"
+    },
+    {
+      "sport": "volleyball",
+      "level": 1,
+      "text": "The ball must weigh 260–280 g and measure 65–67 cm around.",
+      "source": "volleyball.pdf",
+      "ref": "Rule 3.1"
+    },
+    {
+      "sport": "volleyball",
+      "level": 3,
+      "text": "A back-row player who reaches above the top of the net to stop an attack commits a fault.",
+      "source": "volleyball.pdf",
+      "ref": "Rule 14.6.2"
+    },
+    {
+      "sport": "volleyball",
+      "level": 4,
+      "text": "The libero may not block or attempt a block, individually or with teammates.",
+      "source": "volleyball.pdf",
+      "ref": "Rule 19.3.1.3"
+    },
+    {
+      "sport": "volleyball",
+      "level": 5,
+      "text": "Six players a side hit a ball over a high net, scoring on every rally.",
+      "source": "volleyball.pdf",
+      "ref": "Rules 4 and 6"
+    },
+    {
+      "sport": "table_tennis",
+      "level": 2,
+      "text": "A match is played as the best of any odd number of games.",
+      "source": "table_tennis.pdf",
+      "ref": "Law 2.12.1"
+    },
+    {
+      "sport": "table_tennis",
+      "level": 3,
+      "text": "In doubles, the serve must go diagonally from the server's right half to the receiver's right half.",
+      "source": "table_tennis.pdf",
+      "ref": "Law 2.5"
+    },
+    {
+      "sport": "table_tennis",
+      "level": 4,
+      "text": "A serve that touches the net assembly and then lands correctly is a let and is replayed.",
+      "source": "table_tennis.pdf",
+      "ref": "Law 2.9.1.1"
+    },
+    {
+      "sport": "table_tennis",
+      "level": 5,
+      "text": "Players use rubber-covered rackets to hit a small ball back and forth over a net on a table.",
+      "source": "table_tennis.pdf",
+      "ref": "Laws 2.1–2.4"
+    },
+    {
+      "sport": "american_football",
+      "level": 1,
+      "text": "A team that fails to appear on the field at least 10 minutes before the scheduled start loses its coin-toss option.",
+      "source": "nfl_2026.pdf",
+      "ref": "Rule 4-2-1"
+    },
+    {
+      "sport": "american_football",
+      "level": 3,
+      "text": "The offense has 40 seconds on the play clock between plays to start the next one.",
+      "source": "nfl_2026.pdf",
+      "ref": "Rule 4"
+    },
+    {
+      "sport": "american_football",
+      "level": 4,
+      "text": "A hip-drop tackle is a foul: 15 yards and an automatic first down.",
+      "source": "nfl_2026.pdf",
+      "ref": "Rule 12-2-18"
+    },
+    {
+      "sport": "american_football",
+      "level": 5,
+      "text": "Kicking the ball between the uprights from scrimmage is a field goal worth 3 points.",
+      "source": "nfl_2026.pdf",
+      "ref": "Rule 11-4"
+    },
+    {
+      "sport": "snooker",
+      "level": 2,
+      "text": "Every foul is worth at least four points to the opponent.",
+      "source": "snooker_billiards.pdf",
+      "ref": "Section 3 Rule 11 (Penalty values)"
+    },
+    {
+      "sport": "snooker",
+      "level": 3,
+      "text": "If the white comes to rest touching a ball you can play, you must play away from it without moving it.",
+      "source": "snooker_billiards.pdf",
+      "ref": "Section 3 Rule 8"
+    },
+    {
+      "sport": "snooker",
+      "level": 5,
+      "text": "Colours are re-spotted after being potted until all the reds are gone. Pink is worth 6 and blue 5.",
+      "source": "snooker_billiards.pdf",
+      "ref": "Section 3 Rules 2 and 7"
+    },
+    {
+      "sport": "rugby_union",
+      "level": 2,
+      "text": "A penalty or free kick may be taken from where it was awarded or anywhere behind it on a straight line.",
+      "source": "rugby_union.pdf",
+      "ref": "Law 20.2"
+    },
+    {
+      "sport": "rugby_union",
+      "level": 3,
+      "text": "A player must not attempt to kick the ball out of the ball-carrier's hands.",
+      "source": "rugby_union.pdf",
+      "ref": "Law 9.23"
+    },
+    {
+      "sport": "rugby_union",
+      "level": 4,
+      "text": "Teams must form the lineout within 15 seconds of the touch judge's signal.",
+      "source": "rugby_union.pdf",
+      "ref": "Law 18.12"
+    },
+    {
+      "sport": "rugby_union",
+      "level": 5,
+      "text": "If foul play stops a probable try, the referee awards a penalty try between the posts.",
+      "source": "rugby_union.pdf",
+      "ref": "Law 8 (Penalty try)"
+    },
+    {
+      "sport": "field_hockey",
+      "level": 2,
+      "text": "The penalty spots are 150 mm in diameter.",
+      "source": "field_hockey.pdf",
+      "ref": "Pitch specifications 1.3"
+    },
+    {
+      "sport": "field_hockey",
+      "level": 3,
+      "text": "When play restarts with a bully, all other players must be at least 5 metres away.",
+      "source": "field_hockey.pdf",
+      "ref": "Rule 6.5"
+    },
+    {
+      "sport": "field_hockey",
+      "level": 4,
+      "text": "Field players must not stop, kick, pick up, throw or carry the ball with any part of their body.",
+      "source": "field_hockey.pdf",
+      "ref": "Rule 9.11"
+    },
+    {
+      "sport": "field_hockey",
+      "level": 5,
+      "text": "Played with hooked sticks on turf. The player taking a penalty stroke must not feint at the ball.",
+      "source": "field_hockey.pdf",
+      "ref": "Rule 13.7"
+    },
+    {
+      "sport": "badminton",
+      "level": 1,
+      "text": "The net must be 760 mm deep and at least 6.1 metres wide.",
+      "source": "badminton.pdf",
+      "ref": "Law 1.3"
+    },
+    {
+      "sport": "badminton",
+      "level": 2,
+      "text": "Players get a break of up to 60 seconds when the leading score reaches 11, and 120 seconds between games.",
+      "source": "badminton.pdf",
+      "ref": "Law 16.2"
+    },
+    {
+      "sport": "badminton",
+      "level": 3,
+      "text": "When serving, it's a fault to miss the [object] entirely.",
+      "source": "badminton.pdf",
+      "ref": "Law 9.1.8"
+    },
+    {
+      "sport": "badminton",
+      "level": 4,
+      "text": "The strung area of the racket may be no more than 280 mm long and 220 mm wide.",
+      "source": "badminton.pdf",
+      "ref": "Law 4.2.2"
+    },
+    {
+      "sport": "badminton",
+      "level": 5,
+      "text": "Players use light rackets to hit a feathered shuttlecock over a high net, and it must not touch the floor.",
+      "source": "badminton.pdf",
+      "ref": "Laws 2 and 13"
+    },
+    {
+      "sport": "darts",
+      "level": 1,
+      "text": "Players are not permitted to wear jeans.",
+      "source": "darts.pdf",
+      "ref": "Rule 16.01"
+    },
+    {
+      "sport": "darts",
+      "level": 2,
+      "text": "Anything that bounces off or falls out of the target can't be thrown again.",
+      "source": "darts.pdf",
+      "ref": "Rule 1.05"
+    },
+    {
+      "sport": "darts",
+      "level": 3,
+      "text": "Your opponent must stand at least 60 cm behind you while you throw.",
+      "source": "darts.pdf",
+      "ref": "Rule 14.06"
+    },
+    {
+      "sport": "darts",
+      "level": 4,
+      "text": "A raised oche, 38 mm high and 610 mm long, marks the minimum throwing distance.",
+      "source": "darts.pdf",
+      "ref": "Rule 6.02"
+    },
+    {
+      "sport": "darts",
+      "level": 5,
+      "text": "A turn is at most three throws at a numbered board ringed with doubles and trebles.",
+      "source": "darts.pdf",
+      "ref": "Rule 1.03"
+    },
+    {
+      "sport": "chess",
+      "level": 2,
+      "text": "It's forbidden to write down your moves in advance, unless you're claiming a draw.",
+      "source": "chess.pdf",
+      "ref": "Law 8.1.2"
+    },
+    {
+      "sport": "chess",
+      "level": 3,
+      "text": "If you claim a draw incorrectly, your opponent gets two extra minutes.",
+      "source": "chess.pdf",
+      "ref": "Law 9.5.3"
+    },
+    {
+      "sport": "chess",
+      "level": 4,
+      "text": "In a blitz game, all moves must be completed in 10 minutes or less per player.",
+      "source": "chess.pdf",
+      "ref": "Appendix B.1"
+    },
+    {
+      "sport": "chess",
+      "level": 5,
+      "text": "Bishops, rooks and queens may not jump over other pieces.",
+      "source": "chess.pdf",
+      "ref": "Law 3.5"
+    },
+    {
+      "sport": "formula1",
+      "level": 1,
+      "text": "The trophies for second and third place must be between 35 cm and 45 cm tall.",
+      "source": "formula1.pdf",
+      "ref": "Section B: Trophies"
+    },
+    {
+      "sport": "formula1",
+      "level": 2,
+      "text": "Teams may do no more than ten days of testing per year.",
+      "source": "formula1.pdf",
+      "ref": "Section B: Testing"
+    },
+    {
+      "sport": "formula1",
+      "level": 3,
+      "text": "During a neutralised period, competitors must stay within ten car lengths of the one in front.",
+      "source": "formula1.pdf",
+      "ref": "Section B5"
+    },
+    {
+      "sport": "formula1",
+      "level": 4,
+      "text": "The pit exit opens 40 minutes before the formation lap and stays open for ten minutes.",
+      "source": "formula1.pdf",
+      "ref": "Rule B5.2.3"
+    },
+    {
+      "sport": "formula1",
+      "level": 5,
+      "text": "Single-seater Grand Prix racing, where teams choose between soft, medium and hard tyres.",
+      "source": "formula1.pdf",
+      "ref": "Section B6 (Tyres)"
+    },
+    {
+      "sport": "fencing",
+      "level": 1,
+      "text": "Undressing on the strip is forbidden.",
+      "source": "fencing.pdf",
+      "ref": "t.116"
+    },
+    {
+      "sport": "fencing",
+      "level": 2,
+      "text": "A knockout bout ends when someone reaches 15 hits or after nine minutes of actual fighting time.",
+      "source": "fencing.pdf",
+      "ref": "Duration of bouts"
+    },
+    {
+      "sport": "fencing",
+      "level": 3,
+      "text": "It's forbidden to hit with the guard. Any hit made that way is annulled.",
+      "source": "fencing.pdf",
+      "ref": "Book 1, offences"
+    },
+    {
+      "sport": "fencing",
+      "level": 4,
+      "text": "A red card gives the opponent a penalty hit, and a black card means exclusion from the competition.",
+      "source": "fencing.pdf",
+      "ref": "t.158–t.170 (Penalties)"
+    },
+    {
+      "sport": "fencing",
+      "level": 5,
+      "text": "Bouts on a piste with foil, épée or sabre, where an electric scoring box registers each touch.",
+      "source": "fencing.pdf",
+      "ref": "Technical Rules"
+    },
+    {
+      "sport": "netball",
+      "level": 1,
+      "text": "A player who is ordered off sits out four minutes of playing time.",
+      "source": "netball.pdf",
+      "ref": "Rule 18"
+    },
+    {
+      "sport": "netball",
+      "level": 2,
+      "text": "A ball thrown in from the sideline must be touched by someone before it goes out again.",
+      "source": "netball.pdf",
+      "ref": "Rule 15.2"
+    },
+    {
+      "sport": "netball",
+      "level": 3,
+      "text": "The player taking a throw-in may not step onto the court until they've released the ball.",
+      "source": "netball.pdf",
+      "ref": "Rule 15.13"
+    },
+    {
+      "sport": "netball",
+      "level": 4,
+      "text": "At the centre pass, the Centre must have at least one foot wholly inside the centre circle.",
+      "source": "netball.pdf",
+      "ref": "Rule 8.8"
+    },
+    {
+      "sport": "netball",
+      "level": 5,
+      "text": "Seven a side with fixed positions like Wing Attack and Goal Keeper, and infringements give penalty passes.",
+      "source": "netball.pdf",
+      "ref": "Rules 3 and 6"
+    },
+    {
+      "sport": "swimming",
+      "level": 1,
+      "text": "For a record to count, the water must contain less than 3 grams of salt per litre.",
+      "source": "swimming.pdf",
+      "ref": "Part Two, Article 12.5"
+    },
+    {
+      "sport": "swimming",
+      "level": 2,
+      "text": "At the Olympic Games, the water must be at least 2.5 metres deep.",
+      "source": "swimming.pdf",
+      "ref": "Part Two, Article 15.5.1"
+    },
+    {
+      "sport": "swimming",
+      "level": 3,
+      "text": "Each racing channel must be at least 2.5 metres wide.",
+      "source": "swimming.pdf",
+      "ref": "Part Two, Article 15.7"
+    },
+    {
+      "sport": "swimming",
+      "level": 4,
+      "text": "At a backstroke start, standing in the gutter or curling your toes over its lip is prohibited.",
+      "source": "swimming.pdf",
+      "ref": "Part Two, Article 6.1"
+    },
+    {
+      "sport": "swimming",
+      "level": 5,
+      "text": "Racing in pool lanes, where athletes must not obstruct or interfere with each other.",
+      "source": "swimming.pdf",
+      "ref": "Part Two, Article 10.2.6"
+    },
+    {
+      "sport": "athletics",
+      "level": 1,
+      "text": "An appeal to the Jury of Appeal must be made within 30 minutes.",
+      "source": "athletics.pdf",
+      "ref": "TR 8"
+    },
+    {
+      "sport": "athletics",
+      "level": 2,
+      "text": "At 'On your marks', both hands and at least one knee must touch the ground.",
+      "source": "athletics.pdf",
+      "ref": "TR 16.3"
+    },
+    {
+      "sport": "athletics",
+      "level": 3,
+      "text": "For races from 200 m to 1000 m, at least 90 minutes must pass between rounds.",
+      "source": "athletics.pdf",
+      "ref": "TR 20"
+    },
+    {
+      "sport": "athletics",
+      "level": 4,
+      "text": "In the high jump and pole vault, three consecutive failures eliminate an athlete.",
+      "source": "athletics.pdf",
+      "ref": "TR 26"
+    },
+    {
+      "sport": "athletics",
+      "level": 5,
+      "text": "Sprinters start from blocks and must stay in their own lane.",
+      "source": "athletics.pdf",
+      "ref": "TR 15 and 17"
+    },
+    {
+      "sport": "lacrosse",
+      "level": 1,
+      "text": "A player may not grab an opponent's [implement] with an open hand or fingers.",
+      "source": "lacrosse_men.pdf",
+      "ref": "Rule 34.4"
+    },
+    {
+      "sport": "lacrosse",
+      "level": 2,
+      "text": "After an injury to a defender, the shot clock resets to 80 seconds.",
+      "source": "lacrosse_men.pdf",
+      "ref": "Rule 43.9"
+    },
+    {
+      "sport": "lacrosse",
+      "level": 3,
+      "text": "Attackers may not move into and make contact with a defender while setting a screen.",
+      "source": "lacrosse_men.pdf",
+      "ref": "Rule 54.2"
+    },
+    {
+      "sport": "lacrosse",
+      "level": 4,
+      "text": "A face-off may never be held closer than 18 metres (20 yards) to the goal.",
+      "source": "lacrosse_men.pdf",
+      "ref": "Rule 35.1"
+    },
+    {
+      "sport": "lacrosse",
+      "level": 5,
+      "text": "Ten players with netted sticks, and a goalkeeper defending a circular crease.",
+      "source": "lacrosse_men.pdf",
+      "ref": "Rules 3 and 19"
+    },
+    {
+      "sport": "archery",
+      "level": 2,
+      "text": "Individual athletes get 30 seconds per shot, or 20 seconds when shooting alternately.",
+      "source": "archery.pdf",
+      "ref": "Rule 11.2"
+    },
+    {
+      "sport": "archery",
+      "level": 3,
+      "text": "Lighted tracer nocks are not allowed.",
+      "source": "archery.pdf",
+      "ref": "Rule 9.1.7"
+    },
+    {
+      "sport": "archery",
+      "level": 4,
+      "text": "Athletes may not raise their bow arm until the signal to start shooting.",
+      "source": "archery.pdf",
+      "ref": "Rule 13.4"
+    },
+    {
+      "sport": "archery",
+      "level": 5,
+      "text": "Arrows are shot at a ringed target, and a yellow light warns 30 seconds before time runs out.",
+      "source": "archery.pdf",
+      "ref": "Rule 11.3"
+    },
+    {
+      "sport": "australian_football",
+      "level": 1,
+      "text": "Each team must lodge its team sheet with an umpire at least 30 minutes before the scheduled start.",
+      "source": "australian_football.pdf",
+      "ref": "Law 5.3.2"
+    },
+    {
+      "sport": "australian_football",
+      "level": 2,
+      "text": "The break between the first and second quarters is at most 6 minutes.",
+      "source": "australian_football.pdf",
+      "ref": "Law 10.1.1"
+    },
+    {
+      "sport": "australian_football",
+      "level": 3,
+      "text": "A team found with too many players on the ground concedes a fifty-metre penalty.",
+      "source": "australian_football.pdf",
+      "ref": "Law 5.5.3"
+    },
+    {
+      "sport": "australian_football",
+      "level": 4,
+      "text": "The outer behind posts must be at least three metres tall.",
+      "source": "australian_football.pdf",
+      "ref": "Law 3.3.1"
+    },
+    {
+      "sport": "australian_football",
+      "level": 5,
+      "text": "Kicks, handballs and marks on a large oval, where a free kick can be advanced 50 metres for further infringement.",
+      "source": "australian_football.pdf",
+      "ref": "Laws 15–19"
+    },
+    {
+      "sport": "rugby_league",
+      "level": 1,
+      "text": "Studs on boots must not have sharp edges.",
+      "source": "rugby_league.pdf",
+      "ref": "Section 4"
+    },
+    {
+      "sport": "rugby_league",
+      "level": 2,
+      "text": "When a penalty is awarded, the offending team must retire 10 metres.",
+      "source": "rugby_league.pdf",
+      "ref": "Section 13"
+    },
+    {
+      "sport": "rugby_league",
+      "level": 3,
+      "text": "A goal kicked from a penalty is worth two points.",
+      "source": "rugby_league.pdf",
+      "ref": "Section 6"
+    },
+    {
+      "sport": "rugby_league",
+      "level": 4,
+      "text": "After kicking a penalty into touch, the team restarts with a tap kick 10 metres in from touch.",
+      "source": "rugby_league.pdf",
+      "ref": "Sections 8 and 13"
+    },
+    {
+      "sport": "rugby_league",
+      "level": 5,
+      "text": "Thirteen-a-side code where each team gets six tackles per set of possession.",
+      "source": "rugby_league.pdf",
+      "ref": "Sections 4 and 11"
+    },
+    {
+      "sport": "handball",
+      "level": 1,
+      "text": "A team must have at least five players on court at the start of the game.",
+      "source": "handball.pdf",
+      "ref": "Rule 4"
+    },
+    {
+      "sport": "handball",
+      "level": 2,
+      "text": "If extra time is needed, it's two halves of 5 minutes after a 5-minute break.",
+      "source": "handball.pdf",
+      "ref": "Rule 2:2"
+    },
+    {
+      "sport": "handball",
+      "level": 3,
+      "text": "During a throw-in, opponents must stay at least 3 metres from the thrower.",
+      "source": "handball.pdf",
+      "ref": "Rule 11:5"
+    },
+    {
+      "sport": "handball",
+      "level": 4,
+      "text": "A suspension always lasts 2 minutes, and a player's third suspension means disqualification.",
+      "source": "handball.pdf",
+      "ref": "Rule 16:5"
+    },
+    {
+      "sport": "handball",
+      "level": 5,
+      "text": "After a 7-metre throw, the thrower and teammates can't play the ball again until it touches an opponent or the goal.",
+      "source": "handball.pdf",
+      "ref": "Rule 14:6"
+    },
+    {
+      "sport": "squash",
+      "level": 1,
+      "text": "Players may not request a change of any official.",
+      "source": "squash.pdf",
+      "ref": "Rule 14.5"
+    },
+    {
+      "sport": "squash",
+      "level": 2,
+      "text": "The warm-up lasts up to 4 minutes, and players change sides after 2.",
+      "source": "squash.pdf",
+      "ref": "Rule 4.1"
+    },
+    {
+      "sport": "squash",
+      "level": 3,
+      "text": "A maximum of 2 minutes is allowed to change damaged equipment.",
+      "source": "squash.pdf",
+      "ref": "Rule 7.3"
+    },
+    {
+      "sport": "squash",
+      "level": 4,
+      "text": "A player injured by the opponent gets up to 15 minutes to recover, but only 3 if they caused the injury themselves.",
+      "source": "squash.pdf",
+      "ref": "Rule 13.2.4"
+    },
+    {
+      "sport": "squash",
+      "level": 5,
+      "text": "Players may not leave the four-walled court during a game without the referee's permission.",
+      "source": "squash.pdf",
+      "ref": "Rule 14.4"
+    },
+    {
+      "sport": "pickleball",
+      "level": 1,
+      "text": "Spectators must never be consulted on any line call.",
+      "source": "pickleball.pdf",
+      "ref": "Rule 8.J"
+    },
+    {
+      "sport": "pickleball",
+      "level": 2,
+      "text": "The server must serve within 10 seconds of the score being called, or it's a fault.",
+      "source": "pickleball.pdf",
+      "ref": "Rule 6.D.1"
+    },
+    {
+      "sport": "pickleball",
+      "level": 3,
+      "text": "A player must not catch or carry the ball on their [hitting implement].",
+      "source": "pickleball.pdf",
+      "ref": "Rule 12.C"
+    },
+    {
+      "sport": "pickleball",
+      "level": 4,
+      "text": "A player found using a non-compliant paddle must switch to a legal one, with no penalty.",
+      "source": "pickleball.pdf",
+      "ref": "Rule 3.D"
+    },
+    {
+      "sport": "pickleball",
+      "level": 5,
+      "text": "Paddle sport with a perforated plastic ball, where a technical foul for extreme unsportsmanlike conduct costs one point.",
+      "source": "pickleball.pdf",
+      "ref": "Definitions: Technical foul"
+    },
+    {
+      "sport": "bowling",
+      "level": 1,
+      "text": "Every delivery must be made entirely by hand, so no mechanical device may propel the [object].",
+      "source": "bowling_usbc.pdf",
+      "ref": "Rule 2"
+    },
+    {
+      "sport": "bowling",
+      "level": 2,
+      "text": "A delivery counts unless the officials declare a dead ball.",
+      "source": "bowling_usbc.pdf",
+      "ref": "Rules 2 and 8"
+    },
+    {
+      "sport": "bowling",
+      "level": 3,
+      "text": "When the head target is knocked down but separated ones remain standing after the first delivery, it's called a split.",
+      "source": "bowling_usbc.pdf",
+      "ref": "Rule 2h"
+    },
+    {
+      "sport": "bowling",
+      "level": 4,
+      "text": "Three strikes in a row is called a triple or a turkey.",
+      "source": "bowling_usbc.pdf",
+      "ref": "Rule 2"
+    },
+    {
+      "sport": "bowling",
+      "level": 5,
+      "text": "Twelve strikes in a row produces the maximum score of 300.",
+      "source": "bowling_usbc.pdf",
+      "ref": "Rule 2"
+    },
+    {
+      "sport": "petanque",
+      "level": 1,
+      "text": "Correct dress is required, and playing without a top is specifically forbidden.",
+      "source": "petanque.pdf",
+      "ref": "Article 39"
+    },
+    {
+      "sport": "petanque",
+      "level": 2,
+      "text": "A team that hasn't arrived within 30 minutes of the start is eliminated.",
+      "source": "petanque.pdf",
+      "ref": "Article 32"
+    },
+    {
+      "sport": "petanque",
+      "level": 3,
+      "text": "If the small target gets knocked away and can't be found, the search is limited to 5 minutes.",
+      "source": "petanque.pdf",
+      "ref": "Article 8"
+    },
+    {
+      "sport": "petanque",
+      "level": 4,
+      "text": "While the umpire is measuring, players must stand at least 2 metres away.",
+      "source": "petanque.pdf",
+      "ref": "Article 26"
+    },
+    {
+      "sport": "petanque",
+      "level": 5,
+      "text": "Each boule must be between 7.05 cm and 8 cm in diameter.",
+      "source": "petanque.pdf",
+      "ref": "Article 2"
+    },
+    {
+      "sport": "water_polo",
+      "level": 1,
+      "text": "Players may not change the number on their headwear during a match without a referee's permission.",
+      "source": "water_polo.pdf",
+      "ref": "Rule 21.4.6.5"
+    },
+    {
+      "sport": "water_polo",
+      "level": 2,
+      "text": "A team's start list must include at least seven players.",
+      "source": "water_polo.pdf",
+      "ref": "Rule 2.2.2.2"
+    },
+    {
+      "sport": "water_polo",
+      "level": 3,
+      "text": "When a free throw is awarded, opponents must be at least 1 metre from the ball.",
+      "source": "water_polo.pdf",
+      "ref": "Rule 12.7.2"
+    },
+    {
+      "sport": "water_polo",
+      "level": 4,
+      "text": "In league tables, a team that loses after a penalty shootout still earns 1 point.",
+      "source": "water_polo.pdf",
+      "ref": "Appendix: points"
+    },
+    {
+      "sport": "water_polo",
+      "level": 5,
+      "text": "A personal foul is recorded for every exclusion foul or penalty foul in the pool.",
+      "source": "water_polo.pdf",
+      "ref": "Rule 17.1"
+    },
+    {
+      "sport": "rowing",
+      "level": 1,
+      "text": "Sweep blades must be at least 5 mm thick.",
+      "source": "rowing.pdf",
+      "ref": "Bye-Laws to Rule 29 (Boats and Equipment)"
+    },
+    {
+      "sport": "rowing",
+      "level": 2,
+      "text": "Two minutes before the start time, the starter announces 'Two minutes'.",
+      "source": "rowing.pdf",
+      "ref": "Rule 67"
+    },
+    {
+      "sport": "rowing",
+      "level": 3,
+      "text": "Advertising on equipment and clothing is prohibited except where the governing body specifically allows it.",
+      "source": "rowing.pdf",
+      "ref": "Bye-Laws on advertising"
+    },
+    {
+      "sport": "rowing",
+      "level": 4,
+      "text": "A single sculler who has entered can't be replaced except in specific circumstances.",
+      "source": "rowing.pdf",
+      "ref": "Rule 14"
+    },
+    {
+      "sport": "rowing",
+      "level": 5,
+      "text": "Crews of one, two, four or eight race oared boats along a buoyed regatta course.",
+      "source": "rowing.pdf",
+      "ref": "Rules 33 and 34"
+    },
+    {
+      "sport": "wrestling",
+      "level": 1,
+      "text": "A competitor who turns up in the wrong colour uniform gets a maximum of one minute to change.",
+      "source": "wrestling.pdf",
+      "ref": "Article 4 (attire)"
+    },
+    {
+      "sport": "wrestling",
+      "level": 2,
+      "text": "A competitor can't be called for a new bout until 20 minutes of rest have passed since their last one.",
+      "source": "wrestling.pdf",
+      "ref": "Article 23"
+    },
+    {
+      "sport": "wrestling",
+      "level": 3,
+      "text": "Coaches must stay at the foot of the platform, or at least two metres from the edge of the competition area.",
+      "source": "wrestling.pdf",
+      "ref": "Wrestling rules (coaches)"
+    },
+    {
+      "sport": "wrestling",
+      "level": 4,
+      "text": "After each caution, the opponent automatically receives at least one point.",
+      "source": "wrestling.pdf",
+      "ref": "Article 36"
+    },
+    {
+      "sport": "wrestling",
+      "level": 5,
+      "text": "After a passivity call, a 30-second mandatory-score period begins on the mat.",
+      "source": "wrestling.pdf",
+      "ref": "Article 46"
+    },
+    {
+      "sport": "ultimate",
+      "level": 1,
+      "text": "Before calling an obstruction, a defender may wait up to two seconds to see whether it affects play.",
+      "source": "ultimate.pdf",
+      "ref": "Rule 18.3.1.1"
+    },
+    {
+      "sport": "ultimate",
+      "level": 2,
+      "text": "Each team must have no more than seven and no fewer than five players on the field.",
+      "source": "ultimate.pdf",
+      "ref": "Rule 5.1"
+    },
+    {
+      "sport": "ultimate",
+      "level": 3,
+      "text": "After a turnover, play must restart within 10 seconds in mid-field, or within 20 seconds in a scoring area.",
+      "source": "ultimate.pdf",
+      "ref": "Rule 8.5.1"
+    },
+    {
+      "sport": "ultimate",
+      "level": 4,
+      "text": "A time-out lasts 75 seconds, and afterwards the stall count restarts at nine.",
+      "source": "ultimate.pdf",
+      "ref": "Rule 20.3"
+    },
+    {
+      "sport": "ultimate",
+      "level": 5,
+      "text": "Self-officiated, non-contact games that last around 100 minutes, where you can't run with the disc.",
+      "source": "ultimate.pdf",
+      "ref": "Introduction"
+    },
+    {
+      "sport": "tug_of_war",
+      "level": 1,
+      "text": "A coach may swap any team members between rounds, as long as the team stays within its weight-class maximum.",
+      "source": "tug_of_war.pdf",
+      "ref": "Rule 8.2"
+    },
+    {
+      "sport": "tug_of_war",
+      "level": 2,
+      "text": "Advertising on competition dress is limited to an area of at most 75 cm².",
+      "source": "tug_of_war.pdf",
+      "ref": "Advertising rules 2"
+    },
+    {
+      "sport": "tug_of_war",
+      "level": 3,
+      "text": "Teams that fail to actively compete for a set time have their inactivity flagged by the chief judge.",
+      "source": "tug_of_war.pdf",
+      "ref": "Rule 13"
+    },
+    {
+      "sport": "tug_of_war",
+      "level": 4,
+      "text": "Outdoor shoes must have no protruding features, and the front part must be at least half the shoe's total length.",
+      "source": "tug_of_war.pdf",
+      "ref": "Rule 8.4.1"
+    },
+    {
+      "sport": "tug_of_war",
+      "level": 5,
+      "text": "Eight pullers per team, in weight classes, heave on a rope with an anchor at the back.",
+      "source": "tug_of_war.pdf",
+      "ref": "Rules 3 and 8"
+    },
+    {
+      "sport": "futsal",
+      "level": 1,
+      "text": "In unofficial national 'A' team matches, up to ten substitutes may be used.",
+      "source": "futsal.pdf",
+      "ref": "Law 3.2"
+    },
+    {
+      "sport": "futsal",
+      "level": 2,
+      "text": "A penalty shoot-out is not considered part of the match.",
+      "source": "futsal.pdf",
+      "ref": "Law 10.3"
+    },
+    {
+      "sport": "futsal",
+      "level": 3,
+      "text": "The referees may not play advantage after a breach of the four-second limit.",
+      "source": "futsal.pdf",
+      "ref": "Practical guidelines"
+    },
+    {
+      "sport": "futsal",
+      "level": 4,
+      "text": "A goalkeeper who controls the ball in their own half for more than four seconds concedes an indirect free kick.",
+      "source": "futsal.pdf",
+      "ref": "Law 12"
+    },
+    {
+      "sport": "futsal",
+      "level": 5,
+      "text": "Five-a-side indoor football, officiated by a referee and a second referee on opposite sidelines.",
+      "source": "futsal.pdf",
+      "ref": "Law 5"
+    },
+    {
+      "sport": "gaelic_football",
+      "level": 1,
+      "text": "Repeated serious infractions can bring a suspension of 192 weeks.",
+      "source": "gaelic_hurling_gaa.pdf",
+      "ref": "Rules of Control (penalties)"
+    },
+    {
+      "sport": "gaelic_football",
+      "level": 2,
+      "text": "Half-time may not exceed ten minutes.",
+      "source": "gaelic_hurling_gaa.pdf",
+      "ref": "Rules of Specification 3.3"
+    },
+    {
+      "sport": "gaelic_football",
+      "level": 3,
+      "text": "A shoulder-to-shoulder charge is allowed, but only if the player has at least one foot on the ground.",
+      "source": "gaelic_hurling_gaa.pdf",
+      "ref": "Playing Rules of Football 1.7"
+    },
+    {
+      "sport": "gaelic_football",
+      "level": 4,
+      "text": "When the ball goes over the sideline, opponents must be at least 13 m away until it's kicked or thrown in.",
+      "source": "gaelic_hurling_gaa.pdf",
+      "ref": "Playing Rules of Football 2.9"
+    },
+    {
+      "sport": "gaelic_football",
+      "level": 5,
+      "text": "Penalty kicks are taken off the ground, 11 m from the goal line, and points go over the bar.",
+      "source": "gaelic_hurling_gaa.pdf",
+      "ref": "Playing Rules of Football 2.4"
+    },
+    {
+      "sport": "hurling",
+      "level": 1,
+      "text": "The goalposts must be at least 7 metres tall.",
+      "source": "gaelic_hurling_gaa.pdf",
+      "ref": "Rules of Specification 1.1"
+    },
+    {
+      "sport": "hurling",
+      "level": 2,
+      "text": "Players may not cross the 20 m line or arc until a defensive free has been struck.",
+      "source": "gaelic_hurling_gaa.pdf",
+      "ref": "Playing Rules of Hurling 2.3"
+    },
+    {
+      "sport": "hurling",
+      "level": 3,
+      "text": "After an exceptional stoppage, play restarts on the 20 m line, and no score may be made directly from that restart.",
+      "source": "gaelic_hurling_gaa.pdf",
+      "ref": "Playing Rules of Hurling 2.9"
+    },
+    {
+      "sport": "hurling",
+      "level": 4,
+      "text": "When a team plays the ball over the sideline, the opponents restart with a free puck from the ground.",
+      "source": "gaelic_hurling_gaa.pdf",
+      "ref": "Playing Rules of Hurling 2.8"
+    },
+    {
+      "sport": "hurling",
+      "level": 5,
+      "text": "The player taking a free must lift the sliotar with the hurley at the first attempt and strike it.",
+      "source": "gaelic_hurling_gaa.pdf",
+      "ref": "Playing Rules of Hurling 2.6"
+    },
+    {
+      "sport": "polo",
+      "level": 1,
+      "text": "When restarting after a period, the umpires must not wait for players who delay.",
+      "source": "polo.pdf",
+      "ref": "Rule 11"
+    },
+    {
+      "sport": "polo",
+      "level": 2,
+      "text": "If a player falls, the umpire doesn't stop play unless they believe the player is hurt.",
+      "source": "polo.pdf",
+      "ref": "Rule 23"
+    },
+    {
+      "sport": "polo",
+      "level": 3,
+      "text": "A ball that passes directly over either goal post doesn't score.",
+      "source": "polo.pdf",
+      "ref": "Rule 3"
+    },
+    {
+      "sport": "polo",
+      "level": 4,
+      "text": "Penalty 2 is a free hit from 30 yards, Penalty 3 from 40 yards, and Penalty 4 from 60 yards.",
+      "source": "polo.pdf",
+      "ref": "Rule 26"
+    },
+    {
+      "sport": "polo",
+      "level": 5,
+      "text": "Mounted players line up as the umpire bowls the ball hard between them from at least five yards.",
+      "source": "polo.pdf",
+      "ref": "Rule 4"
+    },
+    {
+      "sport": "softball",
+      "level": 1,
+      "text": "Plastic or hard visors are not allowed as part of the uniform.",
+      "source": "softball_slowpitch.pdf",
+      "ref": "Rule 2.5.1"
+    },
+    {
+      "sport": "softball",
+      "level": 2,
+      "text": "The safety grip on a bat may be no more than two layers thick.",
+      "source": "softball_slowpitch.pdf",
+      "ref": "Equipment standards 11"
+    },
+    {
+      "sport": "softball",
+      "level": 3,
+      "text": "The hitter must take position within 10 seconds of the umpire declaring 'Play ball.'",
+      "source": "softball_slowpitch.pdf",
+      "ref": "Rule 5.4.2"
+    },
+    {
+      "sport": "softball",
+      "level": 4,
+      "text": "A pitcher who returns to pitch in the same half inning doesn't get more warm-up pitches.",
+      "source": "softball_slowpitch.pdf",
+      "ref": "Rule 4.3.1"
+    },
+    {
+      "sport": "softball",
+      "level": 5,
+      "text": "An 11-inch (27.9 cm) ball is pitched underhand, in an arc, to the batter.",
+      "source": "softball_slowpitch.pdf",
+      "ref": "Rules 4.3.7 and Equipment standards"
+    },
+    {
+      "sport": "dodgeball",
+      "level": 2,
+      "text": "Each set lasts up to three minutes on the set clock.",
+      "source": "dodgeball.pdf",
+      "ref": "Definitions 2"
+    },
+    {
+      "sport": "dodgeball",
+      "level": 3,
+      "text": "At the start signal, every player must have at least one foot on the back line.",
+      "source": "dodgeball.pdf",
+      "ref": "Rule 11.2.1"
+    },
+    {
+      "sport": "dodgeball",
+      "level": 4,
+      "text": "If a team isn't ready to play within 30 seconds, an escalating delay penalty ladder kicks in.",
+      "source": "dodgeball.pdf",
+      "ref": "Rule 7.7.2"
+    },
+    {
+      "sport": "dodgeball",
+      "level": 5,
+      "text": "Out players wait in a queue to return when a teammate catches a throw. Benches sit at least 4 m from the centre line.",
+      "source": "dodgeball.pdf",
+      "ref": "Rules 1.1.6 and 23"
+    },
+    {
+      "sport": "padel",
+      "level": 1,
+      "text": "The [hitting implement] may not contain any device that could communicate with or advise the player.",
+      "source": "padel.pdf",
+      "ref": "Rules: The racket (10)"
+    },
+    {
+      "sport": "padel",
+      "level": 2,
+      "text": "A 3-minute courtesy warm-up rally between the players is obligatory.",
+      "source": "padel.pdf",
+      "ref": "Rules: Scoring (2)"
+    },
+    {
+      "sport": "padel",
+      "level": 3,
+      "text": "When serving, you may not touch the service line or the imaginary centre line with your feet.",
+      "source": "padel.pdf",
+      "ref": "Rules: The serve (3)"
+    },
+    {
+      "sport": "padel",
+      "level": 4,
+      "text": "Each player receives serve alternately, and once the order is set it can't be changed.",
+      "source": "padel.pdf",
+      "ref": "Rules: Receiving (3)"
+    },
+    {
+      "sport": "padel",
+      "level": 5,
+      "text": "Doubles in a walled court where the net can be at most 1.05 m high at the posts, and a tie-break goes to 7.",
+      "source": "padel.pdf",
+      "ref": "Rules: The court; Scoring"
+    },
+    {
+      "sport": "beach_volleyball",
+      "level": 1,
+      "text": "The playing area must be surrounded by a free zone at least 3 m wide on all sides.",
+      "source": "beach_volleyball.pdf",
+      "ref": "Rule 1.1.2"
+    },
+    {
+      "sport": "beach_volleyball",
+      "level": 2,
+      "text": "Requested time-outs last 30 seconds.",
+      "source": "beach_volleyball.pdf",
+      "ref": "Rule 15.4"
+    },
+    {
+      "sport": "beach_volleyball",
+      "level": 3,
+      "text": "No more than 12 seconds may pass between the end of a rally and the whistle for the next serve.",
+      "source": "beach_volleyball.pdf",
+      "ref": "Rule 16.1.3"
+    },
+    {
+      "sport": "beach_volleyball",
+      "level": 4,
+      "text": "There are strict rules on overhand finger contact: the ball must not come to rest in the fingers.",
+      "source": "beach_volleyball.pdf",
+      "ref": "Rule 9.2.2"
+    },
+    {
+      "sport": "beach_volleyball",
+      "level": 5,
+      "text": "On sand, a serving-team player must not screen the server from the opponents' view.",
+      "source": "beach_volleyball.pdf",
+      "ref": "Rule 12.5.1"
+    },
+    {
+      "sport": "lawn_bowls",
+      "level": 1,
+      "text": "The marker for a live target in the ditch may be no more than 50 mm wide and 100 mm high.",
+      "source": "lawn_bowls.pdf",
+      "ref": "Law 18"
+    },
+    {
+      "sport": "lawn_bowls",
+      "level": 2,
+      "text": "If a player has to leave and can't return within 10 minutes, special rules for finishing the game apply.",
+      "source": "lawn_bowls.pdf",
+      "ref": "Law 31"
+    },
+    {
+      "sport": "lawn_bowls",
+      "level": 3,
+      "text": "Markers dividing the playing areas must be no more than 430 mm high.",
+      "source": "lawn_bowls.pdf",
+      "ref": "Law 49"
+    },
+    {
+      "sport": "lawn_bowls",
+      "level": 4,
+      "text": "If an opponent displaces your bowl, special rules decide how it's dealt with, and the opponent must not replace it themselves.",
+      "source": "lawn_bowls.pdf",
+      "ref": "Law 37.1"
+    },
+    {
+      "sport": "lawn_bowls",
+      "level": 5,
+      "text": "Players deliver from a mat toward the jack, and a re-spotted jack doesn't make the end dead.",
+      "source": "lawn_bowls.pdf",
+      "ref": "Law 56.5"
+    },
+    {
+      "sport": "croquet",
+      "level": 1,
+      "text": "The striker may not use artificial aids to help judge a stroke.",
+      "source": "croquet.pdf",
+      "ref": "Law 57.8"
+    },
+    {
+      "sport": "croquet",
+      "level": 2,
+      "text": "A player found seeking advice during a game can be penalised.",
+      "source": "croquet.pdf",
+      "ref": "Law 57.3"
+    },
+    {
+      "sport": "croquet",
+      "level": 3,
+      "text": "When replacing a ball, the striker may not rotate it to change its alignment.",
+      "source": "croquet.pdf",
+      "ref": "Law 5.3.4"
+    },
+    {
+      "sport": "croquet",
+      "level": 4,
+      "text": "The peg point can't be scored while you're playing the wrong ball.",
+      "source": "croquet.pdf",
+      "ref": "Law 27.4"
+    },
+    {
+      "sport": "croquet",
+      "level": 5,
+      "text": "In handicap games, weaker players get 'bisques', extra turns that may not be split into halves.",
+      "source": "croquet.pdf",
+      "ref": "Handicap laws"
+    },
+    {
+      "sport": "cornhole",
+      "level": 1,
+      "text": "The court must be a level rectangle 8–10 feet wide.",
+      "source": "cornhole.pdf",
+      "ref": "Court layout"
+    },
+    {
+      "sport": "cornhole",
+      "level": 2,
+      "text": "Each target is made of smooth plywood with a surface 2 feet wide.",
+      "source": "cornhole.pdf",
+      "ref": "Equipment: boards"
+    },
+    {
+      "sport": "cornhole",
+      "level": 3,
+      "text": "If you accidentally drop your [object] before your swing starts, it isn't a foul and you can pick it up.",
+      "source": "cornhole.pdf",
+      "ref": "Rule 9"
+    },
+    {
+      "sport": "cornhole",
+      "level": 4,
+      "text": "A judge can declare a foul bag, which must be removed from the board.",
+      "source": "cornhole.pdf",
+      "ref": "Fouls"
+    },
+    {
+      "sport": "cornhole",
+      "level": 5,
+      "text": "Players toss bean bags at a board with a hole, using cancellation scoring up to 21.",
+      "source": "cornhole.pdf",
+      "ref": "Scoring"
+    },
+    {
+      "sport": "disc_golf",
+      "level": 1,
+      "text": "Placing any object as a directional aid is not allowed.",
+      "source": "disc_golf.html",
+      "ref": "813.02"
+    },
+    {
+      "sport": "disc_golf",
+      "level": 2,
+      "text": "Taking excessive time earns a warning first, and a penalty for a repeat.",
+      "source": "disc_golf.html",
+      "ref": "802.03"
+    },
+    {
+      "sport": "disc_golf",
+      "level": 3,
+      "text": "Intentionally interfering with another player's thrown [object] costs you two penalty throws.",
+      "source": "disc_golf.html",
+      "ref": "810"
+    },
+    {
+      "sport": "disc_golf",
+      "level": 4,
+      "text": "If the two-meter rule is in effect, a disc that comes to rest two meters or more above the ground costs a penalty.",
+      "source": "disc_golf.html",
+      "ref": "805.02"
+    },
+    {
+      "sport": "disc_golf",
+      "level": 5,
+      "text": "Golf played with flying discs, where moving a spectator rope and not restoring it costs a one-throw penalty.",
+      "source": "disc_golf.html",
+      "ref": "Competition Manual 4.08"
+    },
+    {
+      "sport": "taekwondo",
+      "level": 1,
+      "text": "Coaches' positions must be marked at least 2 m from the competition area.",
+      "source": "taekwondo.pdf",
+      "ref": "Article 2.6"
+    },
+    {
+      "sport": "taekwondo",
+      "level": 2,
+      "text": "After a decision, the judges must record the winner within 10 seconds with their heads down.",
+      "source": "taekwondo.pdf",
+      "ref": "Decision procedure 5.4"
+    },
+    {
+      "sport": "taekwondo",
+      "level": 3,
+      "text": "At most two coaches and one medical staff member may enter the field of play.",
+      "source": "taekwondo.pdf",
+      "ref": "Rule 4.4"
+    },
+    {
+      "sport": "taekwondo",
+      "level": 4,
+      "text": "After a passivity penalty, the opponent's points count double for the next ten seconds.",
+      "source": "taekwondo.pdf",
+      "ref": "Rule 8.4"
+    },
+    {
+      "sport": "taekwondo",
+      "level": 5,
+      "text": "Kicks to the head score most, and a concussion brings at least 30 days of mandatory medical suspension.",
+      "source": "taekwondo.pdf",
+      "ref": "Medical code 2.7"
+    },
+    {
+      "sport": "bobsleigh",
+      "level": 1,
+      "text": "The teeth of the brake must be at least 20 mm high.",
+      "source": "bobsleigh.pdf",
+      "ref": "Rule 12.2.8.2"
+    },
+    {
+      "sport": "bobsleigh",
+      "level": 2,
+      "text": "The steel the vehicle glides on must not be harder than 385 Brinell.",
+      "source": "bobsleigh.pdf",
+      "ref": "Rule 12.2.7"
+    },
+    {
+      "sport": "bobsleigh",
+      "level": 3,
+      "text": "If the vehicle stops before the finish line, the team is disqualified, and outside help isn't allowed.",
+      "source": "bobsleigh.pdf",
+      "ref": "Rule 10.6.5"
+    },
+    {
+      "sport": "bobsleigh",
+      "level": 4,
+      "text": "During a competition, pilots may not make extra runs on the track outside official training and the race.",
+      "source": "bobsleigh.pdf",
+      "ref": "Rule 10"
+    },
+    {
+      "sport": "bobsleigh",
+      "level": 5,
+      "text": "Competitions include two-person and four-person sleds, plus the women's monobob.",
+      "source": "bobsleigh.pdf",
+      "ref": "Rule 11.2"
+    },
+    {
+      "sport": "skeleton",
+      "level": 1,
+      "text": "One piece of adhesive tape, up to a maximum size, is allowed on the helmet's chin guard.",
+      "source": "skeleton.pdf",
+      "ref": "Rule 10.16.1"
+    },
+    {
+      "sport": "skeleton",
+      "level": 2,
+      "text": "Before the second weight check, athletes get up to 5 minutes to remove snow and ice from their equipment.",
+      "source": "skeleton.pdf",
+      "ref": "Rule 10.14"
+    },
+    {
+      "sport": "skeleton",
+      "level": 3,
+      "text": "No more than 12 training heats are offered per competition.",
+      "source": "skeleton.pdf",
+      "ref": "Training rules"
+    },
+    {
+      "sport": "skeleton",
+      "level": 4,
+      "text": "The sled's cowling must be convex, with no more than 3 mm of concavity over 300 mm.",
+      "source": "skeleton.pdf",
+      "ref": "Rule 12.6"
+    },
+    {
+      "sport": "skeleton",
+      "level": 5,
+      "text": "Athletes slide head-first, and at least three forerunner sleds test the ice track before races.",
+      "source": "skeleton.pdf",
+      "ref": "Rule 10.6.13"
+    },
+    {
+      "sport": "gymnastics",
+      "level": 1,
+      "text": "A composition made of a series of unrelated elements is penalised.",
+      "source": "gymnastics_rhythmic.pdf",
+      "ref": "Rule 7.2.1"
+    },
+    {
+      "sport": "gymnastics",
+      "level": 2,
+      "text": "The time judge deducts 0.05 for each second a routine runs over or under.",
+      "source": "gymnastics_rhythmic.pdf",
+      "ref": "Rule 3.3"
+    },
+    {
+      "sport": "gymnastics",
+      "level": 3,
+      "text": "Every body difficulty must include at least one technical element with the handheld equipment.",
+      "source": "gymnastics_rhythmic.pdf",
+      "ref": "Rule 2.6.1"
+    },
+    {
+      "sport": "gymnastics",
+      "level": 4,
+      "text": "If the apparatus breaks mid-routine, the gymnast may remove it from the floor area without penalty.",
+      "source": "gymnastics_rhythmic.pdf",
+      "ref": "Rule 11.4.2"
+    },
+    {
+      "sport": "gymnastics",
+      "level": 5,
+      "text": "Routines to music must include a dance-steps combination lasting at least 8 seconds, with hoop, ball, clubs or ribbon.",
+      "source": "gymnastics_rhythmic.pdf",
+      "ref": "Rule 5.3.3"
+    },
+    {
+      "sport": "beach_soccer",
+      "level": 1,
+      "text": "Yellow flags mark each end of the imaginary lines that define the penalty area.",
+      "source": "beach_soccer.pdf",
+      "ref": "Law 1.7"
+    },
+    {
+      "sport": "beach_soccer",
+      "level": 2,
+      "text": "At a corner kick, opponents must stay at least 5 m from the imaginary corner arc.",
+      "source": "beach_soccer.pdf",
+      "ref": "Law 17"
+    },
+    {
+      "sport": "beach_soccer",
+      "level": 3,
+      "text": "A penalty kick may be taken by any player, or even a substitute, from the team awarded it.",
+      "source": "beach_soccer.pdf",
+      "ref": "Law 14"
+    },
+    {
+      "sport": "beach_soccer",
+      "level": 4,
+      "text": "When the ball crosses the sideline, play restarts with either a kick-in or a throw-in.",
+      "source": "beach_soccer.pdf",
+      "ref": "Law 15"
+    },
+    {
+      "sport": "beach_soccer",
+      "level": 5,
+      "text": "Played on sand, and a match can't end in a draw: extra time and then penalties decide it.",
+      "source": "beach_soccer.pdf",
+      "ref": "Law 10"
+    },
+    {
+      "sport": "canadian_football",
+      "level": 1,
+      "text": "Player numbers must be at least 10 inches (25 cm) high.",
+      "source": "canadian_football_amateur.pdf",
+      "ref": "Uniforms"
+    },
+    {
+      "sport": "canadian_football",
+      "level": 2,
+      "text": "A game is 60 minutes of actual playing time, in four periods of 15 minutes.",
+      "source": "canadian_football_amateur.pdf",
+      "ref": "Rule 1, Section 3"
+    },
+    {
+      "sport": "canadian_football",
+      "level": 3,
+      "text": "On a kick-off from a tee, the lowest point of the ball may be no more than 1 inch above the ground.",
+      "source": "canadian_football_amateur.pdf",
+      "ref": "Kick-off rules"
+    },
+    {
+      "sport": "canadian_football",
+      "level": 4,
+      "text": "A player receiving a hand-off must not be lined up in a lineman's position at that moment.",
+      "source": "canadian_football_amateur.pdf",
+      "ref": "Hand-off rules"
+    },
+    {
+      "sport": "canadian_football",
+      "level": 5,
+      "text": "Three downs to make 10 yards on a 110-yard field, with 12 players a side.",
+      "source": "canadian_football_amateur.pdf",
+      "ref": "Rules 1–3"
+    },
+    {
+      "sport": "touch_football",
+      "level": 1,
+      "text": "Team coaches must stay in their designated area and must not coach from elsewhere around the field.",
+      "source": "touch_football.pdf",
+      "ref": "Rule 6.2"
+    },
+    {
+      "sport": "touch_football",
+      "level": 2,
+      "text": "A team has at most 14 players, and no more than six of them on the field at once.",
+      "source": "touch_football.pdf",
+      "ref": "Rule 5.1"
+    },
+    {
+      "sport": "touch_football",
+      "level": 3,
+      "text": "A player in possession may not kick the ball.",
+      "source": "touch_football.pdf",
+      "ref": "Rule 11.1"
+    },
+    {
+      "sport": "touch_football",
+      "level": 4,
+      "text": "At a rollball, the attacker rolls the ball back between their feet no more than one metre.",
+      "source": "touch_football.pdf",
+      "ref": "Rule 13.1.2"
+    },
+    {
+      "sport": "touch_football",
+      "level": 5,
+      "text": "Rugby without tackles, where defenders must not deliberately knock the ball from the carrier's hands.",
+      "source": "touch_football.pdf",
+      "ref": "Rule 10.5"
+    },
+    {
+      "sport": "bandy",
+      "level": 1,
+      "text": "A field player lying on the playing surface is considered out of the game and may not play the ball.",
+      "source": "bandy.pdf",
+      "ref": "Rule 5"
+    },
+    {
+      "sport": "bandy",
+      "level": 2,
+      "text": "At the start, players must stay in their own half and can't cross the centre line until the ball is played.",
+      "source": "bandy.pdf",
+      "ref": "Rule 4"
+    },
+    {
+      "sport": "bandy",
+      "level": 3,
+      "text": "Players serving timed penalties may take part in a penalty shootout, but players expelled for the whole game may not.",
+      "source": "bandy.pdf",
+      "ref": "Rule 16.2"
+    },
+    {
+      "sport": "bandy",
+      "level": 4,
+      "text": "A penalty stroke isn't complete until the ball leaves the penalty area or a goal is scored.",
+      "source": "bandy.pdf",
+      "ref": "Rule 3.3"
+    },
+    {
+      "sport": "bandy",
+      "level": 5,
+      "text": "Eleven skaters chase a small ball with curved sticks, and offences can bring a 10-minute penalty.",
+      "source": "bandy.pdf",
+      "ref": "Rule 17.8"
+    },
+    {
+      "sport": "floorball",
+      "level": 1,
+      "text": "The only alteration allowed to the goalkeeper's face mask is painting it.",
+      "source": "floorball.pdf",
+      "ref": "Rule 403"
+    },
+    {
+      "sport": "floorball",
+      "level": 2,
+      "text": "If penalty shots after overtime leave a team without a goalkeeper, it has at most 3 minutes to equip one.",
+      "source": "floorball.pdf",
+      "ref": "Rule 204"
+    },
+    {
+      "sport": "floorball",
+      "level": 3,
+      "text": "At a face-off, the players taking it must not make physical contact with each other.",
+      "source": "floorball.pdf",
+      "ref": "Rule 502"
+    },
+    {
+      "sport": "floorball",
+      "level": 4,
+      "text": "A player whose penalty has expired must leave the penalty bench immediately.",
+      "source": "floorball.pdf",
+      "ref": "Rule 601"
+    },
+    {
+      "sport": "floorball",
+      "level": 5,
+      "text": "Indoor stick sport in a low-walled rink, where serious offences bring a match penalty.",
+      "source": "floorball.pdf",
+      "ref": "Rule 614"
+    },
+    {
+      "sport": "rink_hockey",
+      "level": 1,
+      "text": "Goalkeepers may wear a neck protector no more than 5 cm high.",
+      "source": "rink_hockey.pdf",
+      "ref": "Equipment: goalkeepers"
+    },
+    {
+      "sport": "rink_hockey",
+      "level": 2,
+      "text": "When a team wins the ball in its defensive zone, it has ten seconds to move it out.",
+      "source": "rink_hockey.pdf",
+      "ref": "Time of possession"
+    },
+    {
+      "sport": "rink_hockey",
+      "level": 3,
+      "text": "Padded gloves may be no more than 2.5 cm thick.",
+      "source": "rink_hockey.pdf",
+      "ref": "Equipment: all players"
+    },
+    {
+      "sport": "rink_hockey",
+      "level": 4,
+      "text": "There's always a 3-minute break between the end of regulation time and extra time.",
+      "source": "rink_hockey.pdf",
+      "ref": "Extra time"
+    },
+    {
+      "sport": "rink_hockey",
+      "level": 5,
+      "text": "On roller skates, a goalkeeper outside the penalty area who plays the ball with their gloves commits a foul.",
+      "source": "rink_hockey.pdf",
+      "ref": "Fouls (l)"
+    },
+    {
+      "sport": "ringette",
+      "level": 1,
+      "text": "An illegal substitution is a minor penalty.",
+      "source": "ringette.pdf",
+      "ref": "Rule 14.10"
+    },
+    {
+      "sport": "ringette",
+      "level": 2,
+      "text": "For a penalty shot, the shooter is chosen from the players who were on the playing surface at the time.",
+      "source": "ringette.pdf",
+      "ref": "Rule 22.3"
+    },
+    {
+      "sport": "ringette",
+      "level": 3,
+      "text": "Minor penalties to both teams at the same time can cancel each other out.",
+      "source": "ringette.pdf",
+      "ref": "Rule 21.4"
+    },
+    {
+      "sport": "ringette",
+      "level": 4,
+      "text": "A goal is nullified if a penalty occurs before the ring enters the net.",
+      "source": "ringette.pdf",
+      "ref": "Rule 11.4"
+    },
+    {
+      "sport": "ringette",
+      "level": 5,
+      "text": "Ice game played with a straight stick and a rubber ring, with a 30-second shot clock.",
+      "source": "ringette.pdf",
+      "ref": "Rules 1.4 and 24.3"
+    },
+    {
+      "sport": "camogie",
+      "level": 1,
+      "text": "A team must have at least twelve players to start a match.",
+      "source": "camogie.pdf",
+      "ref": "Rule 3.3"
+    },
+    {
+      "sport": "camogie",
+      "level": 2,
+      "text": "Every player must wear a helmet with a facial guard.",
+      "source": "camogie.pdf",
+      "ref": "Rule 7.2"
+    },
+    {
+      "sport": "camogie",
+      "level": 3,
+      "text": "The referee must extend time to allow a penalty to be taken.",
+      "source": "camogie.pdf",
+      "ref": "Rule 11.10"
+    },
+    {
+      "sport": "camogie",
+      "level": 4,
+      "text": "When a clashed sliotar crosses the sideline, play restarts with a throw-in.",
+      "source": "camogie.pdf",
+      "ref": "Rule 12.2"
+    },
+    {
+      "sport": "camogie",
+      "level": 5,
+      "text": "The women's game with hurleys, where a sideline puck must be taken promptly once the sliotar is placed.",
+      "source": "camogie.pdf",
+      "ref": "Rule 12.4"
+    },
+    {
+      "sport": "shinty",
+      "level": 1,
+      "text": "Goal judges don't change ends at half-time.",
+      "source": "shinty.pdf",
+      "ref": "Byelaw 1.6.3"
+    },
+    {
+      "sport": "shinty",
+      "level": 2,
+      "text": "Each team may name a maximum of 5 substitutes.",
+      "source": "shinty.pdf",
+      "ref": "Byelaw 1.2.2"
+    },
+    {
+      "sport": "shinty",
+      "level": 3,
+      "text": "The field of play may be no more than 170 yards long.",
+      "source": "shinty.pdf",
+      "ref": "Byelaw 1.1.1"
+    },
+    {
+      "sport": "shinty",
+      "level": 4,
+      "text": "A warning for persistent fouling is issued after a minimum of three fouls.",
+      "source": "shinty.pdf",
+      "ref": "Byelaw 1.13"
+    },
+    {
+      "sport": "shinty",
+      "level": 5,
+      "text": "In a penalty play-off, each team nominates five players to strike at goal with their caman.",
+      "source": "shinty.pdf",
+      "ref": "Byelaw 1.20.10"
+    },
+    {
+      "sport": "underwater_hockey",
+      "level": 1,
+      "text": "Players may not hang on the floating ropes that mark the team substitution areas.",
+      "source": "underwater_hockey.pdf",
+      "ref": "Rule 15.2.2.3.2"
+    },
+    {
+      "sport": "underwater_hockey",
+      "level": 2,
+      "text": "A player dismissed for the rest of the match must go to the designated penalty box.",
+      "source": "underwater_hockey.pdf",
+      "ref": "Rule 17.4.1.1.1"
+    },
+    {
+      "sport": "underwater_hockey",
+      "level": 3,
+      "text": "The [implement] must not extend beyond the hand by more than 25 mm.",
+      "source": "underwater_hockey.pdf",
+      "ref": "Rule 11.3.7.3"
+    },
+    {
+      "sport": "underwater_hockey",
+      "level": 4,
+      "text": "At a penalty shot, attacking players may immediately submerge and move to any legal position.",
+      "source": "underwater_hockey.pdf",
+      "ref": "Rule 17.8.4.1"
+    },
+    {
+      "sport": "underwater_hockey",
+      "level": 5,
+      "text": "Played on the pool floor, where a defender at a penalty shot tries to push the puck back across a 6 m line.",
+      "source": "underwater_hockey.pdf",
+      "ref": "Rule 17.8.4.6"
+    },
+    {
+      "sport": "polocrosse",
+      "level": 1,
+      "text": "There's no limit on the height of the animals ridden, as long as they're fit and safe.",
+      "source": "polocrosse.pdf",
+      "ref": "Rule 1"
+    },
+    {
+      "sport": "polocrosse",
+      "level": 2,
+      "text": "An umpire may sideline a player for at most three minutes of playing time.",
+      "source": "polocrosse.pdf",
+      "ref": "Penalties: exclusion"
+    },
+    {
+      "sport": "polocrosse",
+      "level": 3,
+      "text": "Roping saddles, or any saddle with a horn, may not be used.",
+      "source": "polocrosse.pdf",
+      "ref": "Rule 22(g)"
+    },
+    {
+      "sport": "polocrosse",
+      "level": 4,
+      "text": "The umpire won't stop play for a broken or dropped racquet unless it's dangerous.",
+      "source": "polocrosse.pdf",
+      "ref": "Rule 45(d)"
+    },
+    {
+      "sport": "polocrosse",
+      "level": 5,
+      "text": "Played on horseback, where a wild or dangerous swing of the racquet is penalised.",
+      "source": "polocrosse.pdf",
+      "ref": "Rule 36"
+    },
+    {
+      "sport": "rounders",
+      "level": 1,
+      "text": "The bat must be a round staff no more than 70 mm thick.",
+      "source": "rounders.pdf",
+      "ref": "Rule 5"
+    },
+    {
+      "sport": "rounders",
+      "level": 2,
+      "text": "Teams have no more than nine players each.",
+      "source": "rounders.pdf",
+      "ref": "Rule 8(a)"
+    },
+    {
+      "sport": "rounders",
+      "level": 3,
+      "text": "The player delivering the ball may take no more than two steps.",
+      "source": "rounders.pdf",
+      "ref": "Rule 9"
+    },
+    {
+      "sport": "rounders",
+      "level": 4,
+      "text": "A fielder may not stand on a base or on the lines between bases.",
+      "source": "rounders.pdf",
+      "ref": "Rule 23"
+    },
+    {
+      "sport": "rounders",
+      "level": 5,
+      "text": "Irish bat-and-ball game played with a hurling ball, where a batter may not stand in front of home base.",
+      "source": "rounders.pdf",
+      "ref": "Rules 6 and 9"
+    },
+    {
+      "sport": "korfball",
+      "level": 1,
+      "text": "A restart must be taken within four seconds.",
+      "source": "korfball.pdf",
+      "ref": "Rule 7.3"
+    },
+    {
+      "sport": "korfball",
+      "level": 2,
+      "text": "In certain situations, the shot clock resets to 25 seconds.",
+      "source": "korfball.pdf",
+      "ref": "Rule 6.16"
+    },
+    {
+      "sport": "korfball",
+      "level": 3,
+      "text": "You can't run with the ball: you must release it before your foot lands again.",
+      "source": "korfball.pdf",
+      "ref": "Rule 6.1"
+    },
+    {
+      "sport": "korfball",
+      "level": 4,
+      "text": "A penalty is taken by the attacker who was denied a free scoring chance.",
+      "source": "korfball.pdf",
+      "ref": "Rule 7.5"
+    },
+    {
+      "sport": "korfball",
+      "level": 5,
+      "text": "Mixed teams shoot at a basket on a tall post, and drawn matches can go to a golden goal.",
+      "source": "korfball.pdf",
+      "ref": "Rule 5.3"
+    },
+    {
+      "sport": "tchoukball",
+      "level": 1,
+      "text": "Jewellery that could cause injury, like rings or brooches, is forbidden.",
+      "source": "tchoukball.pdf",
+      "ref": "Rule 4.3.4"
+    },
+    {
+      "sport": "tchoukball",
+      "level": 2,
+      "text": "A match is three periods of 15 minutes.",
+      "source": "tchoukball.pdf",
+      "ref": "Rule 6.1"
+    },
+    {
+      "sport": "tchoukball",
+      "level": 3,
+      "text": "Holding the ball for more than 3 seconds is a fault.",
+      "source": "tchoukball.pdf",
+      "ref": "Rule 7.1.3"
+    },
+    {
+      "sport": "tchoukball",
+      "level": 4,
+      "text": "After a breakdown in play, at least one pass must be made before shooting at a frame.",
+      "source": "tchoukball.pdf",
+      "ref": "Rule 7.2.4"
+    },
+    {
+      "sport": "tchoukball",
+      "level": 5,
+      "text": "The attacking team scores if the ball rebounds off the frame and touches a defender inside the forbidden zone.",
+      "source": "tchoukball.pdf",
+      "ref": "Rule 8.1.4"
+    },
+    {
+      "sport": "kin_ball",
+      "level": 1,
+      "text": "When stepping in, the referee should stand about two metres from the ball.",
+      "source": "kin_ball_spanish.pdf",
+      "ref": "Rule 10.1"
+    },
+    {
+      "sport": "kin_ball",
+      "level": 2,
+      "text": "A 2-minute break is allowed between periods.",
+      "source": "kin_ball_spanish.pdf",
+      "ref": "Rule 5.1"
+    },
+    {
+      "sport": "kin_ball",
+      "level": 3,
+      "text": "At a kick-off or restart, the team has 5 seconds to hit the ball.",
+      "source": "kin_ball_spanish.pdf",
+      "ref": "Rule 7"
+    },
+    {
+      "sport": "kin_ball",
+      "level": 4,
+      "text": "A hit must send the ball at least 1.8 m (6 ft) measured along the ground, or it's a short-hit fault.",
+      "source": "kin_ball_spanish.pdf",
+      "ref": "Rule 7.6"
+    },
+    {
+      "sport": "kin_ball",
+      "level": 5,
+      "text": "Three teams share one giant ball, and a defender within 1.83 m who blocks the hitter commits illegal defence.",
+      "source": "kin_ball_spanish.pdf",
+      "ref": "Rule 7.15"
+    },
+    {
+      "sport": "goalball",
+      "level": 1,
+      "text": "Referees may not touch players without first announcing their intent.",
+      "source": "goalball.pdf",
+      "ref": "Rule 41.2"
+    },
+    {
+      "sport": "goalball",
+      "level": 2,
+      "text": "When the 15-second audible signal sounds, the referees call out '15 seconds'.",
+      "source": "goalball.pdf",
+      "ref": "Rule 15.7"
+    },
+    {
+      "sport": "goalball",
+      "level": 3,
+      "text": "Players must not be re-orientated by people on the bench, only by the referee or goal judge.",
+      "source": "goalball.pdf",
+      "ref": "Rule 28.2"
+    },
+    {
+      "sport": "goalball",
+      "level": 4,
+      "text": "A throw must touch the court at least once on or before the High Ball Line, 6 m out.",
+      "source": "goalball.pdf",
+      "ref": "Rule 24.1"
+    },
+    {
+      "sport": "goalball",
+      "level": 5,
+      "text": "Three players a side, and during sudden-death extra throws, nobody may touch their eyeshades.",
+      "source": "goalball.pdf",
+      "ref": "Rule 13.3"
+    },
+    {
+      "sport": "quadball",
+      "level": 1,
+      "text": "A one-minute penalty expires once the player has spent one minute of game time in the penalty box.",
+      "source": "quadball.pdf",
+      "ref": "Rule 9.4.1"
+    },
+    {
+      "sport": "quadball",
+      "level": 2,
+      "text": "Disregarding an official's directive earns a yellow card.",
+      "source": "quadball.pdf",
+      "ref": "Rule 10.3.1"
+    },
+    {
+      "sport": "quadball",
+      "level": 3,
+      "text": "Incidental contact with a dodgeball being held by another player is not penalised.",
+      "source": "quadball.pdf",
+      "ref": "Rule 5.2.3"
+    },
+    {
+      "sport": "quadball",
+      "level": 4,
+      "text": "Illegally pursuing the flag sends a player back to touch their hoops.",
+      "source": "quadball.pdf",
+      "ref": "Rule 8.4.3"
+    },
+    {
+      "sport": "quadball",
+      "level": 5,
+      "text": "Beaters throw dodgeballs, and there are special interference rules for the third dodgeball.",
+      "source": "quadball.pdf",
+      "ref": "Rule 5.5.1"
+    },
+    {
+      "sport": "wheelchair_rugby",
+      "level": 1,
+      "text": "Anti-tip devices must have two wheels at least 40 cm apart, centre to centre.",
+      "source": "wheelchair_rugby.pdf",
+      "ref": "Article 28"
+    },
+    {
+      "sport": "wheelchair_rugby",
+      "level": 2,
+      "text": "The posts marking the scoring line must be at least 45 cm high.",
+      "source": "wheelchair_rugby.pdf",
+      "ref": "Article 8"
+    },
+    {
+      "sport": "wheelchair_rugby",
+      "level": 3,
+      "text": "A player touching the ball may not touch the floor with any part of their body.",
+      "source": "wheelchair_rugby.pdf",
+      "ref": "Article 78"
+    },
+    {
+      "sport": "wheelchair_rugby",
+      "level": 4,
+      "text": "If the total player ratings on court, including the penalty box, exceed the maximum, it's a technical foul.",
+      "source": "wheelchair_rugby.pdf",
+      "ref": "Article 103"
+    },
+    {
+      "sport": "wheelchair_rugby",
+      "level": 5,
+      "text": "Each possession is timed by a 'Forty Second Operator' in this four-a-side wheelchair sport.",
+      "source": "wheelchair_rugby.pdf",
+      "ref": "Articles 40 and 52"
+    },
+    {
+      "sport": "racquetball",
+      "level": 1,
+      "text": "Players may not play in socks only or in bare feet.",
+      "source": "racquetball.pdf",
+      "ref": "Rule 2.5"
+    },
+    {
+      "sport": "racquetball",
+      "level": 2,
+      "text": "Injured players get a total of 15 minutes of rest across the whole match.",
+      "source": "racquetball.pdf",
+      "ref": "Rule 3.16"
+    },
+    {
+      "sport": "racquetball",
+      "level": 3,
+      "text": "An equipment timeout may not exceed 30 seconds.",
+      "source": "racquetball.pdf",
+      "ref": "Rule 10.6"
+    },
+    {
+      "sport": "racquetball",
+      "level": 4,
+      "text": "In singles, the players share 15 minutes of warm-up time on court.",
+      "source": "racquetball.pdf",
+      "ref": "Rule 10.9(c)"
+    },
+    {
+      "sport": "racquetball",
+      "level": 5,
+      "text": "Interference in an enclosed court is either a replay hinder or, if it blocks a shot to the front wall, a penalty hinder.",
+      "source": "racquetball.pdf",
+      "ref": "Rules 3.14–3.15"
+    },
+    {
+      "sport": "sepak_takraw",
+      "level": 1,
+      "text": "Player numbers on the back must be at least 19 cm tall.",
+      "source": "sepak_takraw.pdf",
+      "ref": "Rule 11"
+    },
+    {
+      "sport": "sepak_takraw",
+      "level": 2,
+      "text": "If both sides reach 20–20, the set extends to a maximum of 25 points.",
+      "source": "sepak_takraw.pdf",
+      "ref": "Rule 3"
+    },
+    {
+      "sport": "sepak_takraw",
+      "level": 3,
+      "text": "The server has fifteen seconds to be ready with a foot in the service circle.",
+      "source": "sepak_takraw.pdf",
+      "ref": "Rule 6"
+    },
+    {
+      "sport": "sepak_takraw",
+      "level": 4,
+      "text": "A team left with fewer than three players can't continue the game.",
+      "source": "sepak_takraw.pdf",
+      "ref": "Rule 6"
+    },
+    {
+      "sport": "sepak_takraw",
+      "level": 5,
+      "text": "An injured player gets up to five minutes in this game of kicking a ball over a net.",
+      "source": "sepak_takraw.pdf",
+      "ref": "Rule 9"
+    },
+    {
+      "sport": "teqball",
+      "level": 1,
+      "text": "The coin used for the toss must be at least 25 mm in diameter.",
+      "source": "teqball.pdf",
+      "ref": "Rule 4.5.2.2"
+    },
+    {
+      "sport": "teqball",
+      "level": 2,
+      "text": "The ball's circumference must be at least 67 cm.",
+      "source": "teqball.pdf",
+      "ref": "Rule 3.1.3"
+    },
+    {
+      "sport": "teqball",
+      "level": 3,
+      "text": "It's forbidden to hold the ball between two body parts.",
+      "source": "teqball.pdf",
+      "ref": "Rule 9.1.3"
+    },
+    {
+      "sport": "teqball",
+      "level": 4,
+      "text": "In doubles, you may not return the ball with the same body part you used on your previous return.",
+      "source": "teqball.pdf",
+      "ref": "Rule 24.1.2"
+    },
+    {
+      "sport": "teqball",
+      "level": 5,
+      "text": "Played on a curved table, and during time-outs the players may not leave the court.",
+      "source": "teqball.pdf",
+      "ref": "Rule 29.3.3"
+    },
+    {
+      "sport": "gaelic_handball",
+      "level": 1,
+      "text": "The ball must weigh between 61 and 62 grams.",
+      "source": "gaelic_handball.pdf",
+      "ref": "Section A (Ball)"
+    },
+    {
+      "sport": "gaelic_handball",
+      "level": 2,
+      "text": "Each time-out may not exceed thirty seconds.",
+      "source": "gaelic_handball.pdf",
+      "ref": "Time-outs"
+    },
+    {
+      "sport": "gaelic_handball",
+      "level": 3,
+      "text": "The receiver must be in the ready position within 10 seconds.",
+      "source": "gaelic_handball.pdf",
+      "ref": "Delays"
+    },
+    {
+      "sport": "gaelic_handball",
+      "level": 4,
+      "text": "Deliberately wetting your gloves is penalised.",
+      "source": "gaelic_handball.pdf",
+      "ref": "Equipment: gloves"
+    },
+    {
+      "sport": "gaelic_handball",
+      "level": 5,
+      "text": "Strike the ball with your hand against the front wall, and a ball taken on the second hop is dead.",
+      "source": "gaelic_handball.pdf",
+      "ref": "Playing Rules"
+    },
+    {
+      "sport": "boccia",
+      "level": 1,
+      "text": "Taking a communication device onto the court earns a yellow card and a penalty ball.",
+      "source": "boccia.pdf",
+      "ref": "Rule 15.9"
+    },
+    {
+      "sport": "boccia",
+      "level": 2,
+      "text": "Warm-up ends when both sides have played all their balls, or after 2 minutes.",
+      "source": "boccia.pdf",
+      "ref": "Rule 10.1.1"
+    },
+    {
+      "sport": "boccia",
+      "level": 3,
+      "text": "Balls must show no visible scuff marks or abrasions beyond normal use.",
+      "source": "boccia.pdf",
+      "ref": "Rule 5.2"
+    },
+    {
+      "sport": "boccia",
+      "level": 4,
+      "text": "A ramp may not include any mechanical device for sighting or aiming.",
+      "source": "boccia.pdf",
+      "ref": "Rule 4.1.3"
+    },
+    {
+      "sport": "boccia",
+      "level": 5,
+      "text": "Each athlete brings red or blue balls into the call room, and each side brings a white jack ball.",
+      "source": "boccia.pdf",
+      "ref": "Rule 2.3"
+    },
+    {
+      "sport": "canoe_polo",
+      "level": 1,
+      "text": "Blades with metal tips are not allowed.",
+      "source": "canoe_polo.pdf",
+      "ref": "Rule 16.6"
+    },
+    {
+      "sport": "canoe_polo",
+      "level": 2,
+      "text": "The ends of every boat must have a radius of at least 100 mm.",
+      "source": "canoe_polo.pdf",
+      "ref": "Equipment rules"
+    },
+    {
+      "sport": "canoe_polo",
+      "level": 3,
+      "text": "Teams must submit their numerical entries at least eight weeks before an international competition.",
+      "source": "canoe_polo.pdf",
+      "ref": "Rule 13.6.5"
+    },
+    {
+      "sport": "canoe_polo",
+      "level": 4,
+      "text": "Paddle blades must have integrated padding along their edges.",
+      "source": "canoe_polo.pdf",
+      "ref": "Rule 16.6.3"
+    },
+    {
+      "sport": "canoe_polo",
+      "level": 5,
+      "text": "Five a side in kayaks, and the most serious fouls bring a red card and ejection.",
+      "source": "canoe_polo.pdf",
+      "ref": "Rule 20"
+    },
+    {
+      "sport": "judo",
+      "level": 1,
+      "text": "At the end of a contest, constant screaming and cheering aren't allowed.",
+      "source": "judo_blind.pdf",
+      "ref": "IBSA Rule 19"
+    },
+    {
+      "sport": "judo",
+      "level": 2,
+      "text": "An absent athlete is called twice, 30 seconds apart. Thirty seconds after the second call, the opponent wins.",
+      "source": "judo_blind.pdf",
+      "ref": "IBSA Rule 21"
+    },
+    {
+      "sport": "judo",
+      "level": 3,
+      "text": "In the visually impaired version, you may not assist your grip with your other hand.",
+      "source": "judo_blind.pdf",
+      "ref": "IBSA Rule 6"
+    },
+    {
+      "sport": "judo",
+      "level": 4,
+      "text": "'Hajime' and penalties are always given from the starting position.",
+      "source": "judo_blind.pdf",
+      "ref": "IBSA Rule 17"
+    },
+    {
+      "sport": "judo",
+      "level": 5,
+      "text": "Grip-based Olympic martial art, where illegal grips are punished with a shido.",
+      "source": "judo_blind.pdf",
+      "ref": "IBSA Rule 11"
+    },
+    {
+      "sport": "kabaddi",
+      "level": 1,
+      "text": "Officials of the national federation must retire from officiating at 58.",
+      "source": "kabaddi.pdf",
+      "ref": "Officiating duties"
+    },
+    {
+      "sport": "kabaddi",
+      "level": 2,
+      "text": "During the last 5 minutes of the second half, the referee announces the time every minute.",
+      "source": "kabaddi.pdf",
+      "ref": "Duties of the referee"
+    },
+    {
+      "sport": "kabaddi",
+      "level": 3,
+      "text": "Two yellow cards mean the next card is red, and a yellow card means a 2-minute suspension.",
+      "source": "kabaddi.pdf",
+      "ref": "Cards"
+    },
+    {
+      "sport": "kabaddi",
+      "level": 4,
+      "text": "A suspended player's two minutes only start once they're back on court after being revived.",
+      "source": "kabaddi.pdf",
+      "ref": "Cards (note)"
+    },
+    {
+      "sport": "kabaddi",
+      "level": 5,
+      "text": "In this raiding game, a green card is a warning, and two greens mean the next card is yellow.",
+      "source": "kabaddi.pdf",
+      "ref": "Cards"
+    },
+    {
+      "sport": "kho_kho",
+      "level": 1,
+      "text": "A foul isn't declared if it causes no disadvantage to the defenders.",
+      "source": "kho_kho.pdf",
+      "ref": "Rule 27"
+    },
+    {
+      "sport": "kho_kho",
+      "level": 2,
+      "text": "There's a 6-minute interval after each innings, and a shorter break between turns.",
+      "source": "kho_kho.pdf",
+      "ref": "Duration rules"
+    },
+    {
+      "sport": "kho_kho",
+      "level": 3,
+      "text": "An attacker may not go into the other half of the court except as the rules allow.",
+      "source": "kho_kho.pdf",
+      "ref": "Rule 17"
+    },
+    {
+      "sport": "kho_kho",
+      "level": 4,
+      "text": "Each innings consists of a chasing turn and a running turn.",
+      "source": "kho_kho.pdf",
+      "ref": "Rule 2"
+    },
+    {
+      "sport": "kho_kho",
+      "level": 5,
+      "text": "Indian chasing game where attackers try to tag defenders, who run in batches.",
+      "source": "kho_kho.pdf",
+      "ref": "Official Rulebook"
+    },
+    {
+      "sport": "roller_derby",
+      "level": 1,
+      "text": "Penalties must be called loudly enough for the penalised player to hear.",
+      "source": "roller_derby.pdf",
+      "ref": "Rule 5.4"
+    },
+    {
+      "sport": "roller_derby",
+      "level": 2,
+      "text": "A player waiting in the queue may return to the penalty box once there's space.",
+      "source": "roller_derby.pdf",
+      "ref": "Rule 4.4.1"
+    },
+    {
+      "sport": "roller_derby",
+      "level": 3,
+      "text": "A player who doesn't immediately give up a teammate's helmet cover can be penalised.",
+      "source": "roller_derby.pdf",
+      "ref": "Rule 2.2.4"
+    },
+    {
+      "sport": "roller_derby",
+      "level": 4,
+      "text": "Only the jammer and the pivot may control the star. Other skaters may not.",
+      "source": "roller_derby.pdf",
+      "ref": "Rule 2.2.4"
+    },
+    {
+      "sport": "roller_derby",
+      "level": 5,
+      "text": "The jammer may pass the star to the pivot, who then becomes the scoring skater.",
+      "source": "roller_derby.pdf",
+      "ref": "Rule 2.2.4 (Passing the Star)"
+    },
+    {
+      "sport": "mallakhamb",
+      "level": 1,
+      "text": "Different apparatus must be spaced at least 10 metres apart.",
+      "source": "mallakhamb.pdf",
+      "ref": "Rule 8.02"
+    },
+    {
+      "sport": "mallakhamb",
+      "level": 2,
+      "text": "Competitors get 3 minutes to warm up and get ready.",
+      "source": "mallakhamb.pdf",
+      "ref": "Rule 9.01"
+    },
+    {
+      "sport": "mallakhamb",
+      "level": 3,
+      "text": "All hold positions must be held for 2 seconds.",
+      "source": "mallakhamb.pdf",
+      "ref": "Rule 7.01"
+    },
+    {
+      "sport": "mallakhamb",
+      "level": 4,
+      "text": "There's no minimum time limit for the compulsory set.",
+      "source": "mallakhamb.pdf",
+      "ref": "Rule 3.13"
+    },
+    {
+      "sport": "mallakhamb",
+      "level": 5,
+      "text": "Routines on a wooden pole or rope, where an optional set shorter than 60 or longer than 90 seconds is penalised.",
+      "source": "mallakhamb.pdf",
+      "ref": "Rule 4.03"
+    },
+    {
+      "sport": "bridge",
+      "level": 1,
+      "text": "The correction period for scoring errors expires 30 minutes after the official scores are made available.",
+      "source": "bridge.pdf",
+      "ref": "Law 79C"
+    },
+    {
+      "sport": "bridge",
+      "level": 2,
+      "text": "Calls and plays must be made without special emphasis, mannerism or inflection.",
+      "source": "bridge.pdf",
+      "ref": "Law 73"
+    },
+    {
+      "sport": "bridge",
+      "level": 3,
+      "text": "A defender's card exposed by accident may become a 'penalty card' that must be played at the first legal chance.",
+      "source": "bridge.pdf",
+      "ref": "Law 50"
+    },
+    {
+      "sport": "bridge",
+      "level": 4,
+      "text": "If a defender leads out of turn, declarer may accept the lead or require it to be withdrawn.",
+      "source": "bridge.pdf",
+      "ref": "Laws 53–56"
+    },
+    {
+      "sport": "bridge",
+      "level": 5,
+      "text": "Partnership card game where declarer plays both hands, and the same deals are replayed at other tables.",
+      "source": "bridge.pdf",
+      "ref": "Laws of Duplicate (2017)"
+    }
+  ]
+}
