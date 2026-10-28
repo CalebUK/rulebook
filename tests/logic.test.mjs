@@ -3,7 +3,7 @@ import assert from "node:assert/strict";
 import { readFileSync } from "node:fs";
 import {
   normalize, dayNumber, pickDaily, buildSearchIndex, searchSports, exactMatches,
-  judgeGuess, shareText, updateStats, emptyStats, maskRef,
+  judgeGuess, shareText, updateStats, emptyStats, maskRef, pickPractice, feedbackUrl,
 } from "../src/logic.js";
 
 const load = (p) => JSON.parse(readFileSync(new URL(p, import.meta.url), "utf8"));
@@ -92,4 +92,25 @@ test("streaks continue only on consecutive wins", () => {
   s = updateStats(s, 9, false, 5);
   assert.deepEqual([s.played, s.won, s.streak, s.maxStreak], [4, 3, 0, 2]);
   assert.deepEqual(s.distribution, [1, 1, 0, 1, 0]);
+});
+
+test("practice picks from the right pool and avoids recent sports", () => {
+  const daily = new Set(dailyPool.map((s) => s.id));
+  const avoid = dailyPool.slice(0, 51).map((s) => s.id);
+  for (let i = 0; i < 50; i++) {
+    const p = pickPractice(sports, clues, { avoid });
+    assert.ok(daily.has(p.sportId));
+    assert.equal(p.sportId, dailyPool[51].id);
+    assert.deepEqual(p.clues.map((c) => c.level), [1, 2, 3, 4, 5]);
+  }
+  const seen = new Set(Array.from({ length: 400 }, () => pickPractice(sports, clues, { includeDeep: true }).sportId));
+  assert.ok([...seen].some((id) => byId.get(id).pool === "deep"));
+});
+
+test("feedback link pre-fills a GitHub issue", () => {
+  const clue = clues.find((c) => c.id === "soccer-1a");
+  const url = new URL(feedbackUrl("https://github.com/x/y", clue, "Football (soccer)", "Practice"));
+  assert.equal(url.pathname, "/x/y/issues/new");
+  assert.equal(url.searchParams.get("title"), "Clue feedback: soccer-1a");
+  assert.ok(url.searchParams.get("body").includes(clue.text));
 });

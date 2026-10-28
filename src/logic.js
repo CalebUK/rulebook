@@ -70,6 +70,36 @@ export function pickDaily(sports, clues, day) {
   return { sportId, clues: picked };
 }
 
+// A random practice puzzle. Sports in `avoid` (recent answers, today's daily) are skipped while
+// any others remain, so practice doesn't repeat itself or spoil the daily puzzle.
+export function pickPractice(sports, clues, { includeDeep = false, avoid = [], rand = Math.random } = {}) {
+  const pool = sports.filter((s) => includeDeep || s.pool === "daily").map((s) => s.id);
+  const fresh = pool.filter((id) => !avoid.includes(id));
+  const choices = fresh.length ? fresh : pool;
+  const sportId = choices[Math.floor(rand() * choices.length)];
+  const picked = [];
+  for (let level = 1; level <= MAX_GUESSES; level++) {
+    const options = clues.filter((c) => c.sport === sportId && c.level === level);
+    picked.push(options[Math.floor(rand() * options.length)]);
+  }
+  return { sportId, clues: picked };
+}
+
+// Prefilled "new issue" link so players can report a clue that's too easy, too hard or wrong.
+export function feedbackUrl(repoUrl, clue, sportName, context) {
+  const title = `Clue feedback: ${clue.id}`;
+  const body = [
+    `**Clue:** ${clue.id} (${sportName}, level ${clue.level})`,
+    `> ${clue.text}`,
+    `**Rule:** ${clue.ref} · ${clue.source}`,
+    `**Context:** ${context}`,
+    "",
+    "**What's wrong?** (too easy / too hard / gives the sport away / inaccurate / confusing)",
+    "",
+  ].join("\n");
+  return `${repoUrl}/issues/new?${new URLSearchParams({ title, body, labels: "clue-feedback" })}`;
+}
+
 export function buildSearchIndex(sports) {
   return sports.map((s) => ({
     sport: s,

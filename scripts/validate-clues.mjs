@@ -13,7 +13,11 @@ const warn = (c, msg) => problems.push(`${c.sport} L${c.level}: ${msg}\n    "${c
 const escape = (s) => s.replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
 const has = (text, word) => new RegExp(`(^|[^\\p{L}])${escape(word)}([^\\p{L}]|$)`, "iu").test(text);
 
+const seenIds = new Set();
 for (const c of clues) {
+  if (!c.id) warn(c, "missing id");
+  else if (seenIds.has(c.id)) warn(c, `duplicate id ${c.id}`);
+  seenIds.add(c.id);
   const sport = byId.get(c.sport);
   if (!sport) { warn(c, "unknown sport id"); continue; }
   if (!(c.level >= 1 && c.level <= 5)) warn(c, "level must be 1-5");

@@ -35,7 +35,19 @@
     </button>
   </header>
 
+  <nav class="modes" aria-label="Game mode">
+    <button type="button" id="mode-daily" aria-pressed="true">Daily</button>
+    <button type="button" id="mode-practice" aria-pressed="false">Practice</button>
+  </nav>
+
   <main class="game" id="game">
+    <div class="practice-bar" id="practice-bar" hidden>
+      <label class="toggle" for="deep-cuts">
+        <input type="checkbox" id="deep-cuts">
+        <span>Include deep cuts <span class="hint">(30 niche sports like bandy and kabaddi)</span></span>
+      </label>
+      <button type="button" class="link-btn" id="skip-btn">New puzzle</button>
+    </div>
     <div class="pips" id="pips" aria-label="Guesses used"></div>
     <p class="loading" id="loading">Opening the rulebook…</p>
     <ol class="clues" id="clues" aria-live="polite"></ol>
@@ -68,12 +80,12 @@
       <li>Every wrong guess reveals another rule, each one easier than the last.</li>
       <li>You have five guesses. A <span class="tag close">close</span> guess is in the same family as the answer, like ice hockey when the answer is field hockey.</li>
     </ol>
-    <p class="help-note">Words in <span class="redact">brackets</span> have been swapped out because they'd give the game away. A new puzzle arrives every day at midnight.</p>
+    <p class="help-note">Words in <span class="redact">brackets</span> have been swapped out because they'd give the game away. A new daily puzzle arrives at midnight, and Practice gives you unlimited extra puzzles. If a rule seems wrong or unfair, use "Flag this rule" on the answer screen.</p>
     <button class="primary" data-close>Got it</button>
   </dialog>
 
   <dialog id="stats-dialog" aria-labelledby="stats-title">
-    <h2 id="stats-title">Statistics</h2>
+    <h2 id="stats-title">Daily statistics</h2>
     <div class="stat-grid" id="stat-grid"></div>
     <h3>Guess distribution</h3>
     <div class="dist" id="dist"></div>

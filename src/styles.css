@@ -254,3 +254,29 @@ dialog [data-close] { width: 100%; margin-top: 16px; }
 }
 .credits p { margin: 8px 0 0; max-width: 65ch; }
 .credits a { color: var(--ink-soft); }
+
+.modes {
+  display: flex; gap: 4px; max-width: 528px; margin: 12px auto 0; padding: 4px;
+  background: var(--surface-2); border-radius: 999px;
+}
+.modes button {
+  flex: 1; height: 36px; border: none; border-radius: 999px;
+  background: transparent; color: var(--ink-soft); font-weight: 600;
+}
+.modes button[aria-pressed="true"] { background: var(--surface); color: var(--ink); box-shadow: var(--shadow); }
+
+.practice-bar {
+  display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 8px 16px;
+  margin-bottom: 14px; font-size: 0.88rem; color: var(--ink-soft);
+}
+.toggle { display: flex; align-items: center; gap: 8px; cursor: pointer; }
+.toggle input { width: 18px; height: 18px; accent-color: var(--accent); }
+.hint { color: var(--ink-faint); }
+.link-btn {
+  border: none; background: none; padding: 4px 0; color: var(--accent);
+  font-weight: 700; text-decoration: underline; text-underline-offset: 3px;
+}
+
+.rule-meta { display: flex; flex-wrap: wrap; justify-content: space-between; gap: 4px 12px; }
+.flag { font-size: 0.8rem; color: var(--ink-faint); }
+.flag:hover { color: var(--wrong); }
