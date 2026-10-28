@@ -2,6 +2,8 @@
 
 Guess the sport from its most obscure rules. You get five guesses, and every miss reveals an easier rule.
 
+**Play it:** https://calebuk.github.io/rulebook/ (GitHub Pages serves the `main` branch, and every push to `main` updates the site within about a minute.)
+
 ## Play locally
 ```bash
 npm start
