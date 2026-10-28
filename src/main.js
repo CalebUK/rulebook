@@ -1,5 +1,5 @@
 import {
-  MAX_GUESSES, localDateString, dayNumber, pickDaily, buildSearchIndex, searchSports,
+  MAX_GUESSES, SITE_URL, localDateString, dayNumber, pickDaily, buildSearchIndex, searchSports,
   exactMatches, judgeGuess, shareText, updateStats, emptyStats, maskRef,
 } from "./logic.js";
 
@@ -241,7 +241,7 @@ function openStats() {
 
 // Some hosts (e.g. embedded viewers) refuse clipboard writes, so fall back to a selected text box.
 async function share() {
-  const text = shareText(puzzleNumber, results(), game.status === "won");
+  const text = shareText(puzzleNumber, results(), game.status === "won", SITE_URL);
   try {
     await navigator.clipboard.writeText(text);
     toast("Copied to clipboard");

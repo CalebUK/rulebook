@@ -22,6 +22,7 @@ On the published page, the `?date=` test mode isn't available, and each player's
 | Path | What it is |
 |---|---|
 | `index.html`, `src/` | The game: `logic.js` (pure rules, picks and matching), `main.js` (UI), `styles.css` |
+| `assets/` | Icon and the link-preview image. Redraw the PNGs with `powershell -File scripts/make-images.ps1` (Windows) |
 | `data/sports.json` | 82 sports: names, aliases, families (drive "close" feedback), daily or deep-cut pool, giveaway words |
 | `data/clues.json` | 820 clues, two per difficulty level per sport, each with its rulebook source and rule reference |
 | `rulebooks/`, `rulebooks_text/` | The source rulebooks and their text extracts (not served by the dev server) |

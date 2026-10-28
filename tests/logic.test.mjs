@@ -80,6 +80,7 @@ test("close means same family", () => {
 test("share text shows squares and score", () => {
   assert.equal(shareText(3, ["wrong", "close", "correct"], true), "Rulebook #3 3/5\n🟥🟨🟩⬜⬜");
   assert.equal(shareText(3, ["wrong", "wrong", "wrong", "wrong", "wrong"], false), "Rulebook #3 X/5\n🟥🟥🟥🟥🟥");
+  assert.equal(shareText(1, ["correct"], true, "https://x.test/"), "Rulebook #1 1/5\n🟩⬜⬜⬜⬜\nhttps://x.test/");
 });
 
 test("streaks continue only on consecutive wins", () => {

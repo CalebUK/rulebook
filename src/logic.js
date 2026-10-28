@@ -2,6 +2,7 @@
 
 export const LAUNCH_DATE = "2026-10-28";
 export const MAX_GUESSES = 5;
+export const SITE_URL = "https://calebuk.github.io/rulebook/";
 
 export function normalize(text) {
   return text
@@ -140,10 +141,10 @@ export function judgeGuess(guess, answer) {
   return guess.family === answer.family ? "close" : "wrong";
 }
 
-export function shareText(puzzleNumber, results, won) {
+export function shareText(puzzleNumber, results, won, url = "") {
   const squares = { wrong: "🟥", close: "🟨", correct: "🟩" };
   const row = results.map((r) => squares[r]).join("") + "⬜".repeat(MAX_GUESSES - results.length);
-  return `Rulebook #${puzzleNumber} ${won ? results.length : "X"}/${MAX_GUESSES}\n${row}`;
+  return `Rulebook #${puzzleNumber} ${won ? results.length : "X"}/${MAX_GUESSES}\n${row}${url ? `\n${url}` : ""}`;
 }
 
 // Streak continues only when yesterday's puzzle was also won.

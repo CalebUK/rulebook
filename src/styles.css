@@ -69,6 +69,7 @@
 }
 
 * { box-sizing: border-box; }
+[hidden] { display: none !important; }
 
 body {
   margin: 0;
@@ -246,3 +247,10 @@ dialog [data-close] { width: 100%; margin-top: 16px; }
   font-variant-numeric: tabular-nums;
 }
 .clue-ref .redact { font-size: 0.9em; }
+
+.credits {
+  max-width: 528px; margin: 0 auto; padding-block: 8px calc(28px + env(safe-area-inset-bottom, 0px));
+  border-top: 1px solid var(--line); color: var(--ink-faint); font-size: 0.78rem; line-height: 1.5;
+}
+.credits p { margin: 8px 0 0; max-width: 65ch; }
+.credits a { color: var(--ink-soft); }
